@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the only official study guide for the citizenship test?",
+    "options": ["Canada at a Glance", "Discover Canada", "The Charter Handbook", "How Canadians Govern"],
+    "correctIndex": 1,
+    "explanation": "The guide states that Discover Canada is the official study guide used to prepare for the citizenship test.",
+    "topic": "citizenship-process"
+  },
+  {
+    "id": "q2",
+    "question": "What age group must usually take the citizenship test?",
+    "options": ["18 to 54", "16 to 60", "21 to 65", "All adults"],
+    "correctIndex": 0,
+    "explanation": "The guide explains that applicants between 18 and 54 are expected to demonstrate knowledge and language ability.",
+    "topic": "citizenship-process"
+  },
+  {
+    "id": "q3",
+    "question": "Applicants age 55 and over are generally exempt from which requirement?",
+    "options": ["Paying fees", "Submitting identity documents", "Writing the citizenship test", "Taking the oath"],
+    "correctIndex": 2,
+    "explanation": "The guide says adult applicants 55 years of age and over do not need to write the citizenship test.",
+    "topic": "citizenship-process"
+  },
+  {
+    "id": "q4",
+    "question": "What does the Oath of Citizenship include?",
+    "options": ["A promise to pay higher taxes", "A promise to be faithful to the Sovereign and observe Canadian laws", "A promise to serve in the military", "A promise to move to Ottawa"],
+    "correctIndex": 1,
+    "explanation": "The oath includes allegiance to the Sovereign and a promise to faithfully observe the laws of Canada.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q5",
+    "question": "Which rights are recognized in the Oath wording?",
+    "options": ["Corporate rights", "Provincial treaty rights only", "Aboriginal and treaty rights of First Nations, Inuit and Metis peoples", "Private property rights only"],
+    "correctIndex": 2,
+    "explanation": "The oath text explicitly recognizes and affirms Aboriginal and treaty rights of First Nations, Inuit and Metis peoples.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q6",
+    "question": "What is one fundamental freedom listed in the guide?",
+    "options": ["Freedom of trade tariffs", "Freedom of peaceful assembly", "Freedom from elections", "Freedom to ignore laws"],
+    "correctIndex": 1,
+    "explanation": "Freedom of peaceful assembly is one of the four fundamental freedoms described.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q7",
+    "question": "What does habeas corpus protect?",
+    "options": ["The right to vote at 16", "The right to challenge unlawful detention", "The right to own land", "The right to free legal aid"],
+    "correctIndex": 1,
+    "explanation": "Habeas corpus is the right to challenge unlawful detention by the state.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q8",
+    "question": "When was the Constitution amended to include the Charter of Rights and Freedoms?",
+    "options": ["1867", "1918", "1949", "1982"],
+    "correctIndex": 3,
+    "explanation": "The guide states that the Constitution was amended in 1982 to entrench the Charter.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q9",
+    "question": "What do mobility rights allow Canadians to do?",
+    "options": ["Vote in every country", "Live and work anywhere in Canada", "Avoid jury duty", "Become senators automatically"],
+    "correctIndex": 1,
+    "explanation": "Mobility rights include living and working anywhere in Canada and entering and leaving the country freely.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q10",
+    "question": "Which statement best reflects multiculturalism in the guide?",
+    "options": ["Only two cultures are recognized", "Cultural differences are discouraged", "Canadians respect pluralism and live in harmony", "Immigrants must abandon all traditions"],
+    "correctIndex": 2,
+    "explanation": "The guide presents multiculturalism as a fundamental characteristic of Canadian heritage and identity.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q11",
+    "question": "Is military service compulsory in Canada?",
+    "options": ["Yes, for all citizens", "Yes, for men only", "No, military service is not compulsory", "Only during elections"],
+    "correctIndex": 2,
+    "explanation": "The guide says there is no compulsory military service in Canada.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q12",
+    "question": "Which is a citizenship responsibility named in the guide?",
+    "options": ["Owning a home", "Obeying the law", "Joining a political party", "Learning a third language"],
+    "correctIndex": 1,
+    "explanation": "Obeying the law is listed as one of the key responsibilities of citizenship.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q13",
+    "question": "What does the rule of law mean in Canada?",
+    "options": ["Only government officials follow laws", "No person or group is above the law", "Laws apply only in cities", "Courts decide laws privately"],
+    "correctIndex": 1,
+    "explanation": "The rule of law means individuals and governments are regulated by law and no one is above it.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q14",
+    "question": "When called, what are citizens legally required to do?",
+    "options": ["Join the Senate", "Serve on a jury", "Donate to charity", "Move provinces"],
+    "correctIndex": 1,
+    "explanation": "Serving on a jury is a legal requirement when called and supports an impartial justice system.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q15",
+    "question": "What voting responsibility is highlighted in the guide?",
+    "options": ["Vote only in federal elections", "Vote only once in life", "Participate in federal, provincial or territorial, and local elections", "Vote for the ruling party"],
+    "correctIndex": 2,
+    "explanation": "The guide states that citizens should vote in federal, provincial or territorial, and local elections.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q16",
+    "question": "What is one way citizens help their community?",
+    "options": ["Ignoring local issues", "Volunteering time without pay", "Only helping family", "Avoiding public institutions"],
+    "correctIndex": 1,
+    "explanation": "Volunteering is described as an important contribution that helps people in need and strengthens communities.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q17",
+    "question": "What are citizens encouraged to protect for future generations?",
+    "options": ["Only private land", "Only city buildings", "Natural, cultural and architectural heritage", "Only federal offices"],
+    "correctIndex": 2,
+    "explanation": "The guide emphasizes protecting Canada's natural, cultural and architectural heritage.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q18",
+    "question": "In Canada, men and women are:",
+    "options": ["Equal under the law", "Equal only in some provinces", "Equal only in voting", "Not addressed by law"],
+    "correctIndex": 0,
+    "explanation": "The guide clearly states that men and women are equal under the law in Canada.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q19",
+    "question": "Which of the following is rejected by Canadian law as a barbaric cultural practice?",
+    "options": ["Community volunteering", "Forced marriage", "Religious worship", "Peaceful protest"],
+    "correctIndex": 1,
+    "explanation": "The guide explicitly says forced marriage and other forms of gender-based violence are severely punished.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q20",
+    "question": "What is one purpose of the citizenship test?",
+    "options": ["To measure job skills", "To assess knowledge of Canada and citizenship rights and responsibilities", "To test physical fitness", "To assign provinces"],
+    "correctIndex": 1,
+    "explanation": "The test assesses knowledge of Canada and understanding of citizenship rights and responsibilities.",
+    "topic": "citizenship-process"
+  },
+  {
+    "id": "q21",
+    "question": "Who are often described as Canada's three founding peoples in the guide?",
+    "options": ["English, French, and Aboriginal peoples", "Irish, Scottish, and Welsh", "Inuit, Metis, and Acadians", "British, Americans, and Vikings"],
+    "correctIndex": 0,
+    "explanation": "The guide highlights Aboriginal, French and British peoples as foundational to Canada.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q22",
+    "question": "The term Aboriginal peoples refers to which three groups?",
+    "options": ["First Nations, Inuit, and Metis", "Acadians, Quebecers, and Loyalists", "Dene, Cree, and Huron only", "Inuit, Francophones, and Anglophones"],
+    "correctIndex": 0,
+    "explanation": "The guide identifies First Nations, Inuit and Metis as the three distinct Aboriginal groups.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q23",
+    "question": "What does Inuit mean in Inuktitut?",
+    "options": ["Northern hunters", "People of the coast", "The people", "People of the ice river"],
+    "correctIndex": 2,
+    "explanation": "The guide states that Inuit means the people.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q24",
+    "question": "The Metis are best described as:",
+    "options": ["French settlers only", "A distinct people of mixed Aboriginal and European ancestry", "All people in the North", "A military unit"],
+    "correctIndex": 1,
+    "explanation": "The guide describes the Metis as a distinct people with mixed Aboriginal and European ancestry.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q25",
+    "question": "Which province is the only officially bilingual province?",
+    "options": ["Ontario", "Quebec", "New Brunswick", "Manitoba"],
+    "correctIndex": 2,
+    "explanation": "The guide identifies New Brunswick as the only officially bilingual province.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q26",
+    "question": "Who are the Acadians?",
+    "options": ["Descendants of French colonists in the Maritimes", "A British military regiment", "An Inuit subgroup", "A Prairie farming community only"],
+    "correctIndex": 0,
+    "explanation": "Acadians are descendants of French colonists who settled in what are now the Maritime provinces.",
+    "topic": "history"
+  },
+  {
+    "id": "q27",
+    "question": "What historical event is known as the Great Upheaval?",
+    "options": ["The signing of Confederation", "The deportation of many Acadians (1755 to 1763)", "The Quiet Revolution", "The Gold Rush"],
+    "correctIndex": 1,
+    "explanation": "The Great Upheaval refers to the deportation of more than two-thirds of the Acadians.",
+    "topic": "history"
+  },
+  {
+    "id": "q28",
+    "question": "Where do most Francophones in Canada live?",
+    "options": ["Ontario", "British Columbia", "Quebec", "Nunavut"],
+    "correctIndex": 2,
+    "explanation": "Most Francophones live in Quebec, according to the guide.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q29",
+    "question": "What did the House of Commons recognize in 2006?",
+    "options": ["That Toronto is the capital", "That the Quebecois form a nation within a united Canada", "That Canada has three official languages", "That all provinces are bilingual"],
+    "correctIndex": 1,
+    "explanation": "The guide notes recognition in 2006 that the Quebecois form a nation within a united Canada.",
+    "topic": "history"
+  },
+  {
+    "id": "q30",
+    "question": "Since the 1970s, most immigrants to Canada have come from:",
+    "options": ["European countries", "South America only", "Asian countries", "Australia and New Zealand"],
+    "correctIndex": 2,
+    "explanation": "The guide says most immigrants since the 1970s have come from Asian countries.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q31",
+    "question": "Which non-official language group is widely spoken at home in Vancouver and Toronto?",
+    "options": ["Arabic languages", "Chinese languages", "German languages", "Ukrainian languages"],
+    "correctIndex": 1,
+    "explanation": "The guide highlights Chinese languages as strongly spoken at home in both cities.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q32",
+    "question": "What does the guide say about gay and lesbian Canadians?",
+    "options": ["They have limited legal protections", "They have full protection and equal treatment under the law", "Their rights vary by city", "They cannot marry civilly"],
+    "correctIndex": 1,
+    "explanation": "The guide states that gay and lesbian Canadians enjoy full legal protection and equal treatment.",
+    "topic": "rights-and-responsibilities"
+  },
+  {
+    "id": "q33",
+    "question": "Who reached Labrador and Newfoundland about 1,000 years ago?",
+    "options": ["The French", "The Vikings from Iceland", "The Spanish", "The Romans"],
+    "correctIndex": 1,
+    "explanation": "The guide notes that Vikings from Iceland reached Labrador and Newfoundland around 1,000 years ago.",
+    "topic": "history"
+  },
+  {
+    "id": "q34",
+    "question": "What is l'Anse aux Meadows known for?",
+    "options": ["A Confederation conference", "A Viking settlement remains and World Heritage site", "A major WWI battlefield", "The first Parliament building"],
+    "correctIndex": 1,
+    "explanation": "l'Anse aux Meadows contains remains of a Viking settlement and is a World Heritage site.",
+    "topic": "history"
+  },
+  {
+    "id": "q35",
+    "question": "Which explorer mapped Canada's East Coast in 1497?",
+    "options": ["Jacques Cartier", "Samuel de Champlain", "John Cabot", "Henry Hudson"],
+    "correctIndex": 2,
+    "explanation": "John Cabot's 1497 expedition mapped Canada's East Coast.",
+    "topic": "history"
+  },
+  {
+    "id": "q36",
+    "question": "Jacques Cartier made voyages across the Atlantic between:",
+    "options": ["1492 and 1498", "1534 and 1542", "1604 and 1610", "1763 and 1774"],
+    "correctIndex": 1,
+    "explanation": "The guide states Cartier made three voyages between 1534 and 1542.",
+    "topic": "history"
+  },
+  {
+    "id": "q37",
+    "question": "The name Canada comes from the Iroquoian word kanata, meaning:",
+    "options": ["River", "Village", "Forest", "Settlement of kings"],
+    "correctIndex": 1,
+    "explanation": "Cartier heard the word kanata, meaning village, and the name Canada later appeared on maps.",
+    "topic": "history"
+  },
+  {
+    "id": "q38",
+    "question": "By which decade did the name Canada begin appearing on maps?",
+    "options": ["1490s", "1550s", "1700s", "1860s"],
+    "correctIndex": 1,
+    "explanation": "The guide states that by the 1550s the name Canada began to appear on maps.",
+    "topic": "history"
+  },
+  {
+    "id": "q39",
+    "question": "What did the Royal Proclamation of 1763 do regarding Aboriginal peoples?",
+    "options": ["Ended all treaty negotiations", "Guaranteed territorial rights and laid basis for treaties", "Created Nunavut", "Established reserve schools"],
+    "correctIndex": 1,
+    "explanation": "The Royal Proclamation guaranteed territorial rights and established the basis for treaty negotiations.",
+    "topic": "history"
+  },
+  {
+    "id": "q40",
+    "question": "What did the federal government apologize for in 2008?",
+    "options": ["The Quiet Revolution", "Residential school hardships and abuses", "World War I conscription", "The 1982 Constitution"],
+    "correctIndex": 1,
+    "explanation": "The guide states Ottawa formally apologized in 2008 to former residential school students.",
+    "topic": "history"
+  },
+  {
+    "id": "q41",
+    "question": "What does Peace, Order and Good Government refer to?",
+    "options": ["A military slogan", "A key phrase in Canada's original constitutional document", "A provincial motto", "The national anthem"],
+    "correctIndex": 1,
+    "explanation": "The phrase appears in the British North America Act, 1867, and reflects Canadian institutions.",
+    "topic": "history"
+  },
+  {
+    "id": "q42",
+    "question": "What is Canada's original constitutional document in 1867 commonly called in the guide?",
+    "options": ["Constitution Act, 1982", "British North America Act", "Quebec Act", "Statute of Westminster"],
+    "correctIndex": 1,
+    "explanation": "The guide refers to the British North America Act as the original constitutional document of 1867.",
+    "topic": "history"
+  },
+  {
+    "id": "q43",
+    "question": "What happened to many Aboriginal people after European contact?",
+    "options": ["They moved to Europe", "Many died of European diseases", "They were all given citizenship immediately", "They stopped trading"],
+    "correctIndex": 1,
+    "explanation": "The guide explains that many died from diseases to which they had little immunity.",
+    "topic": "history"
+  },
+  {
+    "id": "q44",
+    "question": "Which war is associated with D-Day and Juno Beach in the guide?",
+    "options": ["War of 1812", "First World War", "Second World War", "Korean War"],
+    "correctIndex": 2,
+    "explanation": "D-Day at Juno Beach took place in 1944 during the Second World War.",
+    "topic": "history"
+  },
+  {
+    "id": "q45",
+    "question": "How many Canadian troops stormed and captured Juno Beach on D-Day?",
+    "options": ["5,000", "10,000", "15,000", "25,000"],
+    "correctIndex": 2,
+    "explanation": "The guide states that 15,000 Canadian troops captured Juno Beach.",
+    "topic": "history"
+  },
+  {
+    "id": "q46",
+    "question": "Approximately what fraction of Allied soldiers on D-Day was Canadian?",
+    "options": ["One in twenty", "One in ten", "One in five", "One in two"],
+    "correctIndex": 1,
+    "explanation": "The guide notes that approximately one in ten Allied soldiers on D-Day was Canadian.",
+    "topic": "history"
+  },
+  {
+    "id": "q47",
+    "question": "Canada helped liberate which country in 1944 to 1945?",
+    "options": ["Spain", "Norway", "The Netherlands", "Portugal"],
+    "correctIndex": 2,
+    "explanation": "The Canadian Army helped liberate the Netherlands in 1944 to 1945.",
+    "topic": "history"
+  },
+  {
+    "id": "q48",
+    "question": "When did Germany surrender in Europe during the Second World War?",
+    "options": ["May 8, 1945", "June 6, 1944", "September 1, 1939", "August 14, 1945"],
+    "correctIndex": 0,
+    "explanation": "The guide marks May 8, 1945 as the date of German surrender in Europe.",
+    "topic": "history"
+  },
+  {
+    "id": "q49",
+    "question": "How many Canadians and Newfoundlanders served in the Second World War?",
+    "options": ["About 300,000", "About 600,000", "More than one million", "More than two million"],
+    "correctIndex": 2,
+    "explanation": "The guide says more than one million Canadians and Newfoundlanders served.",
+    "topic": "history"
+  },
+  {
+    "id": "q50",
+    "question": "Approximately how many serving Canadians and Newfoundlanders were killed in the Second World War?",
+    "options": ["14,000", "24,000", "44,000", "64,000"],
+    "correctIndex": 2,
+    "explanation": "The guide records that 44,000 were killed.",
+    "topic": "history"
+  },
+  {
+    "id": "q51",
+    "question": "The unsuccessful Canadian defence of Hong Kong occurred in:",
+    "options": ["1917", "1933", "1941", "1944"],
+    "correctIndex": 2,
+    "explanation": "The guide identifies 1941 as the year of the defence of Hong Kong.",
+    "topic": "history"
+  },
+  {
+    "id": "q52",
+    "question": "The failed raid on Dieppe occurred in:",
+    "options": ["1940", "1942", "1944", "1945"],
+    "correctIndex": 1,
+    "explanation": "The guide states that the Dieppe raid took place in 1942.",
+    "topic": "history"
+  },
+  {
+    "id": "q53",
+    "question": "Which branch had its finest hour in the Battle of the Atlantic?",
+    "options": ["Royal Canadian Navy", "Royal Canadian Air Force", "Canadian Army", "Merchant Navy only"],
+    "correctIndex": 0,
+    "explanation": "The guide says the Royal Canadian Navy's finest hour was the Battle of the Atlantic.",
+    "topic": "history"
+  },
+  {
+    "id": "q54",
+    "question": "At the end of the Second World War, Canada's navy ranked:",
+    "options": ["Largest in the world", "Second-largest in the world", "Third-largest in the world", "Fifth-largest in the world"],
+    "correctIndex": 2,
+    "explanation": "The guide says Canada had the third-largest navy in the world at war's end.",
+    "topic": "history"
+  },
+  {
+    "id": "q55",
+    "question": "When did Japan surrender, ending the Pacific war mentioned in the guide?",
+    "options": ["August 14, 1945", "May 8, 1945", "June 6, 1944", "September 2, 1939"],
+    "correctIndex": 0,
+    "explanation": "The guide states Japan surrendered on August 14, 1945.",
+    "topic": "history"
+  },
+  {
+    "id": "q56",
+    "question": "What wartime injustice against Japanese Canadians did Canada later apologize for?",
+    "options": ["Blocking voting rights forever", "Forcible relocation and property sale without compensation", "Forced military enlistment", "Denial of education"],
+    "correctIndex": 1,
+    "explanation": "The guide notes the forcible relocation and sale of property and says Canada apologized in 1988.",
+    "topic": "history"
+  },
+  {
+    "id": "q57",
+    "question": "The Government of Canada apologized for wartime wrongs against Japanese Canadians in:",
+    "options": ["1967", "1975", "1988", "2008"],
+    "correctIndex": 2,
+    "explanation": "The formal apology and compensation are described as occurring in 1988.",
+    "topic": "history"
+  },
+  {
+    "id": "q58",
+    "question": "Which year is linked to the discovery of oil in Alberta that began modern energy development?",
+    "options": ["1934", "1940", "1947", "1965"],
+    "correctIndex": 2,
+    "explanation": "The guide says discovery of oil in Alberta in 1947 began the modern energy industry.",
+    "topic": "economy"
+  },
+  {
+    "id": "q59",
+    "question": "What major social program did the federal government introduce in 1940?",
+    "options": ["Old Age Security", "Employment insurance (then unemployment insurance)", "Canada Pension Plan", "Universal transit pass"],
+    "correctIndex": 1,
+    "explanation": "The guide states unemployment insurance, now called employment insurance, was introduced in 1940.",
+    "topic": "economy"
+  },
+  {
+    "id": "q60",
+    "question": "The Canada and Quebec Pension Plans were created in:",
+    "options": ["1927", "1947", "1965", "1982"],
+    "correctIndex": 2,
+    "explanation": "The guide identifies 1965 as the year for Canada and Quebec Pension Plans.",
+    "topic": "economy"
+  },
+  {
+    "id": "q61",
+    "question": "What military alliance did Canada join during the Cold War?",
+    "options": ["NAFTA", "NATO", "GATT", "WTO"],
+    "correctIndex": 1,
+    "explanation": "Canada joined the North Atlantic Treaty Organization (NATO).",
+    "topic": "history"
+  },
+  {
+    "id": "q62",
+    "question": "What aerospace defence partnership did Canada form with the United States?",
+    "options": ["NORAD", "UNESCO", "CIDA", "Commonwealth Secretariat"],
+    "correctIndex": 0,
+    "explanation": "The guide states Canada partnered with the United States in NORAD.",
+    "topic": "history"
+  },
+  {
+    "id": "q63",
+    "question": "In which war did Canada participate in a UN operation from 1950 to 1953?",
+    "options": ["Korean War", "Vietnam War", "Gulf War", "Crimean War"],
+    "correctIndex": 0,
+    "explanation": "The guide says Canada joined the UN operation defending South Korea in the Korean War.",
+    "topic": "history"
+  },
+  {
+    "id": "q64",
+    "question": "How many Canadians died in the Korean War according to the guide?",
+    "options": ["About 200", "About 500", "About 1,000", "About 5,000"],
+    "correctIndex": 1,
+    "explanation": "The guide records about 500 dead and 1,000 wounded.",
+    "topic": "history"
+  },
+  {
+    "id": "q65",
+    "question": "What was Quebec's era of rapid change in the 1960s called?",
+    "options": ["The Great Upheaval", "The Quiet Revolution", "The Western Boom", "The North Shift"],
+    "correctIndex": 1,
+    "explanation": "The guide refers to this period as the Quiet Revolution.",
+    "topic": "history"
+  },
+  {
+    "id": "q66",
+    "question": "Which law in 1969 guaranteed federal services in both official languages?",
+    "options": ["Canada Health Act", "Official Languages Act", "Constitution Act", "Citizenship Act"],
+    "correctIndex": 1,
+    "explanation": "The Official Languages Act of 1969 guarantees federal services in French and English.",
+    "topic": "history"
+  },
+  {
+    "id": "q67",
+    "question": "Quebec sovereignty was defeated in referendums in:",
+    "options": ["1970 and 1982", "1980 and 1995", "1990 and 2000", "1969 and 1980"],
+    "correctIndex": 1,
+    "explanation": "The guide notes failed sovereignty referendums in 1980 and 1995.",
+    "topic": "history"
+  },
+  {
+    "id": "q68",
+    "question": "Aboriginal people in Canada gained the federal vote in:",
+    "options": ["1948", "1960", "1969", "1982"],
+    "correctIndex": 1,
+    "explanation": "The guide states Aboriginal people were granted the vote in 1960.",
+    "topic": "history"
+  },
+  {
+    "id": "q69",
+    "question": "About how many Hungarian refugees escaped Soviet tyranny and came to Canada in 1956?",
+    "options": ["About 7,000", "About 17,000", "About 27,000", "About 37,000"],
+    "correctIndex": 3,
+    "explanation": "The guide says Canada welcomed about 37,000 from Hungary in 1956.",
+    "topic": "history"
+  },
+  {
+    "id": "q70",
+    "question": "After 1975, about how many Vietnamese refugees sought refuge in Canada?",
+    "options": ["Over 10,000", "Over 25,000", "Over 50,000", "Over 100,000"],
+    "correctIndex": 2,
+    "explanation": "The guide reports over 50,000 Vietnamese sought refuge in Canada.",
+    "topic": "history"
+  },
+  {
+    "id": "q71",
+    "question": "Who invented basketball in 1891?",
+    "options": ["Wayne Gretzky", "James Naismith", "Terry Fox", "Donovan Bailey"],
+    "correctIndex": 1,
+    "explanation": "The guide credits Canadian James Naismith with inventing basketball in 1891.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q72",
+    "question": "What was Terry Fox's cross-country run called?",
+    "options": ["Run for Freedom", "Marathon of Hope", "Journey of Courage", "Canadian Relay"],
+    "correctIndex": 1,
+    "explanation": "His 1980 run to raise money for cancer research was called the Marathon of Hope.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q73",
+    "question": "Who circled the globe in a wheelchair in 1985 to raise funds for spinal cord research?",
+    "options": ["Rick Hansen", "Paul Henderson", "Mark Tewksbury", "Michael Ondaatje"],
+    "correctIndex": 0,
+    "explanation": "The guide notes Rick Hansen's global wheelchair journey in 1985.",
+    "topic": "people-and-culture"
+  },
+  {
+    "id": "q74",
+    "question": "Which Canadian scientific discovery by Banting and Best transformed diabetes treatment?",
+    "options": ["Penicillin", "Insulin", "Pacemaker", "Radio waves"],
+    "correctIndex": 1,
+    "explanation": "Sir Frederick Banting and Charles Best are recognized for discovering insulin.",
+    "topic": "history"
+  },
+  {
+    "id": "q75",
+    "question": "Which Canadian innovation is a robotic arm used in space?",
+    "options": ["Canadarm", "Aurora Link", "Arctic Crane", "Northstar Pod"],
+    "correctIndex": 0,
+    "explanation": "The guide identifies Canadarm as a Canadian-designed and built robotic arm for space missions.",
+    "topic": "science-and-innovation"
+  },
+  {
+    "id": "q76",
+    "question": "Which invention is associated with Joseph-Armand Bombardier?",
+    "options": ["Telephone", "Snowmobile", "Pacemaker", "Light bulb"],
+    "correctIndex": 1,
+    "explanation": "Bombardier is credited with inventing the snowmobile.",
+    "topic": "science-and-innovation"
+  },
+  {
+    "id": "q77",
+    "question": "Who is associated with the idea of the telephone in Canada?",
+    "options": ["Alexander Graham Bell", "Reginald Fessenden", "Sir Sandford Fleming", "Dr. Wilder Penfield"],
+    "correctIndex": 0,
+    "explanation": "The guide says Bell hit on the idea of the telephone at his summer house in Canada.",
+    "topic": "science-and-innovation"
+  },
+  {
+    "id": "q78",
+    "question": "Who invented the worldwide system of standard time zones?",
+    "options": ["Sir Sandford Fleming", "John A. Hopps", "Mike Lazaridis", "Harold Innis"],
+    "correctIndex": 0,
+    "explanation": "The guide credits Sir Sandford Fleming with standard time zones.",
+    "topic": "science-and-innovation"
+  },
+  {
+    "id": "q79",
+    "question": "Which company is known for the BlackBerry invention?",
+    "options": ["SPAR Aerospace", "Research in Motion", "Nortel Dynamics", "Maple Tech Labs"],
+    "correctIndex": 1,
+    "explanation": "The guide links BlackBerry to Research in Motion and founders Mike Lazaridis and Jim Balsillie.",
+    "topic": "science-and-innovation"
+  },
+  {
+    "id": "q80",
+    "question": "Which three key facts describe Canada's system of government?",
+    "options": ["Unitary state, direct democracy, republic", "Federal state, parliamentary democracy, constitutional monarchy", "Confederation, military rule, monarchy", "Federal state, presidential system, constitutional republic"],
+    "correctIndex": 1,
+    "explanation": "The guide summarizes Canada as a federal state, parliamentary democracy, and constitutional monarchy.",
+    "topic": "government"
+  },
+  {
+    "id": "q81",
+    "question": "In Canada, responsibility for defence belongs primarily to:",
+    "options": ["Municipal governments", "Provincial governments", "Federal government", "School boards"],
+    "correctIndex": 2,
+    "explanation": "Defence is listed among federal responsibilities.",
+    "topic": "government"
+  },
+  {
+    "id": "q82",
+    "question": "Which area is primarily a provincial responsibility?",
+    "options": ["Citizenship", "Foreign policy", "Education", "Currency"],
+    "correctIndex": 2,
+    "explanation": "Education is among core provincial responsibilities in the guide.",
+    "topic": "government"
+  },
+  {
+    "id": "q83",
+    "question": "Which areas are shared by federal and provincial governments?",
+    "options": ["Defence and currency", "Municipal by-laws and transit", "Agriculture and immigration", "Navigation and criminal law"],
+    "correctIndex": 2,
+    "explanation": "The guide states agriculture and immigration are shared jurisdictions.",
+    "topic": "government"
+  },
+  {
+    "id": "q84",
+    "question": "What does federalism allow provinces to do?",
+    "options": ["Ignore national laws", "Adopt policies tailored to their populations", "Run foreign embassies", "Control national defence"],
+    "correctIndex": 1,
+    "explanation": "Federalism gives provinces flexibility to tailor and test policy approaches.",
+    "topic": "government"
+  },
+  {
+    "id": "q85",
+    "question": "In Canada's parliamentary democracy, citizens elect representatives to:",
+    "options": ["Only the Senate", "The House of Commons and provincial or territorial legislatures", "The Supreme Court", "The Governor General's office"],
+    "correctIndex": 1,
+    "explanation": "Citizens elect members to the House of Commons and provincial or territorial legislatures.",
+    "topic": "government"
+  },
+  {
+    "id": "q86",
+    "question": "Parliament consists of which three parts?",
+    "options": ["Prime Minister, Cabinet, Courts", "Sovereign, Senate, House of Commons", "Governor General, Opposition, Cabinet", "House of Commons, RCMP, Judiciary"],
+    "correctIndex": 1,
+    "explanation": "The guide states Parliament includes the Sovereign, Senate, and House of Commons.",
+    "topic": "government"
+  },
+  {
+    "id": "q87",
+    "question": "Who selects federal Cabinet ministers?",
+    "options": ["The Senate", "The Governor General alone", "The Prime Minister", "The Supreme Court"],
+    "correctIndex": 2,
+    "explanation": "The Prime Minister selects Cabinet ministers and directs government operations and policy.",
+    "topic": "government"
+  },
+  {
+    "id": "q88",
+    "question": "How are senators chosen according to the guide?",
+    "options": ["Directly elected by voters", "Appointed by the Governor General on the Prime Minister's advice", "Chosen by premiers", "Selected by party members"],
+    "correctIndex": 1,
+    "explanation": "Senators are appointed by the Governor General on the Prime Minister's recommendation.",
+    "topic": "government"
+  },
+  {
+    "id": "q89",
+    "question": "Until what age do senators serve?",
+    "options": ["65", "70", "75", "80"],
+    "correctIndex": 2,
+    "explanation": "The guide says senators serve until age 75.",
+    "topic": "government"
+  },
+  {
+    "id": "q90",
+    "question": "Before a federal bill becomes law, it must:",
+    "options": ["Pass only the House of Commons", "Pass both House of Commons and Senate and receive royal assent", "Be approved by all provinces", "Be signed by the Chief Justice"],
+    "correctIndex": 1,
+    "explanation": "A bill must pass both chambers and receive royal assent.",
+    "topic": "government"
+  },
+  {
+    "id": "q91",
+    "question": "What is Step 1 in how a bill becomes law?",
+    "options": ["Committee stage", "Third reading", "First reading", "Royal assent"],
+    "correctIndex": 2,
+    "explanation": "Step 1 is first reading, where the bill is considered read and printed.",
+    "topic": "government"
+  },
+  {
+    "id": "q92",
+    "question": "At which stage do committee members study the bill clause by clause?",
+    "options": ["Second reading", "Committee stage", "Report stage", "Senate stage"],
+    "correctIndex": 1,
+    "explanation": "Clause-by-clause study happens during committee stage.",
+    "topic": "government"
+  },
+  {
+    "id": "q93",
+    "question": "What is the final step in the legislative process listed in the guide?",
+    "options": ["Second reading", "Report stage", "Royal assent", "Committee vote"],
+    "correctIndex": 2,
+    "explanation": "The final step is royal assent after passage by both houses.",
+    "topic": "government"
+  },
+  {
+    "id": "q94",
+    "question": "In a constitutional monarchy, Canada's head of state is:",
+    "options": ["The Prime Minister", "The Governor General", "A hereditary Sovereign", "The Chief Justice"],
+    "correctIndex": 2,
+    "explanation": "Canada's head of state is the Sovereign, who reigns according to the Constitution.",
+    "topic": "government"
+  },
+  {
+    "id": "q95",
+    "question": "Who is the head of government in Canada?",
+    "options": ["The Sovereign", "The Prime Minister", "The Speaker of the House", "The Governor General"],
+    "correctIndex": 1,
+    "explanation": "The guide distinguishes the Prime Minister as head of government.",
+    "topic": "government"
+  },
+  {
+    "id": "q96",
+    "question": "The Governor General represents the:",
+    "options": ["Supreme Court", "Opposition", "Sovereign in Canada", "Senate only"],
+    "correctIndex": 2,
+    "explanation": "The Governor General is the Sovereign's representative in Canada.",
+    "topic": "government"
+  },
+  {
+    "id": "q97",
+    "question": "Who represents the Sovereign in each province?",
+    "options": ["Commissioner", "Premier", "Lieutenant Governor", "Mayor"],
+    "correctIndex": 2,
+    "explanation": "Each province has a Lieutenant Governor as the representative of the Sovereign.",
+    "topic": "government"
+  },
+  {
+    "id": "q98",
+    "question": "In the territories, who represents the federal government ceremonially?",
+    "options": ["Senators", "Commissioners", "Lieutenant Governors", "Deputy Premiers"],
+    "correctIndex": 1,
+    "explanation": "The guide says the Commissioner represents the federal government in each territory.",
+    "topic": "government"
+  },
+  {
+    "id": "q99",
+    "question": "Federal elections are normally held on which schedule under legislation?",
+    "options": ["Every year in June", "Third Monday in October every four years", "Every five years in May", "Second Tuesday in November every four years"],
+    "correctIndex": 1,
+    "explanation": "The guide states federal elections must be held on the third Monday in October every four years.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q100",
+    "question": "Who may ask the Governor General to call an earlier federal election?",
+    "options": ["Chief Justice", "Leader of the Opposition", "Prime Minister", "Speaker of the House"],
+    "correctIndex": 2,
+    "explanation": "The Prime Minister may ask for an earlier election call.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q101",
+    "question": "What is another term for an electoral district?",
+    "options": ["Province", "Riding or constituency", "Ward office", "Cabinet region"],
+    "correctIndex": 1,
+    "explanation": "The guide uses riding or constituency as alternate terms for electoral district.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q102",
+    "question": "How many MPs does each electoral district elect to the House of Commons?",
+    "options": ["One", "Two", "Three", "Varies by province only"],
+    "correctIndex": 0,
+    "explanation": "Each district elects one MP.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q103",
+    "question": "To vote federally, you must be a Canadian citizen and:",
+    "options": ["At least 16 and employed", "At least 18 and on the voters list", "At least 21 and a homeowner", "A permanent resident for two years"],
+    "correctIndex": 1,
+    "explanation": "Eligibility includes Canadian citizenship, age 18 or older, and being on the voters list.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q104",
+    "question": "Which neutral agency of Parliament manages the National Register of Electors?",
+    "options": ["Statistics Canada", "Elections Canada", "Public Safety Canada", "Parliamentary Budget Office"],
+    "correctIndex": 1,
+    "explanation": "Elections Canada produces voters lists using the National Register of Electors.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q105",
+    "question": "What information does a voter information card provide?",
+    "options": ["Tax refund amount", "When and where to vote", "Party membership status", "Court summons details"],
+    "correctIndex": 1,
+    "explanation": "The card tells electors when and where they vote and provides contact details for services.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q106",
+    "question": "If you do not receive a voter information card, can you still be added to the voters list?",
+    "options": ["No, card is mandatory", "Yes, including on election day", "Only with court order", "Only at advance polls"],
+    "correctIndex": 1,
+    "explanation": "The guide says eligible voters can be added at any time, including election day.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q107",
+    "question": "What does a secret ballot protect?",
+    "options": ["The right to skip elections", "The privacy of how you voted", "The right to vote twice", "The right to vote without ID"],
+    "correctIndex": 1,
+    "explanation": "A secret ballot means no one can watch you vote or force you to reveal your vote.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q108",
+    "question": "After an election, who is usually invited to form the government?",
+    "options": ["Leader of any opposition party", "Leader of party with the most seats in House of Commons", "Chief Justice", "Most senior MP"],
+    "correctIndex": 1,
+    "explanation": "Ordinarily the leader of the party with the most seats is invited to form government.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q109",
+    "question": "A majority government means the governing party holds:",
+    "options": ["At least one-third of seats", "Exactly half of seats", "At least half of seats", "All seats in one province"],
+    "correctIndex": 2,
+    "explanation": "The guide defines a majority government as holding at least half the seats.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q110",
+    "question": "A minority government means the governing party holds:",
+    "options": ["Less than half the seats", "More than half the seats", "No cabinet ministers", "Only Senate seats"],
+    "correctIndex": 0,
+    "explanation": "A minority government has less than half of the seats in the House of Commons.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q111",
+    "question": "What is a confidence vote in the House of Commons?",
+    "options": ["A private caucus vote", "A vote on major issues like the budget that tests government support", "A Senate vote only", "A vote to appoint judges"],
+    "correctIndex": 1,
+    "explanation": "Major issues such as the budget are treated as confidence matters for the government.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q112",
+    "question": "If the government is defeated on a major confidence matter, the Prime Minister usually asks for:",
+    "options": ["A royal wedding", "An election call by the Governor General", "A Senate re-vote", "Immediate constitutional change"],
+    "correctIndex": 1,
+    "explanation": "Defeat on confidence generally leads to requesting that the Governor General call an election.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q113",
+    "question": "What is the Official Opposition?",
+    "options": ["The largest party in the Senate", "The opposition party with the most MPs", "Any party outside cabinet", "A provincial party coalition"],
+    "correctIndex": 1,
+    "explanation": "The opposition party with the most members in the House is the Official Opposition.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q114",
+    "question": "What is the role of opposition parties in Parliament?",
+    "options": ["To appoint judges", "To peacefully oppose or improve government proposals", "To run federal departments", "To control the army"],
+    "correctIndex": 1,
+    "explanation": "Opposition parties question, oppose, and seek to improve government proposals.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q115",
+    "question": "On election day, how do you mark your ballot?",
+    "options": ["Sign your name beside candidate", "Mark an X in the circle beside your chosen candidate", "Use a checkmark beside party name only", "Write a sentence with your choice"],
+    "correctIndex": 1,
+    "explanation": "The voting procedure states you mark an X in the circle next to your chosen candidate.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q116",
+    "question": "Who counts ballots after polling stations close?",
+    "options": ["Party leaders", "Election officers", "Cabinet ministers", "Judges"],
+    "correctIndex": 1,
+    "explanation": "The guide says election officers count ballots after polls close.",
+    "topic": "federal-elections"
+  },
+  {
+    "id": "q117",
+    "question": "Municipal governments usually pass local laws called:",
+    "options": ["Acts", "Regulations", "By-laws", "Codes of federal conduct"],
+    "correctIndex": 2,
+    "explanation": "Municipal councils pass by-laws affecting the local community.",
+    "topic": "government"
+  },
+  {
+    "id": "q118",
+    "question": "Who commonly sits on a municipal council?",
+    "options": ["A mayor or reeve and councillors or aldermen", "Only judges and police chiefs", "Premier and lieutenant governor", "MPs and senators"],
+    "correctIndex": 0,
+    "explanation": "Municipal councils typically include a mayor or reeve and councillors or aldermen.",
+    "topic": "government"
+  },
+  {
+    "id": "q119",
+    "question": "Which service is usually municipal responsibility?",
+    "options": ["Foreign policy", "Criminal law", "Snow removal", "Citizenship applications"],
+    "correctIndex": 2,
+    "explanation": "The guide lists snow removal among municipal functions.",
+    "topic": "government"
+  },
+  {
+    "id": "q120",
+    "question": "What principle underlies criminal matters in Canada's justice system?",
+    "options": ["Guilty until proven innocent", "Innocent until proven guilty", "Trial by media", "Mandatory confession"],
+    "correctIndex": 1,
+    "explanation": "Canada's judicial system is founded on the presumption of innocence.",
+    "topic": "justice"
+  },
+  {
+    "id": "q121",
+    "question": "Due process means the government must:",
+    "options": ["Follow international law only", "Respect all legal rights a person is entitled to under law", "Allow no appeals", "Act only through police"],
+    "correctIndex": 1,
+    "explanation": "Due process requires government to respect legal rights under the law.",
+    "topic": "justice"
+  },
+  {
+    "id": "q122",
+    "question": "In Canada, the law applies to:",
+    "options": ["Citizens only", "Government officials only", "Everyone, including judges, politicians and police", "Only people accused of crimes"],
+    "correctIndex": 2,
+    "explanation": "The guide clearly states the law applies to everyone.",
+    "topic": "justice"
+  },
+  {
+    "id": "q123",
+    "question": "What is Canada's highest court?",
+    "options": ["Federal Court", "Court of King's Bench", "Supreme Court of Canada", "Provincial Appeal Tribunal"],
+    "correctIndex": 2,
+    "explanation": "The Supreme Court of Canada is identified as the highest court.",
+    "topic": "justice"
+  },
+  {
+    "id": "q124",
+    "question": "The Federal Court of Canada mainly handles matters concerning:",
+    "options": ["Municipal by-laws", "The federal government", "Family property disputes only", "Provincial constitutions"],
+    "correctIndex": 1,
+    "explanation": "The guide states the Federal Court deals with matters concerning the federal government.",
+    "topic": "justice"
+  },
+  {
+    "id": "q125",
+    "question": "Which police force enforces federal laws throughout Canada?",
+    "options": ["Toronto Police Service", "Ontario Provincial Police", "Royal Canadian Mounted Police", "Municipal by-law officers"],
+    "correctIndex": 2,
+    "explanation": "The RCMP enforces federal laws across Canada.",
+    "topic": "justice"
+  },
+  {
+    "id": "q126",
+    "question": "In which two provinces does the RCMP not serve as the provincial police?",
+    "options": ["Alberta and Manitoba", "Ontario and Quebec", "Nova Scotia and New Brunswick", "British Columbia and Saskatchewan"],
+    "correctIndex": 1,
+    "explanation": "Ontario and Quebec have their own provincial police forces.",
+    "topic": "justice"
+  },
+  {
+    "id": "q127",
+    "question": "Can you question police conduct in Canada?",
+    "options": ["No, never", "Only through a lawyer", "Yes, most forces have complaint processes", "Only if charged with a crime"],
+    "correctIndex": 2,
+    "explanation": "The guide says almost all police forces have processes to raise concerns.",
+    "topic": "justice"
+  },
+  {
+    "id": "q128",
+    "question": "If you cannot pay for a lawyer, what may be available?",
+    "options": ["Mandatory self-representation", "Legal aid services", "Only private mediation", "Automatic acquittal"],
+    "correctIndex": 1,
+    "explanation": "The guide notes that legal aid services are available in most communities.",
+    "topic": "justice"
+  },
+  {
+    "id": "q129",
+    "question": "What symbol has represented the state in Canada for about 400 years?",
+    "options": ["The beaver", "The Crown", "The Peace Tower", "The Red Ensign"],
+    "correctIndex": 1,
+    "explanation": "The guide describes the Crown as a longstanding symbol of the Canadian state.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q130",
+    "question": "Canada has been a constitutional monarchy in its own right since:",
+    "options": ["1497", "1763", "1867", "1982"],
+    "correctIndex": 2,
+    "explanation": "The guide says this has been so since Confederation in 1867.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q131",
+    "question": "When was the current Canadian flag first raised?",
+    "options": ["1921", "1948", "1965", "1980"],
+    "correctIndex": 2,
+    "explanation": "The guide states the new Canadian flag was first raised in 1965.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q132",
+    "question": "What are Canada's national colours, according to the guide?",
+    "options": ["Blue and white", "Red and white", "Green and gold", "Black and red"],
+    "correctIndex": 1,
+    "explanation": "Red and white are identified as Canada's national colours since 1921.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q133",
+    "question": "Which is Canada's official Royal Flag?",
+    "options": ["The Maple Leaf flag", "The Canadian Red Ensign", "The Union Jack", "The Royal Arms banner"],
+    "correctIndex": 2,
+    "explanation": "The guide states the Union Jack is Canada's official Royal Flag.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q134",
+    "question": "What is Canada's best-known symbol?",
+    "options": ["The beaver", "The maple leaf", "The fleur-de-lys", "The Peace Tower"],
+    "correctIndex": 1,
+    "explanation": "The guide identifies the maple leaf as Canada's best-known symbol.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q135",
+    "question": "What does A mari usque ad mare mean?",
+    "options": ["Peace and order", "From sea to sea", "Stronger together", "North forever"],
+    "correctIndex": 1,
+    "explanation": "The national motto translates from Latin as from sea to sea.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q136",
+    "question": "Where can you commonly see Canada's coat of arms?",
+    "options": ["Only at museums", "On dollar bills, government documents and public buildings", "Only in schools", "Only on military bases"],
+    "correctIndex": 1,
+    "explanation": "The guide says the coat of arms appears on currency, documents, and public buildings.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q137",
+    "question": "Which part of Parliament survived the 1916 Centre Block fire?",
+    "options": ["Peace Tower", "Library", "Senate chamber", "House of Commons chamber"],
+    "correctIndex": 1,
+    "explanation": "The Library is identified as the only original part remaining after the fire.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q138",
+    "question": "The Peace Tower was completed in:",
+    "options": ["1916", "1922", "1927", "1939"],
+    "correctIndex": 2,
+    "explanation": "The guide states the Peace Tower was completed in 1927.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q139",
+    "question": "What do the Books of Remembrance in the Peace Tower contain?",
+    "options": ["Prime ministers' speeches", "Names of Canadians who received citizenship", "Names of service members who died serving Canada", "Federal budget records"],
+    "correctIndex": 2,
+    "explanation": "The Books of Remembrance list soldiers, sailors, and airmen who died in service.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q140",
+    "question": "What is considered Canada's national winter sport?",
+    "options": ["Curling", "Lacrosse", "Ice hockey", "Figure skating"],
+    "correctIndex": 2,
+    "explanation": "The guide identifies hockey as the national winter sport and most popular spectator sport.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q141",
+    "question": "Which trophy is awarded in the NHL and was donated in 1892?",
+    "options": ["Grey Cup", "Clarkson Cup", "Stanley Cup", "Memorial Cup"],
+    "correctIndex": 2,
+    "explanation": "The Stanley Cup was donated by Lord Stanley in 1892.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q142",
+    "question": "What is the official summer sport of Canada?",
+    "options": ["Soccer", "Lacrosse", "Baseball", "Canadian football"],
+    "correctIndex": 1,
+    "explanation": "The guide states lacrosse is the official summer sport.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q143",
+    "question": "What animal appears on Canada's five-cent coin and is a national symbol?",
+    "options": ["Moose", "Beaver", "Caribou", "Polar bear"],
+    "correctIndex": 1,
+    "explanation": "The beaver is a long-standing symbol and appears on the five-cent coin.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q144",
+    "question": "What are Canada's two official languages?",
+    "options": ["English and Inuktitut", "English and French", "French and Cree", "English and Spanish"],
+    "correctIndex": 1,
+    "explanation": "English and French are Canada's official languages and key identity symbols.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q145",
+    "question": "What are the three main objectives of the Official Languages Act?",
+    "options": ["Cut translation costs", "Support English only, immigration only, voting only", "Promote equality of English and French and support minority communities", "Create one language for all provinces"],
+    "correctIndex": 2,
+    "explanation": "The Act seeks language equality in institutions, support minority communities, and broader societal equality.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q146",
+    "question": "When was O Canada proclaimed as the national anthem?",
+    "options": ["1867", "1921", "1965", "1980"],
+    "correctIndex": 3,
+    "explanation": "The guide says O Canada became the national anthem in 1980.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q147",
+    "question": "Where was O Canada first sung in 1880?",
+    "options": ["Ottawa", "Montreal", "Quebec City", "Toronto"],
+    "correctIndex": 2,
+    "explanation": "The guide states O Canada was first sung in Quebec City in 1880.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q148",
+    "question": "What is Canada's Royal Anthem?",
+    "options": ["The Maple Leaf Forever", "God Save the Queen (or King)", "In Flanders Fields", "Ode to Confederation"],
+    "correctIndex": 1,
+    "explanation": "The Royal Anthem is God Save the Queen (or King).",
+    "topic": "symbols"
+  },
+  {
+    "id": "q149",
+    "question": "Canada's own honours system began with which order in 1967?",
+    "options": ["Order of Merit", "Order of Canada", "Order of the Maple", "Order of Confederation"],
+    "correctIndex": 1,
+    "explanation": "The guide says Canada's honours system began with the Order of Canada in 1967.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q150",
+    "question": "What is the highest honour available to Canadians for valour in the presence of the enemy?",
+    "options": ["Order of Canada", "Victoria Cross", "Meritorious Service Medal", "Canadian Forces Decoration"],
+    "correctIndex": 1,
+    "explanation": "The guide identifies the Victoria Cross as the highest honour for conspicuous bravery.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q151",
+    "question": "Who was the first Canadian to receive the Victoria Cross?",
+    "options": ["Billy Bishop", "Alexander Roberts Dunn", "Paul Triquet", "Robert Hampton Gray"],
+    "correctIndex": 1,
+    "explanation": "Then Lieutenant Alexander Roberts Dunn was the first Canadian awarded the Victoria Cross.",
+    "topic": "history"
+  },
+  {
+    "id": "q152",
+    "question": "What is Vimy Day?",
+    "options": ["April 9", "July 1", "November 11", "January 11"],
+    "correctIndex": 0,
+    "explanation": "The guide lists Vimy Day as April 9.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q153",
+    "question": "What date is Canada Day?",
+    "options": ["June 24", "July 1", "October 2", "November 11"],
+    "correctIndex": 1,
+    "explanation": "Canada Day is listed as July 1.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q154",
+    "question": "What date is Remembrance Day?",
+    "options": ["November 11", "October 11", "September 1", "December 11"],
+    "correctIndex": 0,
+    "explanation": "Remembrance Day is observed on November 11.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q155",
+    "question": "What date is Sir John A. Macdonald Day?",
+    "options": ["January 1", "January 11", "February 11", "March 11"],
+    "correctIndex": 1,
+    "explanation": "The guide lists Sir John A. Macdonald Day as January 11.",
+    "topic": "history"
+  },
+  {
+    "id": "q156",
+    "question": "What date is Sir Wilfrid Laurier Day?",
+    "options": ["November 20", "November 11", "October 20", "December 20"],
+    "correctIndex": 0,
+    "explanation": "The guide lists Sir Wilfrid Laurier Day as November 20.",
+    "topic": "history"
+  },
+  {
+    "id": "q157",
+    "question": "What date is Fete nationale in Quebec?",
+    "options": ["May 24", "June 24", "July 24", "August 24"],
+    "correctIndex": 1,
+    "explanation": "The guide lists June 24 as Fete nationale in Quebec.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q158",
+    "question": "What is Boxing Day?",
+    "options": ["December 24", "December 26", "January 2", "November 26"],
+    "correctIndex": 1,
+    "explanation": "The guide lists Boxing Day as December 26.",
+    "topic": "symbols"
+  },
+  {
+    "id": "q159",
+    "question": "Canada has one of the ten largest economies in the world and belongs to which group listed in the guide?",
+    "options": ["G7", "G8", "G20 only", "OECD only"],
+    "correctIndex": 1,
+    "explanation": "The guide references Canada as part of the G8 group of leading industrialized countries.",
+    "topic": "economy"
+  },
+  {
+    "id": "q160",
+    "question": "What trade agreement broadened in 1994 to include Mexico?",
+    "options": ["WTO", "NORAD", "NAFTA", "CETA"],
+    "correctIndex": 2,
+    "explanation": "The guide states NAFTA included Mexico in 1994.",
+    "topic": "economy"
+  },
+  {
+    "id": "q161",
+    "question": "Which type of industry employs more than 75% of working Canadians?",
+    "options": ["Manufacturing", "Natural resources", "Service industries", "Military industries"],
+    "correctIndex": 2,
+    "explanation": "Service industries are described as employing over 75% of workers.",
+    "topic": "economy"
+  },
+  {
+    "id": "q162",
+    "question": "Which of these is an example of a service industry from the guide?",
+    "options": ["Mining", "Forestry", "Banking", "Oil extraction"],
+    "correctIndex": 2,
+    "explanation": "Banking is listed among service industries.",
+    "topic": "economy"
+  },
+  {
+    "id": "q163",
+    "question": "Which sector includes forestry, fishing, agriculture, mining and energy?",
+    "options": ["Service", "Manufacturing", "Natural resources", "Creative industries"],
+    "correctIndex": 2,
+    "explanation": "These are examples of natural resources industries.",
+    "topic": "economy"
+  },
+  {
+    "id": "q164",
+    "question": "Canada's largest international trading partner is:",
+    "options": ["United Kingdom", "France", "United States", "Japan"],
+    "correctIndex": 2,
+    "explanation": "The guide identifies the United States as Canada's largest international trading partner.",
+    "topic": "economy"
+  },
+  {
+    "id": "q165",
+    "question": "What does the guide call commerce in Canada's economy?",
+    "options": ["A minor activity", "The engine of economic growth", "Only a provincial issue", "A seasonal practice"],
+    "correctIndex": 1,
+    "explanation": "Commerce is described as the engine of economic growth.",
+    "topic": "economy"
+  },
+  {
+    "id": "q166",
+    "question": "What is the capital city of Canada?",
+    "options": ["Toronto", "Montreal", "Ottawa", "Vancouver"],
+    "correctIndex": 2,
+    "explanation": "Ottawa is the national capital and seat of the federal government.",
+    "topic": "regions"
+  },
+  {
+    "id": "q167",
+    "question": "How many provinces and territories does Canada have in total?",
+    "options": ["10", "12", "13", "14"],
+    "correctIndex": 2,
+    "explanation": "Canada is made up of 10 provinces and 3 territories, for a total of 13.",
+    "topic": "regions"
+  },
+  {
+    "id": "q168",
+    "question": "Which are the Atlantic provinces?",
+    "options": ["Quebec, Ontario, Manitoba, Saskatchewan", "Newfoundland and Labrador, Prince Edward Island, Nova Scotia, New Brunswick", "Alberta, British Columbia, Yukon, Nunavut", "Ontario, New Brunswick, Nova Scotia, Manitoba"],
+    "correctIndex": 1,
+    "explanation": "The Atlantic provinces are Newfoundland and Labrador, PEI, Nova Scotia, and New Brunswick.",
+    "topic": "regions"
+  },
+  {
+    "id": "q169",
+    "question": "What is the capital of Newfoundland and Labrador?",
+    "options": ["Halifax", "Charlottetown", "St. John's", "Fredericton"],
+    "correctIndex": 2,
+    "explanation": "The guide lists St. John's as the provincial capital.",
+    "topic": "regions"
+  },
+  {
+    "id": "q170",
+    "question": "What is the capital of Prince Edward Island?",
+    "options": ["Charlottetown", "Saint John", "Moncton", "Sydney"],
+    "correctIndex": 0,
+    "explanation": "Charlottetown is the capital of Prince Edward Island.",
+    "topic": "regions"
+  },
+  {
+    "id": "q171",
+    "question": "What is the capital of Nova Scotia?",
+    "options": ["Halifax", "Fredericton", "St. John's", "Iqaluit"],
+    "correctIndex": 0,
+    "explanation": "Halifax is Nova Scotia's capital.",
+    "topic": "regions"
+  },
+  {
+    "id": "q172",
+    "question": "What is the capital of New Brunswick?",
+    "options": ["Moncton", "Fredericton", "Saint John", "Charlottetown"],
+    "correctIndex": 1,
+    "explanation": "Fredericton is the capital of New Brunswick.",
+    "topic": "regions"
+  },
+  {
+    "id": "q173",
+    "question": "What are the two provinces in Central Canada?",
+    "options": ["Ontario and Quebec", "Manitoba and Saskatchewan", "Nova Scotia and New Brunswick", "Alberta and British Columbia"],
+    "correctIndex": 0,
+    "explanation": "Central Canada consists of Ontario and Quebec.",
+    "topic": "regions"
+  },
+  {
+    "id": "q174",
+    "question": "What is the capital of Quebec?",
+    "options": ["Montreal", "Quebec City", "Laval", "Gatineau"],
+    "correctIndex": 1,
+    "explanation": "Quebec City is the capital of Quebec.",
+    "topic": "regions"
+  },
+  {
+    "id": "q175",
+    "question": "What is the capital of Ontario?",
+    "options": ["Ottawa", "Toronto", "Hamilton", "Kingston"],
+    "correctIndex": 1,
+    "explanation": "Toronto is the capital of Ontario.",
+    "topic": "regions"
+  },
+  {
+    "id": "q176",
+    "question": "Which are the Prairie provinces?",
+    "options": ["Ontario, Quebec, Manitoba", "Manitoba, Saskatchewan, Alberta", "Alberta, British Columbia, Yukon", "Nova Scotia, PEI, New Brunswick"],
+    "correctIndex": 1,
+    "explanation": "The Prairie provinces are Manitoba, Saskatchewan, and Alberta.",
+    "topic": "regions"
+  },
+  {
+    "id": "q177",
+    "question": "What is the capital of Manitoba?",
+    "options": ["Regina", "Winnipeg", "Edmonton", "Saskatoon"],
+    "correctIndex": 1,
+    "explanation": "Winnipeg is Manitoba's capital.",
+    "topic": "regions"
+  },
+  {
+    "id": "q178",
+    "question": "What is the capital of Saskatchewan?",
+    "options": ["Regina", "Saskatoon", "Winnipeg", "Calgary"],
+    "correctIndex": 0,
+    "explanation": "Regina is the provincial capital of Saskatchewan.",
+    "topic": "regions"
+  },
+  {
+    "id": "q179",
+    "question": "What is the capital of Alberta?",
+    "options": ["Calgary", "Edmonton", "Red Deer", "Lethbridge"],
+    "correctIndex": 1,
+    "explanation": "Edmonton is Alberta's capital city.",
+    "topic": "regions"
+  },
+  {
+    "id": "q180",
+    "question": "What is the capital of British Columbia?",
+    "options": ["Vancouver", "Victoria", "Kelowna", "Nanaimo"],
+    "correctIndex": 1,
+    "explanation": "Victoria is the capital of British Columbia.",
+    "topic": "regions"
+  },
+  {
+    "id": "q181",
+    "question": "What is the capital of Nunavut?",
+    "options": ["Yellowknife", "Iqaluit", "Whitehorse", "Rankin Inlet"],
+    "correctIndex": 1,
+    "explanation": "Iqaluit is the capital of Nunavut.",
+    "topic": "regions"
+  },
+  {
+    "id": "q182",
+    "question": "What is the capital of the Northwest Territories?",
+    "options": ["Whitehorse", "Yellowknife", "Iqaluit", "Inuvik"],
+    "correctIndex": 1,
+    "explanation": "Yellowknife is the capital of the Northwest Territories.",
+    "topic": "regions"
+  },
+  {
+    "id": "q183",
+    "question": "What is the capital of Yukon?",
+    "options": ["Dawson City", "Whitehorse", "Yellowknife", "Juneau"],
+    "correctIndex": 1,
+    "explanation": "Whitehorse is the capital of Yukon.",
+    "topic": "regions"
+  },
+  {
+    "id": "q184",
+    "question": "What bridge connects Prince Edward Island to mainland Canada?",
+    "options": ["Mackinac Bridge", "Confederation Bridge", "Lions Gate Bridge", "Champlain Bridge"],
+    "correctIndex": 1,
+    "explanation": "The guide highlights the Confederation Bridge as linking PEI to mainland Canada.",
+    "topic": "regions"
+  },
+  {
+    "id": "q185",
+    "question": "Which Atlantic province is known as the birthplace of Confederation?",
+    "options": ["New Brunswick", "Nova Scotia", "Prince Edward Island", "Newfoundland and Labrador"],
+    "correctIndex": 2,
+    "explanation": "The guide identifies Prince Edward Island as the birthplace of Confederation.",
+    "topic": "history"
+  },
+  {
+    "id": "q186",
+    "question": "Which city is Canada's largest and main financial centre?",
+    "options": ["Montreal", "Ottawa", "Toronto", "Calgary"],
+    "correctIndex": 2,
+    "explanation": "The guide describes Toronto as Canada's largest city and financial centre.",
+    "topic": "regions"
+  },
+  {
+    "id": "q187",
+    "question": "Which province is Canada's westernmost?",
+    "options": ["Alberta", "British Columbia", "Saskatchewan", "Yukon"],
+    "correctIndex": 1,
+    "explanation": "British Columbia is Canada's westernmost province.",
+    "topic": "regions"
+  },
+  {
+    "id": "q188",
+    "question": "Which Canadian port is the country's largest and busiest?",
+    "options": ["Port of Halifax", "Port of Montreal", "Port of Vancouver", "Port of Saint John"],
+    "correctIndex": 2,
+    "explanation": "The guide says the Port of Vancouver is Canada's largest and busiest.",
+    "topic": "regions"
+  },
+  {
+    "id": "q189",
+    "question": "What proportion of Canada's land mass is in the three northern territories?",
+    "options": ["One-fifth", "One-quarter", "One-third", "One-half"],
+    "correctIndex": 2,
+    "explanation": "The guide states the northern territories contain about one-third of Canada's land mass.",
+    "topic": "regions"
+  },
+  {
+    "id": "q190",
+    "question": "What is the approximate population of the three northern territories combined in the guide?",
+    "options": ["About 100,000", "About 500,000", "About 1 million", "About 3 million"],
+    "correctIndex": 0,
+    "explanation": "The guide gives a combined northern population of about 100,000.",
+    "topic": "regions"
+  },
+  {
+    "id": "q191",
+    "question": "Why is the North called the Land of the Midnight Sun?",
+    "options": ["It has no winters", "Daylight can last up to 24 hours at the height of summer", "The sun rises only at night", "It has permanent daylight all year"],
+    "correctIndex": 1,
+    "explanation": "In summer, northern daylight can last up to 24 hours.",
+    "topic": "regions"
+  },
+  {
+    "id": "q192",
+    "question": "Which river system is the second-longest in North America after the Mississippi?",
+    "options": ["St. Lawrence River system", "Mackenzie River system", "Fraser River system", "Yukon River system"],
+    "correctIndex": 1,
+    "explanation": "The guide says the Mackenzie River system is second-longest in North America.",
+    "topic": "regions"
+  },
+  {
+    "id": "q193",
+    "question": "What does Nunavut mean in Inuktitut?",
+    "options": ["Frozen sea", "Northern homeland", "Our land", "Land of snow"],
+    "correctIndex": 2,
+    "explanation": "Nunavut is translated in the guide as our land.",
+    "topic": "regions"
+  },
+  {
+    "id": "q194",
+    "question": "When was Nunavut established?",
+    "options": ["1982", "1990", "1999", "2005"],
+    "correctIndex": 2,
+    "explanation": "Nunavut was established in 1999 from the eastern part of the N.W.T.",
+    "topic": "regions"
+  },
+  {
+    "id": "q195",
+    "question": "About what share of Nunavut's population is Inuit, according to the guide?",
+    "options": ["About 35%", "About 55%", "About 70%", "About 85%"],
+    "correctIndex": 3,
+    "explanation": "The guide reports Nunavut's population is about 85% Inuit.",
+    "topic": "regions"
+  },
+  {
+    "id": "q196",
+    "question": "Which language is both an official language in Nunavut and first language in schools there?",
+    "options": ["French", "Inuktitut", "English", "Cree"],
+    "correctIndex": 1,
+    "explanation": "The guide says Inuktitut is an official language and first language in schools in Nunavut.",
+    "topic": "regions"
+  },
+  {
+    "id": "q197",
+    "question": "Who helps maintain Canadian sovereignty in the Arctic using local knowledge and reserve service?",
+    "options": ["Coast Guard cadets", "Canadian Rangers", "Municipal police", "UN peacekeepers"],
+    "correctIndex": 1,
+    "explanation": "The guide describes the Canadian Rangers' key role in Arctic sovereignty and security.",
+    "topic": "regions"
+  },
+  {
+    "id": "q198",
+    "question": "What mountain in Yukon is the highest in Canada?",
+    "options": ["Mount Robson", "Mount Logan", "Mount Columbia", "Mount Thor"],
+    "correctIndex": 1,
+    "explanation": "Mount Logan, in Yukon, is identified as Canada's highest mountain.",
+    "topic": "regions"
+  },
+  {
+    "id": "q199",
+    "question": "Which city is known as the diamond capital of North America in the guide?",
+    "options": ["Whitehorse", "Iqaluit", "Yellowknife", "Fort McMurray"],
+    "correctIndex": 2,
+    "explanation": "Yellowknife is referred to as the diamond capital of North America.",
+    "topic": "regions"
+  },
+  {
+    "id": "q200",
+    "question": "In the Yukon, what is the record coldest temperature noted in the guide?",
+    "options": ["-45 C", "-52 C", "-63 C", "-71 C"],
+    "correctIndex": 2,
+    "explanation": "The guide notes Yukon holds the record for Canada's coldest temperature at -63 C.",
+    "topic": "regions"
+  }
+]
