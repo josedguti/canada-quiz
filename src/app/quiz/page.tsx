@@ -39,7 +39,7 @@ function QuizContent() {
           current={session.currentIndex + 1}
           total={session.questionIds.length}
           topic={currentQuestion.topic}
-          testNumber={testNumber}
+          testNumber={session.testNumber}
           onQuit={() => router.push("/")}
         />
 

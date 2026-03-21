@@ -1,6 +1,5 @@
 import Link from "next/link";
-
-const NUM_TESTS = 10;
+import { NUM_TESTS } from "@/lib/quiz-config";
 
 export function HeroSection() {
   return (
@@ -10,8 +9,8 @@ export function HeroSection() {
         <h1 className="text-2xl font-bold text-zinc-900">Canada Citizenship Quiz</h1>
       </div>
       <p className="text-zinc-500 text-sm leading-relaxed max-w-md">
-        Practice for the Canadian citizenship test. Each test has 20 questions.
-        Answer questions, see explanations, and track your progress over time.
+        Practice with 400 Discover Canada questions split into 20 fixed tests.
+        Each test has 20 unique questions with instant explanations and score history.
       </p>
       <div className="pt-1">
         <p className="text-xs font-semibold text-zinc-400 uppercase tracking-wide mb-3">

@@ -2,28 +2,24 @@
 
 import { useCallback, useEffect, useState } from "react";
 import { questions as allQuestions } from "@/lib/questions";
+import { clampTestNumber, getQuestionsForTest } from "@/lib/quiz-config";
 import {
   clearSessionSnapshot,
   computeAttempt,
   loadSessionSnapshot,
   saveSessionSnapshot,
-  shuffleArray,
 } from "@/lib/quiz-utils";
 import { appendAttempt } from "@/lib/storage";
 import { AnsweredQuestion, Question, QuizAttempt, QuizSession } from "@/lib/types";
 
-const QUESTIONS_PER_TEST = 20;
-const NUM_TESTS = 10;
-
 function buildSession(testNumber: number): QuizSession {
-  const clampedTest = Math.max(1, Math.min(testNumber, NUM_TESTS));
-  const start = (clampedTest - 1) * QUESTIONS_PER_TEST;
-  const testQuestions = allQuestions.slice(start, start + QUESTIONS_PER_TEST);
-  const shuffled = shuffleArray(testQuestions);
+  const clampedTest = clampTestNumber(testNumber);
+  const testQuestions = getQuestionsForTest(allQuestions, clampedTest);
+
   return {
     id: crypto.randomUUID(),
     startedAt: new Date().toISOString(),
-    questionIds: shuffled.map((q) => q.id),
+    questionIds: testQuestions.map((q) => q.id),
     answers: [],
     currentIndex: 0,
     isComplete: false,
@@ -52,10 +48,15 @@ interface QuizSessionState {
 }
 
 export function useQuizSession(testNumber: number = 1): QuizSessionState {
+  const clampedTestNumber = clampTestNumber(testNumber);
+
   const [session, setSession] = useState<QuizSession>(() => {
     const snapshot = loadSessionSnapshot<QuizSession>();
-    if (snapshot && !snapshot.isComplete && snapshot.testNumber === testNumber) return snapshot;
-    return buildSession(testNumber);
+    if (snapshot && !snapshot.isComplete && snapshot.testNumber === clampedTestNumber) {
+      return snapshot;
+    }
+
+    return buildSession(clampedTestNumber);
   });
 
   const [answerState, setAnswerState] = useState<AnswerState>("unanswered");

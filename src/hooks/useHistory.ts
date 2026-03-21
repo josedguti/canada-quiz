@@ -1,15 +1,10 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useState } from "react";
 import { clearHistory, loadHistory } from "@/lib/storage";
-import { QuizHistory } from "@/lib/types";
 
 export function useHistory() {
-  const [history, setHistory] = useState<QuizHistory>({ version: 1, attempts: [] });
-
-  useEffect(() => {
-    setHistory(loadHistory());
-  }, []);
+  const [history, setHistory] = useState(() => loadHistory());
 
   const refresh = useCallback(() => {
     setHistory(loadHistory());

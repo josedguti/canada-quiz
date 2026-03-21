@@ -1,10 +1,9 @@
 "use client";
 
 import { useSearchParams, useRouter } from "next/navigation";
-import { Suspense, useEffect, useState } from "react";
+import { Suspense, useMemo } from "react";
 import { getAttemptById } from "@/lib/storage";
 import { questions } from "@/lib/questions";
-import { QuizAttempt } from "@/lib/types";
 import { ScoreSummary } from "@/components/results/ScoreSummary";
 import { QuestionReview } from "@/components/results/QuestionReview";
 import { Button } from "@/components/ui/Button";
@@ -13,21 +12,16 @@ function ResultsContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const id = searchParams.get("id");
-  const [attempt, setAttempt] = useState<QuizAttempt | null>(null);
-  const [notFound, setNotFound] = useState(false);
 
-  useEffect(() => {
+  const attempt = useMemo(() => {
     if (!id) {
-      setNotFound(true);
-      return;
+      return null;
     }
-    const found = getAttemptById(id);
-    if (found) {
-      setAttempt(found);
-    } else {
-      setNotFound(true);
-    }
+
+    return getAttemptById(id);
   }, [id]);
+
+  const notFound = !id || !attempt;
 
   if (notFound) {
     return (
@@ -40,14 +34,6 @@ function ResultsContent() {
     );
   }
 
-  if (!attempt) {
-    return (
-      <div className="min-h-screen bg-zinc-50 flex items-center justify-center">
-        <p className="text-zinc-400 text-sm">Loading…</p>
-      </div>
-    );
-  }
-
   const orderedQuestions = attempt.answers.map(
     (a) => questions.find((q) => q.id === a.questionId)!
   ).filter(Boolean);
@@ -55,7 +41,12 @@ function ResultsContent() {
   return (
     <div className="min-h-screen bg-zinc-50">
       <div className="max-w-2xl mx-auto px-4 py-8 md:py-16 space-y-6">
-        <h1 className="text-xl font-semibold text-zinc-900">Your Results</h1>
+        <div className="flex items-center justify-between gap-3">
+          <h1 className="text-xl font-semibold text-zinc-900">Your Results</h1>
+          <Button variant="secondary" onClick={() => router.push("/")}>
+            Back to Home
+          </Button>
+        </div>
 
         <ScoreSummary attempt={attempt} />
         <QuestionReview answers={attempt.answers} questions={orderedQuestions} />
