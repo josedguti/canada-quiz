@@ -22,12 +22,23 @@ export function QuestionReview({ answers, questions }: QuestionReviewProps) {
             className="rounded-2xl border border-zinc-100 bg-white shadow-sm p-5 space-y-3"
           >
             <div className="flex items-start justify-between gap-3">
-              <p className="text-sm font-medium text-zinc-900 leading-relaxed">
-                {i + 1}. {q.question}
-              </p>
-              <span className="text-xs text-zinc-400 whitespace-nowrap">
-                {topicLabel(q.topic)}
-              </span>
+              <div className="space-y-2">
+                <div className="flex flex-wrap items-center gap-2">
+                  <span className="text-xs text-zinc-400 whitespace-nowrap">
+                    {topicLabel(q.topic)}
+                  </span>
+                  <span className="inline-flex rounded-full bg-zinc-100 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-zinc-500">
+                    {q.type === "true-false"
+                      ? "True or False"
+                      : q.type === "fill-in-the-blank"
+                        ? "Fill in the Blank"
+                        : "Multiple Choice"}
+                  </span>
+                </div>
+                <p className="text-sm font-medium text-zinc-900 leading-relaxed">
+                  {i + 1}. {q.question}
+                </p>
+              </div>
             </div>
 
             <div className="space-y-1.5">
@@ -55,7 +66,10 @@ export function QuestionReview({ answers, questions }: QuestionReviewProps) {
             </div>
 
             <div className={`rounded-xl border-l-4 px-3 py-2 text-xs ${answer.isCorrect ? "border-emerald-500 bg-emerald-50 text-emerald-900" : "border-red-400 bg-red-50 text-red-900"}`}>
-              {q.explanation}
+              <p>{q.explanation}</p>
+              <p className="mt-2 font-bold opacity-80">
+                Page {q.studyGuidePage}
+              </p>
             </div>
           </div>
         );

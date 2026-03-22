@@ -1,97 +1,97 @@
 [
   {
-    "question": "What is the only official study guide for the citizenship test?",
+    "question": "Discover Canada is the only official study guide for the citizenship test.",
     "options": [
-      "Discover Canada",
-      "The Canada Yearbook",
-      "Canada: A Portrait",
-      "How Canadians Govern Themselves"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "Discover Canada is the official citizenship study guide named in the booklet.",
     "topic": "rights-and-responsibilities",
-    "id": "q1"
+    "id": "q1",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "What age group must usually show adequate knowledge of English or French to become citizens?",
+    "question": "The correct answer to this question is \"Applicants aged 18 to 54\".",
     "options": [
-      "All permanent residents",
-      "Applicants aged 18 to 54",
-      "Applicants aged 16 to 60",
-      "Applicants aged 21 to 65"
+      "True",
+      "False"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The guide says immigrants between 18 and 54 must have adequate knowledge of English or French.",
     "topic": "rights-and-responsibilities",
-    "id": "q2"
+    "id": "q2",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "Who generally does not need to write the citizenship test?",
+    "question": "The correct answer to this question is \"Applicants under 18\".",
     "options": [
-      "Applicants under 18",
-      "Adult applicants 55 years of age and over",
-      "Only applicants born in Commonwealth countries",
-      "All permanent residents"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "explanation": "Adult applicants 55 years of age and over are generally exempt from the test.",
     "topic": "rights-and-responsibilities",
-    "id": "q3"
+    "id": "q3",
+    "type": "true-false",
+    "studyGuidePage": 6
   },
   {
-    "question": "What form does the citizenship test usually take?",
+    "question": "The correct answer to this question is \"A written test, though it may also be an interview\".",
     "options": [
-      "A driving test",
-      "A written test, though it may also be an interview",
-      "Only an oral interview",
-      "Only an online exam"
-    ],
-    "correctIndex": 1,
-    "explanation": "The guide says the test is usually written, but it could be an interview.",
-    "topic": "rights-and-responsibilities",
-    "id": "q4"
-  },
-  {
-    "question": "If you pass the test and meet all other requirements, what do you receive?",
-    "options": [
-      "A Canadian passport",
-      "A tax refund notice",
-      "A Senate appointment letter",
-      "A Notice to Appear to Take the Oath of Citizenship"
-    ],
-    "correctIndex": 3,
-    "explanation": "Successful applicants receive a notice to appear at their citizenship ceremony.",
-    "topic": "rights-and-responsibilities",
-    "id": "q5"
-  },
-  {
-    "question": "What do you receive at the citizenship ceremony after taking the oath and signing the form?",
-    "options": [
-      "A birth certificate",
-      "A provincial health card",
-      "A Canadian Citizenship Certificate",
-      "A voter information card"
-    ],
-    "correctIndex": 2,
-    "explanation": "At the ceremony you take the oath, sign the form, and receive your citizenship certificate.",
-    "topic": "rights-and-responsibilities",
-    "id": "q6"
-  },
-  {
-    "question": "What does the Oath of Citizenship require Canadians to observe faithfully?",
-    "options": [
-      "The laws of Canada, including the Constitution",
-      "Only federal tax laws",
-      "Only the Criminal Code",
-      "Only municipal bylaws"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
-    "explanation": "The oath says citizens will faithfully observe the laws of Canada, including the Constitution.",
+    "explanation": "The guide says the test is usually written, but it could be an interview.",
     "topic": "rights-and-responsibilities",
-    "id": "q7"
+    "id": "q4",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "Which rights are specifically recognized and affirmed in the Oath of Citizenship?",
+    "question": "The correct answer to this question is \"A Canadian passport\".",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "explanation": "Successful applicants receive a notice to appear at their citizenship ceremony.",
+    "topic": "rights-and-responsibilities",
+    "id": "q5",
+    "type": "true-false",
+    "studyGuidePage": 6
+  },
+  {
+    "question": "The correct answer to this question is \"A Canadian Citizenship Certificate\".",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "explanation": "At the ceremony you take the oath, sign the form, and receive your citizenship certificate.",
+    "topic": "rights-and-responsibilities",
+    "id": "q6",
+    "type": "true-false",
+    "studyGuidePage": 2
+  },
+  {
+    "question": "The correct answer to this question is \"Only federal tax laws\".",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "explanation": "The oath says citizens will faithfully observe the laws of Canada, including the Constitution.",
+    "topic": "rights-and-responsibilities",
+    "id": "q7",
+    "type": "true-false",
+    "studyGuidePage": 2
+  },
+  {
+    "question": "_____ are specifically recognized and affirmed in the Oath of Citizenship.",
     "options": [
       "Only provincial property rights",
       "Only voting rights",
@@ -101,62 +101,64 @@
     "correctIndex": 3,
     "explanation": "The oath explicitly recognizes and affirms Aboriginal and treaty rights of First Nations, Inuit and Metis peoples.",
     "topic": "rights-and-responsibilities",
-    "id": "q8"
+    "id": "q8",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 2
   },
   {
-    "question": "In Canada's constitutional monarchy, to whom do Canadians profess loyalty in the oath?",
+    "question": "The correct answer to this question is \"The national flag only\".",
     "options": [
-      "The national flag only",
-      "A written constitution only",
-      "The Sovereign, who represents all Canadians",
-      "The Prime Minister only"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The guide explains that loyalty is professed to the Sovereign, who personifies Canada.",
     "topic": "rights-and-responsibilities",
-    "id": "q9"
+    "id": "q9",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "What is one of the four fundamental freedoms named in the guide?",
+    "question": "Freedom to ignore the courts is one of the four fundamental freedoms named in the guide.",
     "options": [
-      "Freedom to ignore the courts",
-      "Freedom from taxes",
-      "Freedom of peaceful assembly",
-      "Freedom from elections"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Freedom of peaceful assembly is one of the four fundamental freedoms listed.",
     "topic": "rights-and-responsibilities",
-    "id": "q10"
+    "id": "q10",
+    "type": "true-false",
+    "studyGuidePage": 8
   },
   {
-    "question": "Which freedom protects the press in Canada?",
+    "question": "The correct answer to this question is \"Freedom of mobility\".",
     "options": [
-      "Freedom of mobility",
-      "Freedom of trade",
-      "Freedom from jury duty",
-      "Freedom of thought, belief, opinion and expression"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "The guide includes freedom of thought, belief, opinion and expression, including freedom of speech and of the press.",
     "topic": "rights-and-responsibilities",
-    "id": "q11"
+    "id": "q11",
+    "type": "true-false",
+    "studyGuidePage": 8
   },
   {
-    "question": "What does habeas corpus allow a person to do?",
+    "question": "The correct answer to this question is \"Challenge unlawful detention by the state\".",
     "options": [
-      "Avoid jury duty",
-      "Appoint a judge",
-      "Challenge unlawful detention by the state",
-      "Refuse to pay taxes"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Habeas corpus is the right to challenge unlawful detention by the state.",
     "topic": "rights-and-responsibilities",
-    "id": "q12"
+    "id": "q12",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "When was the Constitution of Canada amended to entrench the Charter of Rights and Freedoms?",
+    "question": "The constitution of canada amended to entrench the charter of rights and freedoms was _____.",
     "options": [
       "1867",
       "1982",
@@ -166,140 +168,142 @@
     "correctIndex": 1,
     "explanation": "The Charter was entrenched in the Constitution in 1982.",
     "topic": "rights-and-responsibilities",
-    "id": "q13"
+    "id": "q13",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 8
   },
   {
-    "question": "What do mobility rights allow Canadians to do?",
+    "question": "The correct answer to this question is \"Live and work anywhere in Canada\".",
     "options": [
-      "Vote in any foreign election",
-      "Live and work anywhere in Canada",
-      "Avoid carrying passports",
-      "Ignore provincial laws"
+      "True",
+      "False"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Mobility rights include living and working anywhere in Canada and entering and leaving the country freely.",
     "topic": "rights-and-responsibilities",
-    "id": "q14"
+    "id": "q14",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "How does the guide describe multiculturalism?",
+    "question": "The correct answer to this question is \"A replacement for official languages\".",
     "options": [
-      "A replacement for official languages",
-      "A temporary immigration policy",
-      "A fundamental characteristic of Canadian heritage and identity",
-      "A provincial program only"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The guide calls multiculturalism a fundamental characteristic of Canadian heritage and identity.",
     "topic": "rights-and-responsibilities",
-    "id": "q15"
+    "id": "q15",
+    "type": "true-false",
+    "studyGuidePage": 8
   },
   {
-    "question": "What founding principle means that no person or group is above the law?",
+    "question": "The correct answer to this question is \"The rule of law\".",
     "options": [
-      "The rule of law",
-      "Collective bargaining",
-      "A majority government",
-      "Responsible government"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "The rule of law means individuals and governments are regulated by laws and no one is above them.",
     "topic": "rights-and-responsibilities",
-    "id": "q16"
+    "id": "q16",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "Is military service compulsory in Canada?",
+    "question": "The correct answer to this question is \"Yes, for all adult citizens\".",
     "options": [
-      "Yes, for all adult citizens",
-      "Yes, during every federal election",
-      "Yes, for new citizens only",
-      "No, military service is not compulsory"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "The guide states that there is no compulsory military service in Canada.",
     "topic": "rights-and-responsibilities",
-    "id": "q17"
+    "id": "q17",
+    "type": "true-false",
+    "studyGuidePage": 8
   },
   {
-    "question": "How are women and men treated under Canadian law?",
+    "question": "The correct answer to this question is \"They are equal under the law\".",
     "options": [
-      "They are equal under the law",
-      "Women cannot hold public office",
-      "Their rights vary by province",
-      "Men have more voting rights"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "Canada recognizes the equality of women and men under the law.",
     "topic": "rights-and-responsibilities",
-    "id": "q18"
+    "id": "q18",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "What does the guide say about forced marriage and honour killings?",
+    "question": "The correct answer to this question is \"They are handled only by families\".",
     "options": [
-      "They are handled only by families",
-      "They are crimes severely punished under Canadian law",
-      "They are allowed if communities approve",
-      "They are protected cultural traditions"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "explanation": "The guide says barbaric cultural practices such as forced marriage and honour killings are severely punished.",
     "topic": "rights-and-responsibilities",
-    "id": "q19"
+    "id": "q19",
+    "type": "true-false",
+    "studyGuidePage": 8
   },
   {
-    "question": "Which responsibility of citizenship includes getting a job and taking care of your family?",
+    "question": "The correct answer to this question is \"Taking responsibility for oneself and one's family\".",
     "options": [
-      "Owning private property",
-      "Joining a union",
-      "Taking responsibility for oneself and one's family",
-      "Serving in the Senate"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The guide says taking responsibility for yourself and your family is an important responsibility of citizenship.",
     "topic": "rights-and-responsibilities",
-    "id": "q20"
+    "id": "q20",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "When called to do so, what are Canadians legally required to do?",
+    "question": "The correct answer to this question is \"Join the Cabinet\".",
     "options": [
-      "Join the Cabinet",
-      "Serve on a jury",
-      "Volunteer at a polling station",
-      "Move to Ottawa"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "explanation": "Serving on a jury is a legal duty when called.",
     "topic": "rights-and-responsibilities",
-    "id": "q21"
+    "id": "q21",
+    "type": "true-false",
+    "studyGuidePage": 8
   },
   {
-    "question": "In which elections does the guide say citizens have a responsibility to vote?",
+    "question": "The correct answer to this question is \"Federal, provincial or territorial, and local elections\".",
     "options": [
-      "Municipal elections only",
-      "Party leadership elections only",
-      "Federal elections only",
-      "Federal, provincial or territorial, and local elections"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "The guide says citizens should vote in federal, provincial or territorial, and local elections.",
     "topic": "rights-and-responsibilities",
-    "id": "q22"
+    "id": "q22",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "What is volunteering presented as in the guide?",
+    "question": "A way to help others and gain useful skills and contacts is volunteering presented as in the guide.",
     "options": [
-      "A duty limited to students",
-      "A way to help others and gain useful skills and contacts",
-      "A legal requirement for all adults",
-      "A substitute for paying taxes"
+      "True",
+      "False"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The guide says volunteering helps people in need and can build useful skills, friends, and contacts.",
     "topic": "rights-and-responsibilities",
-    "id": "q23"
+    "id": "q23",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "What is every citizen expected to help protect for future generations?",
+    "question": "Every citizen expected to help protect for future generations is _____.",
     "options": [
       "Canada's natural, cultural, and architectural heritage",
       "Only military bases",
@@ -309,36 +313,38 @@
     "correctIndex": 0,
     "explanation": "The guide says citizens should protect Canada's natural, cultural, and architectural heritage while avoiding waste and pollution.",
     "topic": "rights-and-responsibilities",
-    "id": "q24"
+    "id": "q24",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 8
   },
   {
-    "question": "What should newcomers embrace when becoming Canadian, according to the guide?",
+    "question": "The correct answer to this question is \"Violent political traditions\".",
     "options": [
-      "Violent political traditions",
-      "Private militias",
-      "Democratic principles such as the rule of law",
-      "Regional separatism"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The guide says newcomers are expected to embrace democratic principles such as the rule of law.",
     "topic": "rights-and-responsibilities",
-    "id": "q25"
+    "id": "q25",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "What are Canada's two official languages?",
+    "question": "English and Inuktitut are Canada's two official languages.",
     "options": [
-      "English and Inuktitut",
-      "English and French",
-      "English and Spanish",
-      "French and Cree"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "explanation": "English and French are Canada's official languages.",
     "topic": "rights-and-responsibilities",
-    "id": "q26"
+    "id": "q26",
+    "type": "true-false",
+    "studyGuidePage": 6
   },
   {
-    "question": "What is New Brunswick's status in relation to official languages?",
+    "question": "New brunswick's status in relation to official languages is _____.",
     "options": [
       "It is the only province with no official language",
       "It is the only province with three official languages",
@@ -348,23 +354,25 @@
     "correctIndex": 3,
     "explanation": "The guide says New Brunswick is the only officially bilingual province.",
     "topic": "rights-and-responsibilities",
-    "id": "q27"
+    "id": "q27",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 8
   },
   {
-    "question": "Why do adult applicants aged 55 or over not need to take the citizenship language requirement?",
+    "question": "The correct answer to this question is \"They are exempt from that requirement\".",
     "options": [
-      "They are automatically appointed citizens",
-      "They can vote already",
-      "They are exempt from that requirement",
-      "They must serve on juries instead"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Adult applicants 55 years of age and over are exempt from the test and language requirement mentioned in the guide.",
     "topic": "rights-and-responsibilities",
-    "id": "q28"
+    "id": "q28",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "What should be your primary resource if you are preparing for the citizenship test?",
+    "question": "Fill in the blank based on this question: What should be your primary resource if you are preparing for the citizenship test Blank: _____.",
     "options": [
       "Only third-party practice tests",
       "A driver's manual",
@@ -374,10 +382,12 @@
     "correctIndex": 2,
     "explanation": "The guide warns that your primary resource should be the official study guide.",
     "topic": "rights-and-responsibilities",
-    "id": "q29"
+    "id": "q29",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 2
   },
   {
-    "question": "What may happen if you do not pass the citizenship test?",
+    "question": "Fill in the blank based on this question: What may happen if you do not pass the citizenship test Blank: _____.",
     "options": [
       "You receive a notification indicating the next steps",
       "You are barred for life from applying again",
@@ -387,10 +397,12 @@
     "correctIndex": 0,
     "explanation": "The guide says applicants who do not pass receive a notification explaining the next steps.",
     "topic": "rights-and-responsibilities",
-    "id": "q30"
+    "id": "q30",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 6
   },
   {
-    "question": "Which phrase from the Charter underlines the importance of religious traditions and the rule of law?",
+    "question": "Fill in the blank based on this question: Which phrase from the Charter underlines the importance of religious traditions and the rule of law Blank: _____.",
     "options": [
       "Peace, order and military duty",
       "The supremacy of God and the rule of law",
@@ -400,10 +412,12 @@
     "correctIndex": 1,
     "explanation": "The Charter begins by recognizing the supremacy of God and the rule of law.",
     "topic": "rights-and-responsibilities",
-    "id": "q31"
+    "id": "q31",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 8
   },
   {
-    "question": "What does the guide say Canadian citizens enjoy in addition to rights?",
+    "question": "Fill in the blank based on this question: What does the guide say Canadian citizens enjoy in addition to rights Blank: _____.",
     "options": [
       "Responsibilities",
       "Guaranteed government jobs",
@@ -413,10 +427,12 @@
     "correctIndex": 0,
     "explanation": "The guide emphasizes that Canadians enjoy rights but also have responsibilities.",
     "topic": "rights-and-responsibilities",
-    "id": "q32"
+    "id": "q32",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 8
   },
   {
-    "question": "What do citizens have to respect in addition to obeying Canada's laws?",
+    "question": "Fill in the blank based on this question: What do citizens have to respect in addition to obeying Canada's laws Blank: _____.",
     "options": [
       "Only provincial premiers",
       "Only court judges",
@@ -426,10 +442,12 @@
     "correctIndex": 2,
     "explanation": "The guide says Canadians must obey laws and respect the rights and freedoms of others.",
     "topic": "rights-and-responsibilities",
-    "id": "q33"
+    "id": "q33",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 8
   },
   {
-    "question": "What should you do if you want help preparing for the citizenship test?",
+    "question": "Fill in the blank based on this question: What should you do if you want help preparing for the citizenship test Blank: _____.",
     "options": [
       "Skip language study",
       "Study the guide and practice answering questions about Canada",
@@ -439,23 +457,25 @@
     "correctIndex": 1,
     "explanation": "The study guide recommends studying the booklet and practicing questions about Canada.",
     "topic": "rights-and-responsibilities",
-    "id": "q34"
+    "id": "q34",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 6
   },
   {
-    "question": "Which of the following is one of Canada's fundamental freedoms?",
+    "question": "Freedom of conscience and religion is one of Canada's fundamental freedoms.",
     "options": [
-      "Freedom of conscience and religion",
-      "Freedom of peaceful assembly",
-      "Freedom of association",
-      "Freedom of thought, belief, opinion and expression"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "The guide lists freedom of conscience and religion as a fundamental freedom.",
     "topic": "rights-and-responsibilities",
-    "id": "q35"
+    "id": "q35",
+    "type": "true-false",
+    "studyGuidePage": 2
   },
   {
-    "question": "Which of the following is named in the guide as a responsibility of citizenship?",
+    "question": "_____ is named in the guide as a responsibility of citizenship.",
     "options": [
       "Obeying the law",
       "Serving on a jury",
@@ -465,23 +485,25 @@
     "correctIndex": 0,
     "explanation": "The guide says one of Canada's founding principles is the rule of law.",
     "topic": "rights-and-responsibilities",
-    "id": "q36"
+    "id": "q36",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 8
   },
   {
-    "question": "Who are described as the three founding peoples of Canada?",
+    "question": "Aboriginal, French, and British peoples are described as the three founding peoples of Canada.",
     "options": [
-      "Aboriginal, French, and British peoples",
-      "Aboriginal, American, and British peoples",
-      "French, German, and Italian peoples",
-      "British, Irish, and Ukrainian peoples"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "The guide says it is important to know Canada's three founding peoples: Aboriginal, French, and British.",
     "topic": "history",
-    "id": "q37"
+    "id": "q37",
+    "type": "true-false",
+    "studyGuidePage": 12
   },
   {
-    "question": "From where are the ancestors of Aboriginal peoples believed to have migrated many thousands of years ago?",
+    "question": "Fill in the blank based on this question: From where are the ancestors of Aboriginal peoples believed to have migrated many thousands of years ago Blank: _____.",
     "options": [
       "Asia",
       "Europe",
@@ -491,10 +513,12 @@
     "correctIndex": 0,
     "explanation": "The guide says the ancestors of Aboriginal peoples are believed to have migrated from Asia.",
     "topic": "history",
-    "id": "q38"
+    "id": "q38",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 10
   },
   {
-    "question": "What 1763 document first guaranteed Aboriginal territorial rights and established a basis for treaties?",
+    "question": "Fill in the blank based on this question: What 1763 document first guaranteed Aboriginal territorial rights and established a basis for treaties Blank: _____.",
     "options": [
       "The Constitution Act, 1867",
       "The Official Languages Act",
@@ -504,10 +528,12 @@
     "correctIndex": 3,
     "explanation": "The Royal Proclamation of 1763 guaranteed territorial rights and became the basis for negotiating treaties.",
     "topic": "history",
-    "id": "q39"
+    "id": "q39",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 10
   },
   {
-    "question": "When did Ottawa formally apologize to former residential school students?",
+    "question": "Ottawa formally apologize to former residential school students happened in _____.",
     "options": [
       "1949",
       "1867",
@@ -517,23 +543,25 @@
     "correctIndex": 2,
     "explanation": "The guide says Ottawa formally apologized in 2008.",
     "topic": "history",
-    "id": "q40"
+    "id": "q40",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 10
   },
   {
-    "question": "What does the word Inuit mean in Inuktitut?",
+    "question": "the word Inuit means The people in Inuktitut.",
     "options": [
-      "Northern lights",
-      "True north",
-      "Our land",
-      "The people"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "The guide explains that Inuit means 'the people.'",
     "topic": "history",
-    "id": "q41"
+    "id": "q41",
+    "type": "true-false",
+    "studyGuidePage": 12
   },
   {
-    "question": "Who are the Metis according to the guide?",
+    "question": "_____ are the Metis according to the guide.",
     "options": [
       "A distinct people of mixed Aboriginal and European ancestry",
       "All residents of the territories",
@@ -543,10 +571,12 @@
     "correctIndex": 0,
     "explanation": "The guide describes the Metis as a distinct people of mixed Aboriginal and European ancestry.",
     "topic": "history",
-    "id": "q42"
+    "id": "q42",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 10
   },
   {
-    "question": "Which group makes up about 65% of the Aboriginal population mentioned in the guide?",
+    "question": "Fill in the blank based on this question: Which group makes up about 65% of the Aboriginal population mentioned in the guide Blank: _____.",
     "options": [
       "Inuit",
       "Metis",
@@ -556,23 +586,25 @@
     "correctIndex": 2,
     "explanation": "The guide says about 65% of Aboriginal people are First Nations.",
     "topic": "history",
-    "id": "q43"
+    "id": "q43",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "Who are the Acadians?",
+    "question": "Inuit living in the Arctic are the Acadians.",
     "options": [
-      "Descendants of French colonists who began settling in the Maritimes in 1604",
-      "Inuit living in the Arctic",
-      "British settlers who founded Ontario",
-      "Loyalists who fled the American Revolution"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "The guide says the Acadians are descendants of French colonists who began settling in the Maritimes in 1604.",
     "topic": "history",
-    "id": "q44"
+    "id": "q44",
+    "type": "true-false",
+    "studyGuidePage": 10
   },
   {
-    "question": "What was the Great Upheaval?",
+    "question": "The great upheaval was _____.",
     "options": [
       "The deportation of more than two-thirds of the Acadians between 1755 and 1763",
       "The Quiet Revolution in Quebec",
@@ -582,10 +614,12 @@
     "correctIndex": 0,
     "explanation": "The Great Upheaval refers to the deportation of the Acadians.",
     "topic": "history",
-    "id": "q45"
+    "id": "q45",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 10
   },
   {
-    "question": "What did the House of Commons recognize in 2006 about the Quebecois?",
+    "question": "Fill in the blank based on this question: What did the House of Commons recognize in 2006 about the Quebecois Blank: _____.",
     "options": [
       "That Quebec is no longer part of Canada",
       "That all Quebecers are exempt from federal law",
@@ -595,10 +629,12 @@
     "correctIndex": 2,
     "explanation": "The guide says the House of Commons recognized in 2006 that the Quebecois form a nation within a united Canada.",
     "topic": "history",
-    "id": "q46"
+    "id": "q46",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 10
   },
   {
-    "question": "Who reached Labrador and Newfoundland about 1,000 years ago?",
+    "question": "Fill in the blank based on this question: Who reached Labrador and Newfoundland about 1,000 years ago Blank: _____.",
     "options": [
       "The Dutch East India Company",
       "The Vikings from Iceland",
@@ -608,23 +644,25 @@
     "correctIndex": 1,
     "explanation": "The guide says Vikings from Iceland reached Labrador and Newfoundland about 1,000 years ago.",
     "topic": "history",
-    "id": "q47"
+    "id": "q47",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "What is l'Anse aux Meadows?",
+    "question": "A fur-trading post in Manitoba is l'Anse aux Meadows.",
     "options": [
-      "A fur-trading post in Manitoba",
-      "The remains of a Viking settlement in Newfoundland",
-      "A battle site from the War of 1812",
-      "The first Parliament building in Ottawa"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "explanation": "L'Anse aux Meadows is the remains of a Viking settlement and a World Heritage site.",
     "topic": "history",
-    "id": "q48"
+    "id": "q48",
+    "type": "true-false",
+    "studyGuidePage": 14
   },
   {
-    "question": "Who first mapped Canada's Atlantic coast in 1497?",
+    "question": "Fill in the blank based on this question: Who first mapped Canada's Atlantic coast in 1497 Blank: _____.",
     "options": [
       "John Cabot",
       "Jacques Cartier",
@@ -634,10 +672,12 @@
     "correctIndex": 0,
     "explanation": "John Cabot's 1497 expedition first mapped Canada's East Coast.",
     "topic": "history",
-    "id": "q49"
+    "id": "q49",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "Which explorer made three voyages and helped give Canada its name?",
+    "question": "Fill in the blank based on this question: Which explorer made three voyages and helped give Canada its name Blank: _____.",
     "options": [
       "John Cabot",
       "Lord Durham",
@@ -647,10 +687,12 @@
     "correctIndex": 3,
     "explanation": "Jacques Cartier heard the word kanata and the name Canada began appearing on maps afterward.",
     "topic": "history",
-    "id": "q50"
+    "id": "q50",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "What did the Iroquoian word kanata mean?",
+    "question": "Fill in the blank based on this question: What did the Iroquoian word kanata mean Blank: _____.",
     "options": [
       "River",
       "Village",
@@ -660,10 +702,12 @@
     "correctIndex": 1,
     "explanation": "Cartier heard captured guides use the word kanata, meaning village.",
     "topic": "history",
-    "id": "q51"
+    "id": "q51",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "Who founded Quebec City in 1608?",
+    "question": "Fill in the blank based on this question: Who founded Quebec City in 1608 Blank: _____.",
     "options": [
       "Samuel de Champlain",
       "Jean Talon",
@@ -673,10 +717,12 @@
     "correctIndex": 0,
     "explanation": "Champlain built a fortress at what is now Quebec City in 1608.",
     "topic": "history",
-    "id": "q52"
+    "id": "q52",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "Which company received exclusive trading rights over the Hudson Bay watershed in 1670?",
+    "question": "Fill in the blank based on this question: Which company received exclusive trading rights over the Hudson Bay watershed in 1670 Blank: _____.",
     "options": [
       "The Hudson's Bay Company",
       "Elections Canada",
@@ -686,10 +732,12 @@
     "correctIndex": 0,
     "explanation": "King Charles II granted the Hudson's Bay Company exclusive trading rights in 1670.",
     "topic": "history",
-    "id": "q53"
+    "id": "q53",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "Who were the canoe-travelling fur traders known for alliances with First Nations?",
+    "question": "_____ were the canoe-travelling fur traders known for alliances with First Nations.",
     "options": [
       "Loyalists and reformers",
       "Senators and MPs",
@@ -699,10 +747,12 @@
     "correctIndex": 2,
     "explanation": "The guide says voyageurs and coureurs des bois travelled by canoe and formed strong alliances with First Nations.",
     "topic": "history",
-    "id": "q54"
+    "id": "q54",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "Which 1759 battle marked the end of France's empire in America?",
+    "question": "Fill in the blank based on this question: Which 1759 battle marked the end of France's empire in America Blank: _____.",
     "options": [
       "The Battle of Trafalgar",
       "The Battle of the Plains of Abraham",
@@ -712,10 +762,12 @@
     "correctIndex": 1,
     "explanation": "The British defeated the French at the Plains of Abraham in 1759.",
     "topic": "history",
-    "id": "q55"
+    "id": "q55",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "Which 1774 law allowed religious freedom for Catholics and restored French civil law in Quebec?",
+    "question": "Fill in the blank based on this question: Which 1774 law allowed religious freedom for Catholics and restored French civil law in Quebec Blank: _____.",
     "options": [
       "The Constitution Act, 1982",
       "The Citizenship Act",
@@ -725,23 +777,25 @@
     "correctIndex": 3,
     "explanation": "The Quebec Act allowed religious freedom for Catholics and restored French civil law while keeping British criminal law.",
     "topic": "history",
-    "id": "q56"
+    "id": "q56",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "Who were the Loyalists?",
+    "question": "People loyal to the Crown who fled the American Revolution to settle in Canada were the Loyalists.",
     "options": [
-      "Ukrainian immigrants to the Prairies",
-      "Canadian soldiers at Vimy Ridge",
-      "French settlers who founded Quebec City",
-      "People loyal to the Crown who fled the American Revolution to settle in Canada"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "The guide says more than 40,000 people loyal to the Crown fled north during the American Revolution.",
     "topic": "history",
-    "id": "q57"
+    "id": "q57",
+    "type": "true-false",
+    "studyGuidePage": 12
   },
   {
-    "question": "Which Mohawk leader brought thousands of Loyalist Indians into Canada?",
+    "question": "Fill in the blank based on this question: Which Mohawk leader brought thousands of Loyalist Indians into Canada Blank: _____.",
     "options": [
       "Joseph Brant",
       "Louis Riel",
@@ -751,10 +805,12 @@
     "correctIndex": 0,
     "explanation": "Joseph Brant led thousands of Loyalist Mohawk Indians into Canada.",
     "topic": "history",
-    "id": "q58"
+    "id": "q58",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 14
   },
   {
-    "question": "What did the Constitutional Act of 1791 do?",
+    "question": "Fill in the blank based on this question: What did the Constitutional Act of 1791 do Blank: _____.",
     "options": [
       "It created Nunavut",
       "It made Ottawa the capital",
@@ -764,10 +820,12 @@
     "correctIndex": 2,
     "explanation": "The Constitutional Act of 1791 divided Quebec into Upper Canada and Lower Canada.",
     "topic": "history",
-    "id": "q59"
+    "id": "q59",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 16
   },
   {
-    "question": "Who was Upper Canada's first Lieutenant Governor and helped make it the first province in the Empire to move toward abolition?",
+    "question": "_____ was Upper Canada's first Lieutenant Governor and helped make it the first province in the Empire to move toward abolition.",
     "options": [
       "Sir Wilfrid Laurier",
       "David Johnston",
@@ -777,20 +835,22 @@
     "correctIndex": 2,
     "explanation": "John Graves Simcoe led Upper Canada's move toward abolition in 1793.",
     "topic": "history",
-    "id": "q60"
+    "id": "q60",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 16
   },
   {
-    "question": "When did the British Parliament abolish slavery throughout the Empire?",
+    "question": "the British Parliament abolish slavery throughout the Empire in 1833.",
     "options": [
-      "1791",
-      "1918",
-      "1833",
-      "1867"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The guide says slavery was abolished throughout the British Empire in 1833.",
     "topic": "history",
-    "id": "q61"
+    "id": "q61",
+    "type": "true-false",
+    "studyGuidePage": 12
   },
   {
     "question": "What network helped thousands of slaves escape to Canada?",
@@ -803,7 +863,9 @@
     "correctIndex": 2,
     "explanation": "Escaped slaves settled in Canada via the Underground Railroad.",
     "topic": "history",
-    "id": "q62"
+    "id": "q62",
+    "type": "multiple-choice",
+    "studyGuidePage": 16
   },
   {
     "question": "What outcome did the War of 1812 help secure?",
@@ -816,7 +878,9 @@
     "correctIndex": 0,
     "explanation": "The guide says the present-day Canada-U.S. border is partly an outcome of the War of 1812.",
     "topic": "history",
-    "id": "q63"
+    "id": "q63",
+    "type": "multiple-choice",
+    "studyGuidePage": 16
   },
   {
     "question": "Which Shawnee leader supported British and Canadian forces in the War of 1812?",
@@ -829,10 +893,12 @@
     "correctIndex": 0,
     "explanation": "Chief Tecumseh and First Nations allies supported the defence of Canada.",
     "topic": "history",
-    "id": "q64"
+    "id": "q64",
+    "type": "multiple-choice",
+    "studyGuidePage": 16
   },
   {
-    "question": "Which general captured Detroit in 1812 but was later killed at Queenston Heights?",
+    "question": "_____ was later killed at Queenston Heights.",
     "options": [
       "Robert Ross",
       "Donald Smith",
@@ -842,7 +908,9 @@
     "correctIndex": 2,
     "explanation": "Brock captured Detroit and was killed defending against an American attack at Queenston Heights.",
     "topic": "history",
-    "id": "q65"
+    "id": "q65",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 16
   },
   {
     "question": "Who warned Lieutenant James FitzGibbon of a planned American attack in 1813?",
@@ -855,7 +923,9 @@
     "correctIndex": 3,
     "explanation": "Laura Secord's warning contributed to victory at the Battle of Beaver Dams.",
     "topic": "history",
-    "id": "q66"
+    "id": "q66",
+    "type": "multiple-choice",
+    "studyGuidePage": 16
   },
   {
     "question": "Which French-Canadian officer turned back 4,000 American invaders at Chateauguay in 1813?",
@@ -868,20 +938,22 @@
     "correctIndex": 2,
     "explanation": "Lieutenant-Colonel Charles de Salaberry and mostly French-Canadian soldiers turned back the invaders.",
     "topic": "history",
-    "id": "q67"
+    "id": "q67",
+    "type": "multiple-choice",
+    "studyGuidePage": 16
   },
   {
-    "question": "Which public building in Washington was burned in retaliation by British-led forces from Nova Scotia in 1814?",
+    "question": "The Supreme Court of Canada was burned in retaliation by British-led forces from Nova Scotia in 1814.",
     "options": [
-      "The White House",
-      "The Supreme Court of Canada",
-      "Rideau Hall",
-      "The Capitol Tower of Ottawa"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "In 1814, forces led by Robert Ross burned the White House and other public buildings in Washington.",
     "topic": "history",
-    "id": "q68"
+    "id": "q68",
+    "type": "true-false",
+    "studyGuidePage": 16
   },
   {
     "question": "Which canal helped protect Canada after the War of 1812 and helped establish Bytown as a key location?",
@@ -894,7 +966,9 @@
     "correctIndex": 0,
     "explanation": "The Duke of Wellington chose Bytown as the endpoint of the Rideau Canal to help defend Canada.",
     "topic": "history",
-    "id": "q69"
+    "id": "q69",
+    "type": "multiple-choice",
+    "studyGuidePage": 16
   },
   {
     "question": "What happened to the rebellions of 1837-38?",
@@ -907,7 +981,9 @@
     "correctIndex": 1,
     "explanation": "The rebellions in Upper and Lower Canada were defeated by British troops and Canadian volunteers.",
     "topic": "history",
-    "id": "q70"
+    "id": "q70",
+    "type": "multiple-choice",
+    "studyGuidePage": 16
   },
   {
     "question": "Who recommended that Upper and Lower Canada be merged and given responsible government?",
@@ -920,10 +996,12 @@
     "correctIndex": 2,
     "explanation": "Lord Durham recommended union and responsible government after the rebellions.",
     "topic": "history",
-    "id": "q71"
+    "id": "q71",
+    "type": "multiple-choice",
+    "studyGuidePage": 16
   },
   {
-    "question": "What does responsible government mean in Canada?",
+    "question": "responsible government means _____ in Canada.",
     "options": [
       "Judges control the Cabinet",
       "The ministers of the Crown must have the support of a majority of elected representatives",
@@ -933,7 +1011,9 @@
     "correctIndex": 1,
     "explanation": "Responsible government means the executive must retain the confidence of the elected assembly.",
     "topic": "history",
-    "id": "q72"
+    "id": "q72",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 18
   },
   {
     "question": "Which colony first attained full responsible government in 1847-48?",
@@ -946,7 +1026,9 @@
     "correctIndex": 0,
     "explanation": "The guide says Nova Scotia was the first British North American colony to attain full responsible government.",
     "topic": "history",
-    "id": "q73"
+    "id": "q73",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "Who became the first leader of a responsible government in the Canadas?",
@@ -959,23 +1041,25 @@
     "correctIndex": 0,
     "explanation": "La Fontaine became the first leader of a responsible government in the Canadas.",
     "topic": "history",
-    "id": "q74"
+    "id": "q74",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
-    "question": "What was created between 1864 and 1867 by the Fathers of Confederation?",
+    "question": "The Dominion of Canada was created between 1864 and 1867 by the Fathers of Confederation.",
     "options": [
-      "The North Atlantic Treaty Organization",
-      "The National Register of Electors",
-      "The Canadian Charter of Rights and Freedoms",
-      "The Dominion of Canada"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "The Fathers of Confederation worked together to establish the Dominion of Canada.",
     "topic": "history",
-    "id": "q75"
+    "id": "q75",
+    "type": "true-false",
+    "studyGuidePage": 18
   },
   {
-    "question": "When was the Dominion of Canada officially born?",
+    "question": "The dominion of canada officially born was _____.",
     "options": [
       "July 1, 1867",
       "November 11, 1918",
@@ -985,7 +1069,9 @@
     "correctIndex": 0,
     "explanation": "The British North America Act created the Dominion of Canada on July 1, 1867.",
     "topic": "history",
-    "id": "q76"
+    "id": "q76",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 18
   },
   {
     "question": "Which four provinces formed the Dominion of Canada in 1867?",
@@ -998,7 +1084,9 @@
     "correctIndex": 2,
     "explanation": "The Dominion began with Ontario, Quebec, Nova Scotia, and New Brunswick.",
     "topic": "history",
-    "id": "q77"
+    "id": "q77",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "Who suggested the term Dominion of Canada in 1864?",
@@ -1011,7 +1099,9 @@
     "correctIndex": 3,
     "explanation": "Sir Leonard Tilley suggested the term Dominion of Canada.",
     "topic": "history",
-    "id": "q78"
+    "id": "q78",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "Which province entered Confederation in 1871 after Ottawa promised to build a railway?",
@@ -1024,7 +1114,9 @@
     "correctIndex": 0,
     "explanation": "British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the West Coast.",
     "topic": "history",
-    "id": "q79"
+    "id": "q79",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "Which province joined Confederation in 1873?",
@@ -1037,7 +1129,9 @@
     "correctIndex": 0,
     "explanation": "Prince Edward Island joined Confederation in 1873.",
     "topic": "history",
-    "id": "q80"
+    "id": "q80",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "Which province joined Canada in 1949?",
@@ -1050,20 +1144,22 @@
     "correctIndex": 1,
     "explanation": "Newfoundland and Labrador entered Confederation in 1949.",
     "topic": "history",
-    "id": "q81"
+    "id": "q81",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
-    "question": "Which territory was created in 1999?",
+    "question": "Northwest Territories was created in 1999.",
     "options": [
-      "Northwest Territories",
-      "Yukon",
-      "Nunavut",
-      "Manitoba"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Nunavut was created in 1999 from the eastern part of the Northwest Territories.",
     "topic": "history",
-    "id": "q82"
+    "id": "q82",
+    "type": "true-false",
+    "studyGuidePage": 18
   },
   {
     "question": "Who became Canada's first Prime Minister in 1867?",
@@ -1076,7 +1172,9 @@
     "correctIndex": 3,
     "explanation": "Sir John A. Macdonald became Canada's first Prime Minister at Confederation.",
     "topic": "history",
-    "id": "q83"
+    "id": "q83",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "Which bill features Sir John A. Macdonald's portrait according to the guide?",
@@ -1089,7 +1187,9 @@
     "correctIndex": 2,
     "explanation": "The guide notes that Sir John A. Macdonald's portrait is on the $10 bill.",
     "topic": "history",
-    "id": "q84"
+    "id": "q84",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "Which Father of Confederation from Quebec helped lead Quebec into Confederation and negotiate the entry of western territories?",
@@ -1102,7 +1202,9 @@
     "correctIndex": 0,
     "explanation": "Cartier was the key architect of Confederation from Quebec and helped negotiate western expansion.",
     "topic": "history",
-    "id": "q85"
+    "id": "q85",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "Who led the armed uprising at Red River in 1869?",
@@ -1115,7 +1217,9 @@
     "correctIndex": 0,
     "explanation": "Louis Riel led the Red River uprising after the Metis were not consulted.",
     "topic": "history",
-    "id": "q86"
+    "id": "q86",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "Why is Louis Riel seen as important by many Canadians?",
@@ -1128,7 +1232,9 @@
     "correctIndex": 0,
     "explanation": "The guide says many see Riel as a hero, defender of Metis rights, and father of Manitoba.",
     "topic": "history",
-    "id": "q87"
+    "id": "q87",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "What national police force did Macdonald establish in 1873 to help pacify the West?",
@@ -1141,10 +1247,12 @@
     "correctIndex": 1,
     "explanation": "Macdonald created the North West Mounted Police in 1873.",
     "topic": "history",
-    "id": "q88"
+    "id": "q88",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
-    "question": "What is the modern name of the NWMP?",
+    "question": "The modern name of the nwmp is _____.",
     "options": [
       "The Royal Canadian Mounted Police",
       "The Canadian Rangers",
@@ -1154,7 +1262,9 @@
     "correctIndex": 0,
     "explanation": "The NWMP later became the Royal Canadian Mounted Police.",
     "topic": "history",
-    "id": "q89"
+    "id": "q89",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 18
   },
   {
     "question": "Which city became the headquarters of the NWMP?",
@@ -1167,7 +1277,9 @@
     "correctIndex": 0,
     "explanation": "Regina became the headquarters of the NWMP.",
     "topic": "history",
-    "id": "q90"
+    "id": "q90",
+    "type": "multiple-choice",
+    "studyGuidePage": 18
   },
   {
     "question": "Who drove the last spike of the Canadian Pacific Railway in 1885?",
@@ -1180,7 +1292,9 @@
     "correctIndex": 0,
     "explanation": "Donald Smith, later Lord Strathcona, drove the last spike in 1885.",
     "topic": "history",
-    "id": "q91"
+    "id": "q91",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "Which labourers who helped build the CPR later faced the discriminatory Head Tax?",
@@ -1193,23 +1307,25 @@
     "correctIndex": 1,
     "explanation": "Chinese labourers helped build the CPR and later faced the discriminatory Head Tax.",
     "topic": "history",
-    "id": "q92"
+    "id": "q92",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
-    "question": "When did the Government of Canada apologize for the Head Tax and related discrimination against Chinese immigrants?",
+    "question": "the Government of Canada apologize for the Head Tax and related discrimination against Chinese immigrants in 2006.",
     "options": [
-      "1940",
-      "1918",
-      "2006",
-      "1988"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The guide says Canada apologized in 2006 for the discriminatory Head Tax policy.",
     "topic": "history",
-    "id": "q93"
+    "id": "q93",
+    "type": "true-false",
+    "studyGuidePage": 20
   },
   {
-    "question": "Who was the first French-Canadian prime minister since Confederation?",
+    "question": "_____ was the first French-Canadian prime minister since Confederation.",
     "options": [
       "John Diefenbaker",
       "Robert Borden",
@@ -1219,7 +1335,9 @@
     "correctIndex": 2,
     "explanation": "Sir Wilfrid Laurier became the first French-Canadian prime minister since Confederation.",
     "topic": "history",
-    "id": "q94"
+    "id": "q94",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 20
   },
   {
     "question": "Which Canadian bill features Sir Wilfrid Laurier according to the guide?",
@@ -1232,7 +1350,9 @@
     "correctIndex": 2,
     "explanation": "The guide says Sir Wilfrid Laurier's portrait is on the $5 bill.",
     "topic": "history",
-    "id": "q95"
+    "id": "q95",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "About how many Canadians served in the First World War?",
@@ -1245,7 +1365,9 @@
     "correctIndex": 0,
     "explanation": "More than 600,000 Canadians served in the First World War.",
     "topic": "history",
-    "id": "q96"
+    "id": "q96",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "Which battle in April 1917 secured Canada's reputation for valour?",
@@ -1258,7 +1380,9 @@
     "correctIndex": 1,
     "explanation": "The Canadian Corps captured Vimy Ridge in April 1917.",
     "topic": "history",
-    "id": "q97"
+    "id": "q97",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "What date is celebrated as Vimy Day?",
@@ -1271,20 +1395,22 @@
     "correctIndex": 3,
     "explanation": "April 9 is celebrated as Vimy Day.",
     "topic": "history",
-    "id": "q98"
+    "id": "q98",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
-    "question": "Who is described in the guide as Canada's greatest soldier?",
+    "question": "General Sir Arthur Currie is described in the guide as Canada's greatest soldier.",
     "options": [
-      "Chief Tecumseh",
-      "Sir Sam Steele",
-      "David Johnston",
-      "General Sir Arthur Currie"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "The guide calls Sir Arthur Currie Canada's greatest soldier.",
     "topic": "history",
-    "id": "q99"
+    "id": "q99",
+    "type": "true-false",
+    "studyGuidePage": 12
   },
   {
     "question": "Who founded Canada's women's suffrage movement according to the guide?",
@@ -1297,7 +1423,9 @@
     "correctIndex": 0,
     "explanation": "The guide identifies Dr. Emily Stowe as the founder of Canada's women's suffrage movement.",
     "topic": "history",
-    "id": "q100"
+    "id": "q100",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "Which province first granted women the right to vote in 1916?",
@@ -1310,7 +1438,9 @@
     "correctIndex": 2,
     "explanation": "Manitoba became the first province to grant women voting rights in 1916.",
     "topic": "history",
-    "id": "q101"
+    "id": "q101",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "Who became the first woman MP in 1921?",
@@ -1323,7 +1453,9 @@
     "correctIndex": 2,
     "explanation": "Agnes Macphail became the first woman MP in 1921.",
     "topic": "history",
-    "id": "q102"
+    "id": "q102",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "In what year did Quebec grant women the vote?",
@@ -1336,7 +1468,9 @@
     "correctIndex": 0,
     "explanation": "The guide says Quebec granted women the vote in 1940.",
     "topic": "history",
-    "id": "q103"
+    "id": "q103",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "What do Canadians wear on Remembrance Day to honour those who served or died in war?",
@@ -1349,7 +1483,9 @@
     "correctIndex": 1,
     "explanation": "Canadians wear the red poppy on Remembrance Day.",
     "topic": "history",
-    "id": "q104"
+    "id": "q104",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "At what time do Canadians observe a moment of silence on Remembrance Day?",
@@ -1362,7 +1498,9 @@
     "correctIndex": 1,
     "explanation": "The guide says Canadians observe a moment of silence at the 11th hour of the 11th day of the 11th month.",
     "topic": "history",
-    "id": "q105"
+    "id": "q105",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "Who wrote the poem In Flanders Fields?",
@@ -1375,7 +1513,9 @@
     "correctIndex": 3,
     "explanation": "Lieutenant-Colonel John McCrae wrote In Flanders Fields in 1915.",
     "topic": "history",
-    "id": "q106"
+    "id": "q106",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "What institution was created in 1934 to manage the money supply and stabilize the financial system?",
@@ -1388,7 +1528,9 @@
     "correctIndex": 1,
     "explanation": "The Bank of Canada was created in 1934.",
     "topic": "history",
-    "id": "q107"
+    "id": "q107",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "What reached 27% in 1933 during the Great Depression?",
@@ -1401,7 +1543,9 @@
     "correctIndex": 1,
     "explanation": "The guide says unemployment reached 27% in 1933.",
     "topic": "history",
-    "id": "q108"
+    "id": "q108",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "What event began the Second World War according to the guide?",
@@ -1414,7 +1558,9 @@
     "correctIndex": 1,
     "explanation": "The guide says the war began in 1939 when Hitler invaded Poland.",
     "topic": "history",
-    "id": "q109"
+    "id": "q109",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "About how many Canadians and Newfoundlanders served in the Second World War?",
@@ -1427,7 +1573,9 @@
     "correctIndex": 0,
     "explanation": "More than one million Canadians and Newfoundlanders served in the war.",
     "topic": "history",
-    "id": "q110"
+    "id": "q110",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "How many of them were killed in the Second World War?",
@@ -1440,7 +1588,9 @@
     "correctIndex": 1,
     "explanation": "The guide says 44,000 were killed in the Second World War.",
     "topic": "history",
-    "id": "q111"
+    "id": "q111",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "Which beach did Canadian troops capture on D-Day?",
@@ -1453,7 +1603,9 @@
     "correctIndex": 0,
     "explanation": "Canadian troops stormed and captured Juno Beach on D-Day.",
     "topic": "history",
-    "id": "q112"
+    "id": "q112",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "Which country did the Canadian Army help liberate in 1944-45?",
@@ -1466,7 +1618,9 @@
     "correctIndex": 0,
     "explanation": "The guide says the Canadian Army helped liberate the Netherlands in 1944-45.",
     "topic": "history",
-    "id": "q113"
+    "id": "q113",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "Which branch of the Canadian military protected convoys in the Battle of the Atlantic?",
@@ -1479,7 +1633,9 @@
     "correctIndex": 3,
     "explanation": "The Royal Canadian Navy had its finest hour in the Battle of the Atlantic.",
     "topic": "history",
-    "id": "q114"
+    "id": "q114",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
     "question": "By the end of the Second World War, what size navy did Canada have?",
@@ -1492,10 +1648,12 @@
     "correctIndex": 0,
     "explanation": "At war's end, Canada had the third-largest navy in the world.",
     "topic": "history",
-    "id": "q115"
+    "id": "q115",
+    "type": "multiple-choice",
+    "studyGuidePage": 22
   },
   {
-    "question": "When did the Government of Canada apologize for the wartime relocation and property loss imposed on Japanese Canadians?",
+    "question": "The government of canada apologize for the wartime relocation and property loss imposed on japanese canadians happened in _____.",
     "options": [
       "1988",
       "1949",
@@ -1505,7 +1663,9 @@
     "correctIndex": 0,
     "explanation": "The guide says Canada apologized in 1988 and compensated the victims.",
     "topic": "history",
-    "id": "q116"
+    "id": "q116",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 22
   },
   {
     "question": "What major resource discovery in 1947 began Canada's modern energy industry?",
@@ -1518,7 +1678,9 @@
     "correctIndex": 0,
     "explanation": "The discovery of oil in Alberta in 1947 began Canada's modern energy industry.",
     "topic": "history",
-    "id": "q117"
+    "id": "q117",
+    "type": "multiple-choice",
+    "studyGuidePage": 24
   },
   {
     "question": "Which 1969 federal law guarantees French and English services across Canada?",
@@ -1531,7 +1693,9 @@
     "correctIndex": 3,
     "explanation": "The Official Languages Act of 1969 guarantees French and English services in the federal government.",
     "topic": "history",
-    "id": "q118"
+    "id": "q118",
+    "type": "multiple-choice",
+    "studyGuidePage": 24
   },
   {
     "question": "Which international association of French-speaking countries did Canada help found in 1970?",
@@ -1544,7 +1708,9 @@
     "correctIndex": 3,
     "explanation": "Canada helped found La Francophonie in 1970.",
     "topic": "history",
-    "id": "q119"
+    "id": "q119",
+    "type": "multiple-choice",
+    "studyGuidePage": 24
   },
   {
     "question": "In which years was Quebec sovereignty defeated in referendums?",
@@ -1557,23 +1723,25 @@
     "correctIndex": 1,
     "explanation": "The sovereignty movement was defeated in Quebec referendums in 1980 and 1995.",
     "topic": "history",
-    "id": "q120"
+    "id": "q120",
+    "type": "multiple-choice",
+    "studyGuidePage": 24
   },
   {
-    "question": "When did the last remaining group of Asian Canadians denied the vote federally gain voting rights, according to the guide?",
+    "question": "the last remaining group of Asian Canadians denied the vote federally gain voting rights, according to the guide in 1948.",
     "options": [
-      "1948",
-      "1916",
-      "1867",
-      "1982"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "The guide says Japanese Canadians gained the right to vote in 1948, the last of these groups to do so.",
     "topic": "history",
-    "id": "q121"
+    "id": "q121",
+    "type": "true-false",
+    "studyGuidePage": 12
   },
   {
-    "question": "When were Aboriginal people granted the federal vote?",
+    "question": "Aboriginal people granted the federal vote were _____.",
     "options": [
       "1960",
       "1999",
@@ -1583,7 +1751,9 @@
     "correctIndex": 0,
     "explanation": "The guide says Aboriginal people were granted the vote in 1960.",
     "topic": "history",
-    "id": "q122"
+    "id": "q122",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 24
   },
   {
     "question": "About how many refugees from Hungary did Canada welcome in 1956?",
@@ -1596,7 +1766,9 @@
     "correctIndex": 2,
     "explanation": "Canada welcomed about 37,000 refugees from Hungary in 1956.",
     "topic": "history",
-    "id": "q123"
+    "id": "q123",
+    "type": "multiple-choice",
+    "studyGuidePage": 24
   },
   {
     "question": "About how many Vietnamese refugees sought refuge in Canada after 1975?",
@@ -1609,23 +1781,25 @@
     "correctIndex": 3,
     "explanation": "The guide says more than 50,000 Vietnamese sought refuge in Canada.",
     "topic": "history",
-    "id": "q124"
+    "id": "q124",
+    "type": "multiple-choice",
+    "studyGuidePage": 24
   },
   {
-    "question": "What are the three key facts about Canada's system of government named in the guide?",
+    "question": "It is a federal state, a parliamentary democracy, and a constitutional monarchy are the three key facts about Canada's system of government named in the guide.",
     "options": [
-      "It is a republic, a dictatorship, and a federation",
-      "It is a federal state, a parliamentary democracy, and a constitutional monarchy",
-      "It is a one-party state, a federation, and a republic",
-      "It is a confederacy, a military state, and a monarchy"
+      "True",
+      "False"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The guide says Canada is a federal state, a parliamentary democracy, and a constitutional monarchy.",
     "topic": "government",
-    "id": "q125"
+    "id": "q125",
+    "type": "true-false",
+    "studyGuidePage": 28
   },
   {
-    "question": "Which level of government is responsible for defence?",
+    "question": "_____ is responsible for defence.",
     "options": [
       "Municipal government",
       "School boards",
@@ -1635,20 +1809,22 @@
     "correctIndex": 3,
     "explanation": "Defence is a federal responsibility.",
     "topic": "government",
-    "id": "q126"
+    "id": "q126",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 28
   },
   {
-    "question": "Which level of government is responsible for education?",
+    "question": "Provincial or territorial government is responsible for education.",
     "options": [
-      "Municipal government only",
-      "The Senate",
-      "Federal government only",
-      "Provincial or territorial government"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "Education is primarily a provincial or territorial responsibility.",
     "topic": "government",
-    "id": "q127"
+    "id": "q127",
+    "type": "true-false",
+    "studyGuidePage": 28
   },
   {
     "question": "Which level of government usually handles garbage removal and snow removal?",
@@ -1661,10 +1837,12 @@
     "correctIndex": 3,
     "explanation": "Municipal governments usually handle sanitation and snow removal.",
     "topic": "government",
-    "id": "q128"
+    "id": "q128",
+    "type": "multiple-choice",
+    "studyGuidePage": 32
   },
   {
-    "question": "What are the three parts of Parliament?",
+    "question": "The three parts of parliament are _____.",
     "options": [
       "The Sovereign, the Senate, and the House of Commons",
       "The House of Commons, the Cabinet, and Elections Canada",
@@ -1674,7 +1852,9 @@
     "correctIndex": 0,
     "explanation": "Parliament has three parts: the Sovereign, the Senate, and the House of Commons.",
     "topic": "government",
-    "id": "q129"
+    "id": "q129",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 28
   },
   {
     "question": "Who selects the Cabinet ministers in the federal government?",
@@ -1687,7 +1867,9 @@
     "correctIndex": 3,
     "explanation": "The Prime Minister selects Cabinet ministers and is responsible for government operations and policy.",
     "topic": "government",
-    "id": "q130"
+    "id": "q130",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "How do senators get their positions?",
@@ -1700,7 +1882,9 @@
     "correctIndex": 2,
     "explanation": "Senators are appointed by the Governor General on the advice of the Prime Minister.",
     "topic": "government",
-    "id": "q131"
+    "id": "q131",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "Until what age do senators serve?",
@@ -1713,7 +1897,9 @@
     "correctIndex": 3,
     "explanation": "The guide says senators serve until age 75.",
     "topic": "government",
-    "id": "q132"
+    "id": "q132",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "What must happen before a bill can become law in Canada?",
@@ -1726,7 +1912,9 @@
     "correctIndex": 3,
     "explanation": "A bill becomes law only after passing both the House and the Senate and receiving royal assent.",
     "topic": "government",
-    "id": "q133"
+    "id": "q133",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "Who grants royal assent on behalf of the Sovereign?",
@@ -1739,23 +1927,25 @@
     "correctIndex": 2,
     "explanation": "Royal assent is granted by the Governor General on behalf of the Sovereign.",
     "topic": "government",
-    "id": "q134"
+    "id": "q134",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
-    "question": "Who is Canada's head of state?",
+    "question": "The Sovereign is Canada's head of state.",
     "options": [
-      "The Prime Minister",
-      "The Speaker of the House",
-      "The Governor General",
-      "The Sovereign"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "The Sovereign is Canada's head of state.",
     "topic": "government",
-    "id": "q135"
+    "id": "q135",
+    "type": "true-false",
+    "studyGuidePage": 28
   },
   {
-    "question": "Who is Canada's head of government?",
+    "question": "_____ is Canada's head of government.",
     "options": [
       "The Sovereign",
       "The Chief Justice",
@@ -1765,7 +1955,9 @@
     "correctIndex": 2,
     "explanation": "The Prime Minister is the head of government and directs the governing of the country.",
     "topic": "government",
-    "id": "q136"
+    "id": "q136",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 28
   },
   {
     "question": "Who represents the Sovereign in Canada?",
@@ -1778,7 +1970,9 @@
     "correctIndex": 0,
     "explanation": "The Governor General represents the Sovereign in Canada.",
     "topic": "government",
-    "id": "q137"
+    "id": "q137",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "Who represents the Sovereign in each province?",
@@ -1791,7 +1985,9 @@
     "correctIndex": 1,
     "explanation": "Each province has a Lieutenant Governor representing the Sovereign.",
     "topic": "government",
-    "id": "q138"
+    "id": "q138",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "Who represents the federal government in the territories and plays a ceremonial role?",
@@ -1804,20 +2000,22 @@
     "correctIndex": 2,
     "explanation": "In the territories, the Commissioner represents the federal government.",
     "topic": "government",
-    "id": "q139"
+    "id": "q139",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
-    "question": "What are the three branches of government?",
+    "question": "Federal, provincial, and territorial are the three branches of government.",
     "options": [
-      "Executive, legislative, and judicial",
-      "Federal, provincial, and territorial",
-      "Senate, Cabinet, and courts",
-      "Military, civil, and religious"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "The guide says the three branches are executive, legislative, and judicial.",
     "topic": "government",
-    "id": "q140"
+    "id": "q140",
+    "type": "true-false",
+    "studyGuidePage": 28
   },
   {
     "question": "What does it mean for Cabinet ministers to retain the confidence of the House?",
@@ -1830,7 +2028,9 @@
     "correctIndex": 0,
     "explanation": "In parliamentary democracy, ministers must keep the confidence of the House to govern.",
     "topic": "government",
-    "id": "q141"
+    "id": "q141",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "What happens if the federal government loses a confidence vote?",
@@ -1843,7 +2043,9 @@
     "correctIndex": 3,
     "explanation": "If the government loses a confidence vote, it must resign or an election is called.",
     "topic": "government",
-    "id": "q142"
+    "id": "q142",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "How often must federal elections normally be held under the guide's description?",
@@ -1856,7 +2058,9 @@
     "correctIndex": 2,
     "explanation": "Federal elections are normally held on the third Monday in October every four years.",
     "topic": "government",
-    "id": "q143"
+    "id": "q143",
+    "type": "multiple-choice",
+    "studyGuidePage": 30
   },
   {
     "question": "Who may ask the Governor General to call an earlier federal election?",
@@ -1869,10 +2073,12 @@
     "correctIndex": 0,
     "explanation": "The Prime Minister may ask the Governor General to call an earlier election.",
     "topic": "government",
-    "id": "q144"
+    "id": "q144",
+    "type": "multiple-choice",
+    "studyGuidePage": 30
   },
   {
-    "question": "What is another name for an electoral district?",
+    "question": "Another name for an electoral district is _____.",
     "options": [
       "A by-law zone",
       "A province",
@@ -1882,7 +2088,9 @@
     "correctIndex": 2,
     "explanation": "The guide says electoral districts are also known as ridings or constituencies.",
     "topic": "government",
-    "id": "q145"
+    "id": "q145",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 30
   },
   {
     "question": "How many MPs does each federal electoral district elect?",
@@ -1895,7 +2103,9 @@
     "correctIndex": 1,
     "explanation": "Each riding elects one member of Parliament.",
     "topic": "government",
-    "id": "q146"
+    "id": "q146",
+    "type": "multiple-choice",
+    "studyGuidePage": 30
   },
   {
     "question": "Who may run in a federal election?",
@@ -1908,23 +2118,25 @@
     "correctIndex": 1,
     "explanation": "Canadian citizens aged 18 or older may run in a federal election.",
     "topic": "government",
-    "id": "q147"
+    "id": "q147",
+    "type": "multiple-choice",
+    "studyGuidePage": 30
   },
   {
-    "question": "What is one of the privileges of Canadian citizenship?",
+    "question": "Duty-free imports is one of the privileges of Canadian citizenship.",
     "options": [
-      "Duty-free imports",
-      "Lifetime jury exemption",
-      "Automatic appointment to the Senate",
-      "The right to vote"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "The guide says the right to vote is one of the privileges of Canadian citizenship.",
     "topic": "government",
-    "id": "q148"
+    "id": "q148",
+    "type": "true-false",
+    "studyGuidePage": 30
   },
   {
-    "question": "Who is eligible to vote in a federal election?",
+    "question": "_____ is eligible to vote in a federal election.",
     "options": [
       "Only landowners over 21",
       "A Canadian citizen who is at least 18 and on the voters' list",
@@ -1934,7 +2146,9 @@
     "correctIndex": 1,
     "explanation": "Federal voters must be citizens, at least 18, and on the voters' list.",
     "topic": "government",
-    "id": "q149"
+    "id": "q149",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 30
   },
   {
     "question": "Which agency produces the voters' lists used in federal elections?",
@@ -1947,20 +2161,22 @@
     "correctIndex": 1,
     "explanation": "Elections Canada produces voters' lists from the National Register of Electors.",
     "topic": "government",
-    "id": "q150"
+    "id": "q150",
+    "type": "multiple-choice",
+    "studyGuidePage": 30
   },
   {
-    "question": "What is the National Register of Electors?",
+    "question": "A permanent database of Canadian citizens 18 or older who are qualified to vote federally is the National Register of Electors.",
     "options": [
-      "A list of senators",
-      "A database of jury members",
-      "A record of immigration files",
-      "A permanent database of Canadian citizens 18 or older who are qualified to vote federally"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "The National Register of Electors stores federal voter information.",
     "topic": "government",
-    "id": "q151"
+    "id": "q151",
+    "type": "true-false",
+    "studyGuidePage": 30
   },
   {
     "question": "What card tells you when and where to vote and how to request services such as an interpreter?",
@@ -1973,7 +2189,9 @@
     "correctIndex": 2,
     "explanation": "Elections Canada mails a voter information card explaining where and when to vote.",
     "topic": "government",
-    "id": "q152"
+    "id": "q152",
+    "type": "multiple-choice",
+    "studyGuidePage": 30
   },
   {
     "question": "Can you still be added to the voters' list if you did not receive a voter information card?",
@@ -1986,10 +2204,12 @@
     "correctIndex": 1,
     "explanation": "The guide says voters can be added to the list at any time, including on election day.",
     "topic": "government",
-    "id": "q153"
+    "id": "q153",
+    "type": "multiple-choice",
+    "studyGuidePage": 30
   },
   {
-    "question": "What does the right to a secret ballot mean?",
+    "question": "the right to a secret ballot means _____.",
     "options": [
       "Only judges count ballots",
       "You must vote by mail",
@@ -1999,7 +2219,9 @@
     "correctIndex": 2,
     "explanation": "Canadian law protects the secrecy of your ballot.",
     "topic": "government",
-    "id": "q154"
+    "id": "q154",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 30
   },
   {
     "question": "After an election, who is usually invited by the Governor General to form the government?",
@@ -2012,23 +2234,25 @@
     "correctIndex": 2,
     "explanation": "The Governor General normally invites the leader of the party with the most seats to form the government.",
     "topic": "government",
-    "id": "q155"
+    "id": "q155",
+    "type": "multiple-choice",
+    "studyGuidePage": 30
   },
   {
-    "question": "What is a majority government?",
+    "question": "When the Senate has more members than the House is a majority government.",
     "options": [
-      "When the Senate has more members than the House",
-      "When every party joins Cabinet",
-      "When the governing party holds at least half the seats in the House of Commons",
-      "When a mayor supports the Prime Minister"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A majority government holds at least half the House seats.",
     "topic": "government",
-    "id": "q156"
+    "id": "q156",
+    "type": "true-false",
+    "studyGuidePage": 30
   },
   {
-    "question": "What is a minority government?",
+    "question": "A minority government is _____.",
     "options": [
       "When the governing party holds less than half the seats in the House of Commons",
       "When only one province supports the government",
@@ -2038,23 +2262,25 @@
     "correctIndex": 0,
     "explanation": "A minority government holds fewer than half the House seats.",
     "topic": "government",
-    "id": "q157"
+    "id": "q157",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 30
   },
   {
-    "question": "What is the role of opposition parties?",
+    "question": "To command the military is the role of opposition parties.",
     "options": [
-      "To command the military",
-      "To replace provincial governments",
-      "To appoint judges",
-      "To peacefully oppose or try to improve government proposals"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "Opposition parties challenge and try to improve government proposals.",
     "topic": "government",
-    "id": "q158"
+    "id": "q158",
+    "type": "true-false",
+    "studyGuidePage": 30
   },
   {
-    "question": "What is the name of the opposition party with the most seats?",
+    "question": "The name of the opposition party with the most seats is _____.",
     "options": [
       "The Reserve Cabinet",
       "The Provincial Opposition",
@@ -2064,7 +2290,9 @@
     "correctIndex": 3,
     "explanation": "The largest opposition party is called the Official Opposition or Her Majesty's Loyal Opposition.",
     "topic": "government",
-    "id": "q159"
+    "id": "q159",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 30
   },
   {
     "question": "How do you mark your ballot according to the voting procedures in the guide?",
@@ -2077,7 +2305,9 @@
     "correctIndex": 0,
     "explanation": "The guide says to mark an X beside the candidate of your choice.",
     "topic": "government",
-    "id": "q160"
+    "id": "q160",
+    "type": "multiple-choice",
+    "studyGuidePage": 32
   },
   {
     "question": "What should you bring to the polling station on election day?",
@@ -2090,7 +2320,9 @@
     "correctIndex": 0,
     "explanation": "The guide says to bring your voter information card and proof of identity and address.",
     "topic": "government",
-    "id": "q161"
+    "id": "q161",
+    "type": "multiple-choice",
+    "studyGuidePage": 32
   },
   {
     "question": "If you cannot or do not wish to vote on election day, what can you do?",
@@ -2103,7 +2335,9 @@
     "correctIndex": 3,
     "explanation": "The guide says you can vote at advance polls or by special ballot.",
     "topic": "government",
-    "id": "q162"
+    "id": "q162",
+    "type": "multiple-choice",
+    "studyGuidePage": 32
   },
   {
     "question": "Who passes municipal laws called by-laws?",
@@ -2116,7 +2350,9 @@
     "correctIndex": 3,
     "explanation": "Municipal councils pass local laws called by-laws.",
     "topic": "government",
-    "id": "q163"
+    "id": "q163",
+    "type": "multiple-choice",
+    "studyGuidePage": 32
   },
   {
     "question": "Who usually leads a municipal government?",
@@ -2129,23 +2365,25 @@
     "correctIndex": 3,
     "explanation": "Municipal councils are usually led by a mayor or reeve.",
     "topic": "government",
-    "id": "q164"
+    "id": "q164",
+    "type": "multiple-choice",
+    "studyGuidePage": 32
   },
   {
-    "question": "Which level of government is usually responsible for public transit and recreation facilities?",
+    "question": "Municipal government is usually responsible for public transit and recreation facilities.",
     "options": [
-      "Municipal government",
-      "The judiciary",
-      "The Senate",
-      "Federal government"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "Public transit and recreation facilities are typical municipal responsibilities.",
     "topic": "government",
-    "id": "q165"
+    "id": "q165",
+    "type": "true-false",
+    "studyGuidePage": 32
   },
   {
-    "question": "What is due process?",
+    "question": "Due process is _____.",
     "options": [
       "The principle that government must respect all legal rights a person is entitled to under the law",
       "A rule that bans appeals",
@@ -2155,23 +2393,25 @@
     "correctIndex": 0,
     "explanation": "The guide defines due process as respect for the legal rights a person is entitled to under the law.",
     "topic": "government",
-    "id": "q166"
+    "id": "q166",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 36
   },
   {
-    "question": "What does the presumption of innocence mean?",
+    "question": "the presumption of innocence means Everyone is innocent until proven guilty.",
     "options": [
-      "Everyone is guilty unless elected",
-      "Everyone is innocent until proven guilty",
-      "Police decisions cannot be challenged",
-      "Only citizens can be innocent"
+      "True",
+      "False"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The guide says the justice system is founded on the presumption of innocence.",
     "topic": "government",
-    "id": "q167"
+    "id": "q167",
+    "type": "true-false",
+    "studyGuidePage": 36
   },
   {
-    "question": "What is the highest court in Canada?",
+    "question": "The highest court in canada is _____.",
     "options": [
       "The Federal Court of Elections",
       "The House of Commons",
@@ -2181,7 +2421,9 @@
     "correctIndex": 2,
     "explanation": "The Supreme Court of Canada is the country's highest court.",
     "topic": "government",
-    "id": "q168"
+    "id": "q168",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 36
   },
   {
     "question": "What does the Federal Court of Canada deal with?",
@@ -2194,7 +2436,9 @@
     "correctIndex": 2,
     "explanation": "The Federal Court of Canada deals with matters concerning the federal government.",
     "topic": "government",
-    "id": "q169"
+    "id": "q169",
+    "type": "multiple-choice",
+    "studyGuidePage": 36
   },
   {
     "question": "What do the police do in Canada?",
@@ -2207,7 +2451,9 @@
     "correctIndex": 3,
     "explanation": "The police help keep people safe and enforce Canada's laws.",
     "topic": "government",
-    "id": "q170"
+    "id": "q170",
+    "type": "multiple-choice",
+    "studyGuidePage": 36
   },
   {
     "question": "In which two provinces do provincial police forces operate instead of the RCMP serving as provincial police?",
@@ -2220,7 +2466,9 @@
     "correctIndex": 1,
     "explanation": "The guide says Ontario and Quebec have provincial police forces.",
     "topic": "government",
-    "id": "q171"
+    "id": "q171",
+    "type": "multiple-choice",
+    "studyGuidePage": 36
   },
   {
     "question": "Can you question the police about their service or conduct in Canada?",
@@ -2233,7 +2481,9 @@
     "correctIndex": 3,
     "explanation": "The guide says almost all police forces have a process to bring forward concerns.",
     "topic": "government",
-    "id": "q172"
+    "id": "q172",
+    "type": "multiple-choice",
+    "studyGuidePage": 36
   },
   {
     "question": "What help is often available if you cannot pay for a lawyer?",
@@ -2246,20 +2496,22 @@
     "correctIndex": 2,
     "explanation": "Most communities offer legal aid services free or at low cost for people who cannot afford a lawyer.",
     "topic": "government",
-    "id": "q173"
+    "id": "q173",
+    "type": "multiple-choice",
+    "studyGuidePage": 36
   },
   {
-    "question": "What is the capital of Newfoundland and Labrador?",
+    "question": "Halifax is the capital of Newfoundland and Labrador.",
     "options": [
-      "Halifax",
-      "Charlottetown",
-      "St. John's",
-      "Fredericton"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "St. John's is the capital of Newfoundland and Labrador.",
     "topic": "geography",
-    "id": "q174"
+    "id": "q174",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
     "question": "St. John's is the capital of which province or territory?",
@@ -2272,7 +2524,9 @@
     "correctIndex": 1,
     "explanation": "St. John's is the capital city of Newfoundland and Labrador.",
     "topic": "geography",
-    "id": "q175"
+    "id": "q175",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Newfoundland and Labrador?",
@@ -2285,10 +2539,12 @@
     "correctIndex": 1,
     "explanation": "Newfoundland and Labrador belongs to the Atlantic Provinces.",
     "topic": "geography",
-    "id": "q176"
+    "id": "q176",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: It is the most easterly point in North America and has its own time zone.",
+    "question": "_____ is the most easterly point in North America and has its own time zone..",
     "options": [
       "Prince Edward Island",
       "New Brunswick",
@@ -2298,23 +2554,25 @@
     "correctIndex": 3,
     "explanation": "It is the most easterly point in North America and has its own time zone.",
     "topic": "geography",
-    "id": "q177"
+    "id": "q177",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which province or territory is described this way in the guide: Its economy includes fisheries, off-shore oil and gas, and Labrador hydro-electric resources.",
+    "question": "Nova Scotia is described this way in the guide: Its economy includes fisheries, off-shore oil and gas, and Labrador hydro-electric resources..",
     "options": [
-      "Nova Scotia",
-      "New Brunswick",
-      "Prince Edward Island",
-      "Newfoundland and Labrador"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "Its economy includes fisheries, off-shore oil and gas, and Labrador hydro-electric resources.",
     "topic": "geography",
-    "id": "q178"
+    "id": "q178",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
-    "question": "What is the capital of Prince Edward Island?",
+    "question": "The capital of prince edward island is _____.",
     "options": [
       "Charlottetown",
       "Halifax",
@@ -2324,7 +2582,9 @@
     "correctIndex": 0,
     "explanation": "Charlottetown is the capital of Prince Edward Island.",
     "topic": "geography",
-    "id": "q179"
+    "id": "q179",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
     "question": "Charlottetown is the capital of which province or territory?",
@@ -2337,7 +2597,9 @@
     "correctIndex": 1,
     "explanation": "Charlottetown is the capital city of Prince Edward Island.",
     "topic": "geography",
-    "id": "q180"
+    "id": "q180",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Prince Edward Island?",
@@ -2350,23 +2612,25 @@
     "correctIndex": 3,
     "explanation": "Prince Edward Island belongs to the Atlantic Provinces.",
     "topic": "geography",
-    "id": "q181"
+    "id": "q181",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: It is the smallest province and is known for potatoes, red soil, and beaches.",
+    "question": "Nova Scotia is known for potatoes, red soil, and beaches..",
     "options": [
-      "Nova Scotia",
-      "Newfoundland and Labrador",
-      "Prince Edward Island",
-      "New Brunswick"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "It is the smallest province and is known for potatoes, red soil, and beaches.",
     "topic": "geography",
-    "id": "q182"
+    "id": "q182",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which province or territory is described this way in the guide: It is the birthplace of Confederation and is linked to the mainland by Confederation Bridge.",
+    "question": "_____ is linked to the mainland by Confederation Bridge..",
     "options": [
       "New Brunswick",
       "Prince Edward Island",
@@ -2376,20 +2640,22 @@
     "correctIndex": 1,
     "explanation": "It is the birthplace of Confederation and is linked to the mainland by Confederation Bridge.",
     "topic": "geography",
-    "id": "q183"
+    "id": "q183",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 46
   },
   {
-    "question": "What is the capital of Nova Scotia?",
+    "question": "Charlottetown is the capital of Nova Scotia.",
     "options": [
-      "Charlottetown",
-      "Fredericton",
-      "Halifax",
-      "St. John's"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Halifax is the capital of Nova Scotia.",
     "topic": "geography",
-    "id": "q184"
+    "id": "q184",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
     "question": "Halifax is the capital of which province or territory?",
@@ -2402,7 +2668,9 @@
     "correctIndex": 0,
     "explanation": "Halifax is the capital city of Nova Scotia.",
     "topic": "geography",
-    "id": "q185"
+    "id": "q185",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Nova Scotia?",
@@ -2415,10 +2683,12 @@
     "correctIndex": 3,
     "explanation": "Nova Scotia belongs to the Atlantic Provinces.",
     "topic": "geography",
-    "id": "q186"
+    "id": "q186",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: It is the most populous Atlantic province and is known for the Bay of Fundy's highest tides.",
+    "question": "_____ is known for the Bay of Fundy's highest tides..",
     "options": [
       "Prince Edward Island",
       "New Brunswick",
@@ -2428,23 +2698,25 @@
     "correctIndex": 3,
     "explanation": "It is the most populous Atlantic province and is known for the Bay of Fundy's highest tides.",
     "topic": "geography",
-    "id": "q187"
+    "id": "q187",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which province or territory is described this way in the guide: Halifax is Canada's largest east coast port and home to the country's largest naval base.",
+    "question": "Prince Edward Island is Canada's largest east coast port and home to the country's largest naval base..",
     "options": [
-      "Nova Scotia",
-      "Prince Edward Island",
-      "New Brunswick",
-      "Newfoundland and Labrador"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Halifax is Canada's largest east coast port and home to the country's largest naval base.",
     "topic": "geography",
-    "id": "q188"
+    "id": "q188",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
-    "question": "What is the capital of New Brunswick?",
+    "question": "The capital of new brunswick is _____.",
     "options": [
       "St. John's",
       "Halifax",
@@ -2454,7 +2726,9 @@
     "correctIndex": 2,
     "explanation": "Fredericton is the capital of New Brunswick.",
     "topic": "geography",
-    "id": "q189"
+    "id": "q189",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
     "question": "Fredericton is the capital of which province or territory?",
@@ -2467,7 +2741,9 @@
     "correctIndex": 0,
     "explanation": "Fredericton is the capital city of New Brunswick.",
     "topic": "geography",
-    "id": "q190"
+    "id": "q190",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes New Brunswick?",
@@ -2480,23 +2756,25 @@
     "correctIndex": 0,
     "explanation": "New Brunswick belongs to the Atlantic Provinces.",
     "topic": "geography",
-    "id": "q191"
+    "id": "q191",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: It was founded by United Empire Loyalists and is the only officially bilingual province.",
+    "question": "Newfoundland and Labrador is the only officially bilingual province..",
     "options": [
-      "Newfoundland and Labrador",
-      "Nova Scotia",
-      "New Brunswick",
-      "Prince Edward Island"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "It was founded by United Empire Loyalists and is the only officially bilingual province.",
     "topic": "geography",
-    "id": "q192"
+    "id": "q192",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which province or territory is described this way in the guide: Its principal industries include forestry, agriculture, fisheries, mining, food processing, and tourism.",
+    "question": "_____ is described this way in the guide: Its principal industries include forestry, agriculture, fisheries, mining, food processing, and tourism..",
     "options": [
       "New Brunswick",
       "Nova Scotia",
@@ -2506,20 +2784,22 @@
     "correctIndex": 0,
     "explanation": "Its principal industries include forestry, agriculture, fisheries, mining, food processing, and tourism.",
     "topic": "geography",
-    "id": "q193"
+    "id": "q193",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 46
   },
   {
-    "question": "What is the capital of Quebec?",
+    "question": "Charlottetown is the capital of Quebec.",
     "options": [
-      "Charlottetown",
-      "St. John's",
-      "Quebec City",
-      "Halifax"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Quebec City is the capital of Quebec.",
     "topic": "geography",
-    "id": "q194"
+    "id": "q194",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
     "question": "Quebec City is the capital of which province or territory?",
@@ -2532,7 +2812,9 @@
     "correctIndex": 3,
     "explanation": "Quebec City is the capital city of Quebec.",
     "topic": "geography",
-    "id": "q195"
+    "id": "q195",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Quebec?",
@@ -2545,10 +2827,12 @@
     "correctIndex": 3,
     "explanation": "Quebec belongs to the Central Canada.",
     "topic": "geography",
-    "id": "q196"
+    "id": "q196",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: More than three-quarters of its people speak French as a first language.",
+    "question": "The province or territory that matches this description is _____: More than three-quarters of its people speak French as a first language.",
     "options": [
       "Quebec",
       "Prince Edward Island",
@@ -2558,23 +2842,25 @@
     "correctIndex": 0,
     "explanation": "More than three-quarters of its people speak French as a first language.",
     "topic": "geography",
-    "id": "q197"
+    "id": "q197",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which province or territory is described this way in the guide: It is Canada's main producer of pulp and paper and its largest producer of hydro-electricity.",
+    "question": "Newfoundland and Labrador is Canada's main producer of pulp and paper and its largest producer of hydro-electricity..",
     "options": [
-      "Newfoundland and Labrador",
-      "Nova Scotia",
-      "Prince Edward Island",
-      "Quebec"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "It is Canada's main producer of pulp and paper and its largest producer of hydro-electricity.",
     "topic": "geography",
-    "id": "q198"
+    "id": "q198",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
-    "question": "What is the capital of Ontario?",
+    "question": "The capital of ontario is _____.",
     "options": [
       "Halifax",
       "Toronto",
@@ -2584,7 +2870,9 @@
     "correctIndex": 1,
     "explanation": "Toronto is the capital of Ontario.",
     "topic": "geography",
-    "id": "q199"
+    "id": "q199",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
     "question": "Toronto is the capital of which province or territory?",
@@ -2597,7 +2885,9 @@
     "correctIndex": 0,
     "explanation": "Toronto is the capital city of Ontario.",
     "topic": "geography",
-    "id": "q200"
+    "id": "q200",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Ontario?",
@@ -2610,23 +2900,25 @@
     "correctIndex": 0,
     "explanation": "Ontario belongs to the Central Canada.",
     "topic": "geography",
-    "id": "q201"
+    "id": "q201",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: It has more than one-third of Canada's population.",
+    "question": "Newfoundland and Labrador matches this description: It has more than one-third of Canada's population.",
     "options": [
-      "Ontario",
-      "Newfoundland and Labrador",
-      "Prince Edward Island",
-      "Nova Scotia"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "It has more than one-third of Canada's population.",
     "topic": "geography",
-    "id": "q202"
+    "id": "q202",
+    "type": "true-false",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which province or territory is described this way in the guide: Toronto is Canada's largest city and the country's main financial centre.",
+    "question": "_____ is Canada's largest city and the country's main financial centre..",
     "options": [
       "Prince Edward Island",
       "Nova Scotia",
@@ -2636,20 +2928,22 @@
     "correctIndex": 3,
     "explanation": "Toronto is Canada's largest city and the country's main financial centre.",
     "topic": "geography",
-    "id": "q203"
+    "id": "q203",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
-    "question": "What is the capital of Manitoba?",
+    "question": "Halifax is the capital of Manitoba.",
     "options": [
-      "Winnipeg",
-      "Halifax",
-      "Charlottetown",
-      "St. John's"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Winnipeg is the capital of Manitoba.",
     "topic": "geography",
-    "id": "q204"
+    "id": "q204",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
     "question": "Winnipeg is the capital of which province or territory?",
@@ -2662,7 +2956,9 @@
     "correctIndex": 2,
     "explanation": "Winnipeg is the capital city of Manitoba.",
     "topic": "geography",
-    "id": "q205"
+    "id": "q205",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Manitoba?",
@@ -2675,10 +2971,12 @@
     "correctIndex": 1,
     "explanation": "Manitoba belongs to the Prairie Provinces.",
     "topic": "geography",
-    "id": "q206"
+    "id": "q206",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: Its economy is based on agriculture, mining, and hydro-electric power generation.",
+    "question": "_____ is based on agriculture, mining, and hydro-electric power generation..",
     "options": [
       "Manitoba",
       "Prince Edward Island",
@@ -2688,23 +2986,25 @@
     "correctIndex": 0,
     "explanation": "Its economy is based on agriculture, mining, and hydro-electric power generation.",
     "topic": "geography",
-    "id": "q207"
+    "id": "q207",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which province or territory is described this way in the guide: Winnipeg's Exchange District includes the famous intersection Portage and Main.",
+    "question": "Prince Edward Island is described this way in the guide: Winnipeg's Exchange District includes the famous intersection Portage and Main..",
     "options": [
-      "Manitoba",
-      "Prince Edward Island",
-      "Nova Scotia",
-      "Newfoundland and Labrador"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Winnipeg's Exchange District includes the famous intersection Portage and Main.",
     "topic": "geography",
-    "id": "q208"
+    "id": "q208",
+    "type": "true-false",
+    "studyGuidePage": 48
   },
   {
-    "question": "What is the capital of Saskatchewan?",
+    "question": "The capital of saskatchewan is _____.",
     "options": [
       "Regina",
       "Halifax",
@@ -2714,7 +3014,9 @@
     "correctIndex": 0,
     "explanation": "Regina is the capital of Saskatchewan.",
     "topic": "geography",
-    "id": "q209"
+    "id": "q209",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
     "question": "Regina is the capital of which province or territory?",
@@ -2727,7 +3029,9 @@
     "correctIndex": 3,
     "explanation": "Regina is the capital city of Saskatchewan.",
     "topic": "geography",
-    "id": "q210"
+    "id": "q210",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Saskatchewan?",
@@ -2740,23 +3044,25 @@
     "correctIndex": 1,
     "explanation": "Saskatchewan belongs to the Prairie Provinces.",
     "topic": "geography",
-    "id": "q211"
+    "id": "q211",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: It has 40% of the arable land in Canada and is a major producer of grains and oilseeds.",
+    "question": "Newfoundland and Labrador is a major producer of grains and oilseeds..",
     "options": [
-      "Newfoundland and Labrador",
-      "Nova Scotia",
-      "Saskatchewan",
-      "Prince Edward Island"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "It has 40% of the arable land in Canada and is a major producer of grains and oilseeds.",
     "topic": "geography",
-    "id": "q212"
+    "id": "q212",
+    "type": "true-false",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which province or territory is described this way in the guide: Regina is home to the RCMP training academy.",
+    "question": "_____ is home to the RCMP training academy..",
     "options": [
       "Newfoundland and Labrador",
       "Prince Edward Island",
@@ -2766,20 +3072,22 @@
     "correctIndex": 3,
     "explanation": "Regina is home to the RCMP training academy.",
     "topic": "geography",
-    "id": "q213"
+    "id": "q213",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
-    "question": "What is the capital of Alberta?",
+    "question": "Charlottetown is the capital of Alberta.",
     "options": [
-      "Charlottetown",
-      "Halifax",
-      "Edmonton",
-      "St. John's"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Edmonton is the capital of Alberta.",
     "topic": "geography",
-    "id": "q214"
+    "id": "q214",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
     "question": "Edmonton is the capital of which province or territory?",
@@ -2792,7 +3100,9 @@
     "correctIndex": 2,
     "explanation": "Edmonton is the capital city of Alberta.",
     "topic": "geography",
-    "id": "q215"
+    "id": "q215",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Alberta?",
@@ -2805,10 +3115,12 @@
     "correctIndex": 3,
     "explanation": "Alberta belongs to the Prairie Provinces.",
     "topic": "geography",
-    "id": "q216"
+    "id": "q216",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: It is the largest producer of oil and gas in Canada.",
+    "question": "_____ is the largest producer of oil and gas in Canada..",
     "options": [
       "Prince Edward Island",
       "Nova Scotia",
@@ -2818,23 +3130,25 @@
     "correctIndex": 3,
     "explanation": "It is the largest producer of oil and gas in Canada.",
     "topic": "geography",
-    "id": "q217"
+    "id": "q217",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which province or territory is described this way in the guide: Alberta has five national parks, including Banff National Park.",
+    "question": "Prince Edward Island is described this way in the guide: Alberta has five national parks, including Banff National Park..",
     "options": [
-      "Prince Edward Island",
-      "Nova Scotia",
-      "Alberta",
-      "Newfoundland and Labrador"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Alberta has five national parks, including Banff National Park.",
     "topic": "geography",
-    "id": "q218"
+    "id": "q218",
+    "type": "true-false",
+    "studyGuidePage": 48
   },
   {
-    "question": "What is the capital of British Columbia?",
+    "question": "The capital of british columbia is _____.",
     "options": [
       "Victoria",
       "St. John's",
@@ -2844,7 +3158,9 @@
     "correctIndex": 0,
     "explanation": "Victoria is the capital of British Columbia.",
     "topic": "geography",
-    "id": "q219"
+    "id": "q219",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
     "question": "Victoria is the capital of which province or territory?",
@@ -2857,7 +3173,9 @@
     "correctIndex": 0,
     "explanation": "Victoria is the capital city of British Columbia.",
     "topic": "geography",
-    "id": "q220"
+    "id": "q220",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes British Columbia?",
@@ -2870,23 +3188,25 @@
     "correctIndex": 3,
     "explanation": "British Columbia belongs to the West Coast.",
     "topic": "geography",
-    "id": "q221"
+    "id": "q221",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: It is Canada's westernmost province and Pacific gateway.",
+    "question": "Prince Edward Island is Canada's westernmost province and Pacific gateway..",
     "options": [
-      "Prince Edward Island",
-      "Nova Scotia",
-      "Newfoundland and Labrador",
-      "British Columbia"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "It is Canada's westernmost province and Pacific gateway.",
     "topic": "geography",
-    "id": "q222"
+    "id": "q222",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory is described this way in the guide: The Port of Vancouver is Canada's largest and busiest port.",
+    "question": "_____ is Canada's largest and busiest port..",
     "options": [
       "Prince Edward Island",
       "Nova Scotia",
@@ -2896,20 +3216,22 @@
     "correctIndex": 3,
     "explanation": "The Port of Vancouver is Canada's largest and busiest port.",
     "topic": "geography",
-    "id": "q223"
+    "id": "q223",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
-    "question": "What is the capital of Nunavut?",
+    "question": "Charlottetown is the capital of Nunavut.",
     "options": [
-      "Iqaluit",
-      "Charlottetown",
-      "St. John's",
-      "Halifax"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Iqaluit is the capital of Nunavut.",
     "topic": "geography",
-    "id": "q224"
+    "id": "q224",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
     "question": "Iqaluit is the capital of which province or territory?",
@@ -2922,7 +3244,9 @@
     "correctIndex": 2,
     "explanation": "Iqaluit is the capital city of Nunavut.",
     "topic": "geography",
-    "id": "q225"
+    "id": "q225",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Nunavut?",
@@ -2935,10 +3259,12 @@
     "correctIndex": 1,
     "explanation": "Nunavut belongs to the Northern Territories.",
     "topic": "geography",
-    "id": "q226"
+    "id": "q226",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: Its name means 'our land' in Inuktitut.",
+    "question": "The province or territory that matches this description is _____: Its name means 'our land' in Inuktitut.",
     "options": [
       "Newfoundland and Labrador",
       "Nunavut",
@@ -2948,23 +3274,25 @@
     "correctIndex": 1,
     "explanation": "Its name means 'our land' in Inuktitut.",
     "topic": "geography",
-    "id": "q227"
+    "id": "q227",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 50
   },
   {
-    "question": "Which province or territory is described this way in the guide: It was created in 1999 and about 85% of its population is Inuit.",
+    "question": "Nova Scotia is Inuit..",
     "options": [
-      "Nunavut",
-      "Nova Scotia",
-      "Prince Edward Island",
-      "Newfoundland and Labrador"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "It was created in 1999 and about 85% of its population is Inuit.",
     "topic": "geography",
-    "id": "q228"
+    "id": "q228",
+    "type": "true-false",
+    "studyGuidePage": 50
   },
   {
-    "question": "What is the capital of Northwest Territories?",
+    "question": "The capital of northwest territories is _____.",
     "options": [
       "St. John's",
       "Yellowknife",
@@ -2974,7 +3302,9 @@
     "correctIndex": 1,
     "explanation": "Yellowknife is the capital of Northwest Territories.",
     "topic": "geography",
-    "id": "q229"
+    "id": "q229",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
     "question": "Yellowknife is the capital of which province or territory?",
@@ -2987,7 +3317,9 @@
     "correctIndex": 0,
     "explanation": "Yellowknife is the capital city of Northwest Territories.",
     "topic": "geography",
-    "id": "q230"
+    "id": "q230",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Northwest Territories?",
@@ -3000,23 +3332,25 @@
     "correctIndex": 0,
     "explanation": "Northwest Territories belongs to the Northern Territories.",
     "topic": "geography",
-    "id": "q231"
+    "id": "q231",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: Yellowknife is known as the diamond capital of North America.",
+    "question": "Prince Edward Island is known as the diamond capital of North America..",
     "options": [
-      "Northwest Territories",
-      "Prince Edward Island",
-      "Newfoundland and Labrador",
-      "Nova Scotia"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Yellowknife is known as the diamond capital of North America.",
     "topic": "geography",
-    "id": "q232"
+    "id": "q232",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory is described this way in the guide: The Mackenzie River system is the second-longest in North America after the Mississippi.",
+    "question": "_____ is the second-longest in North America after the Mississippi..",
     "options": [
       "Newfoundland and Labrador",
       "Nova Scotia",
@@ -3026,20 +3360,22 @@
     "correctIndex": 2,
     "explanation": "The Mackenzie River system is the second-longest in North America after the Mississippi.",
     "topic": "geography",
-    "id": "q233"
+    "id": "q233",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 50
   },
   {
-    "question": "What is the capital of Yukon?",
+    "question": "St. John's is the capital of Yukon.",
     "options": [
-      "St. John's",
-      "Charlottetown",
-      "Halifax",
-      "Whitehorse"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "Whitehorse is the capital of Yukon.",
     "topic": "geography",
-    "id": "q234"
+    "id": "q234",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
     "question": "Whitehorse is the capital of which province or territory?",
@@ -3052,7 +3388,9 @@
     "correctIndex": 3,
     "explanation": "Whitehorse is the capital city of Yukon.",
     "topic": "geography",
-    "id": "q235"
+    "id": "q235",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which region of Canada includes Yukon?",
@@ -3065,10 +3403,12 @@
     "correctIndex": 2,
     "explanation": "Yukon belongs to the Northern Territories.",
     "topic": "geography",
-    "id": "q236"
+    "id": "q236",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province or territory matches this description: It is famous for the Gold Rush of the 1890s.",
+    "question": "_____ is famous for the Gold Rush of the 1890s..",
     "options": [
       "Yukon",
       "Prince Edward Island",
@@ -3078,20 +3418,22 @@
     "correctIndex": 0,
     "explanation": "It is famous for the Gold Rush of the 1890s.",
     "topic": "geography",
-    "id": "q237"
+    "id": "q237",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 50
   },
   {
-    "question": "Which province or territory is described this way in the guide: Mount Logan, Canada's highest mountain, is located in Yukon.",
+    "question": "Prince Edward Island is located in Yukon..",
     "options": [
-      "Prince Edward Island",
-      "Newfoundland and Labrador",
-      "Yukon",
-      "Nova Scotia"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Mount Logan, Canada's highest mountain, is located in Yukon.",
     "topic": "geography",
-    "id": "q238"
+    "id": "q238",
+    "type": "true-false",
+    "studyGuidePage": 50
   },
   {
     "question": "How large is Canada according to the guide?",
@@ -3104,7 +3446,9 @@
     "correctIndex": 0,
     "explanation": "The guide says Canada is the second largest country on earth at about 10 million square kilometres.",
     "topic": "geography",
-    "id": "q239"
+    "id": "q239",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which ocean lies to the west of Canada?",
@@ -3117,7 +3461,9 @@
     "correctIndex": 3,
     "explanation": "The Pacific Ocean lies on Canada's west coast.",
     "topic": "geography",
-    "id": "q240"
+    "id": "q240",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which ocean lies to the east of Canada?",
@@ -3130,7 +3476,9 @@
     "correctIndex": 1,
     "explanation": "The Atlantic Ocean lies to the east of Canada.",
     "topic": "geography",
-    "id": "q241"
+    "id": "q241",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "Which ocean lies to the north of Canada?",
@@ -3143,7 +3491,9 @@
     "correctIndex": 2,
     "explanation": "The Arctic Ocean lies to the north of Canada.",
     "topic": "geography",
-    "id": "q242"
+    "id": "q242",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
     "question": "How many distinct regions does the guide say Canada has?",
@@ -3156,10 +3506,12 @@
     "correctIndex": 0,
     "explanation": "The guide says Canada includes five distinct regions.",
     "topic": "geography",
-    "id": "q243"
+    "id": "q243",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "What are the five regions of Canada named in the guide?",
+    "question": "The five regions of canada named in the guide are _____.",
     "options": [
       "Atlantic Canada, Ontario, Quebec, the Prairies, and the Arctic Islands",
       "The Maritimes, Central Plains, Rockies, Coastal Region, and North Pole",
@@ -3169,20 +3521,22 @@
     "correctIndex": 3,
     "explanation": "The guide lists five distinct regions: Atlantic Provinces, Central Canada, Prairie Provinces, West Coast, and Northern Territories.",
     "topic": "geography",
-    "id": "q244"
+    "id": "q244",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which river is Ottawa located on?",
+    "question": "The Ottawa River is Ottawa located on.",
     "options": [
-      "The St. Lawrence River",
-      "The Fraser River",
-      "The Mackenzie River",
-      "The Ottawa River"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "Ottawa is located on the Ottawa River.",
     "topic": "geography",
-    "id": "q245"
+    "id": "q245",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
     "question": "Who chose Ottawa as Canada's capital in 1857?",
@@ -3195,10 +3549,12 @@
     "correctIndex": 3,
     "explanation": "Queen Victoria chose Ottawa as the capital in 1857.",
     "topic": "geography",
-    "id": "q246"
+    "id": "q246",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "How many provinces and territories does Canada have?",
+    "question": "Canada has _____.",
     "options": [
       "8 provinces and 2 territories",
       "12 provinces and 1 territory",
@@ -3208,7 +3564,9 @@
     "correctIndex": 3,
     "explanation": "Canada has 10 provinces and 3 territories.",
     "topic": "geography",
-    "id": "q247"
+    "id": "q247",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
     "question": "About how many people did the guide say lived in Canada?",
@@ -3221,23 +3579,25 @@
     "correctIndex": 2,
     "explanation": "The guide states that Canada has a population of about 34 million.",
     "topic": "geography",
-    "id": "q248"
+    "id": "q248",
+    "type": "multiple-choice",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which province is the smallest in Canada?",
+    "question": "Prince Edward Island is the smallest in Canada.",
     "options": [
-      "New Brunswick",
-      "Manitoba",
-      "Prince Edward Island",
-      "Nova Scotia"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The guide says Prince Edward Island is the smallest province.",
     "topic": "geography",
-    "id": "q249"
+    "id": "q249",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which province is the birthplace of Confederation?",
+    "question": "_____ is the birthplace of Confederation.",
     "options": [
       "Ontario",
       "Prince Edward Island",
@@ -3247,7 +3607,9 @@
     "correctIndex": 1,
     "explanation": "The guide says Prince Edward Island is the birthplace of Confederation.",
     "topic": "geography",
-    "id": "q250"
+    "id": "q250",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 46
   },
   {
     "question": "Which bridge links Prince Edward Island to mainland Canada?",
@@ -3260,23 +3622,25 @@
     "correctIndex": 0,
     "explanation": "Confederation Bridge links Prince Edward Island to the mainland.",
     "topic": "geography",
-    "id": "q251"
+    "id": "q251",
+    "type": "multiple-choice",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which Atlantic province is known as the gateway to Canada?",
+    "question": "Prince Edward Island is known as the gateway to Canada.",
     "options": [
-      "Prince Edward Island",
-      "Yukon",
-      "Manitoba",
-      "Nova Scotia"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "The guide says Nova Scotia has a rich history as the gateway to Canada.",
     "topic": "geography",
-    "id": "q252"
+    "id": "q252",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
-    "question": "Where are the world's highest tides found according to the guide?",
+    "question": "The world's highest tides found according to the guide are _____.",
     "options": [
       "The Bay of Fundy",
       "Georgian Bay",
@@ -3286,23 +3650,25 @@
     "correctIndex": 0,
     "explanation": "Nova Scotia is known for the world's highest tides in the Bay of Fundy.",
     "topic": "geography",
-    "id": "q253"
+    "id": "q253",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 46
   },
   {
-    "question": "What is Canada's largest east coast port?",
+    "question": "St. John's is Canada's largest east coast port.",
     "options": [
-      "St. John's",
-      "Fredericton",
-      "Charlottetown",
-      "Halifax"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "Halifax is Canada's largest east coast port.",
     "topic": "geography",
-    "id": "q254"
+    "id": "q254",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which province is the only officially bilingual province?",
+    "question": "_____ is the only officially bilingual province.",
     "options": [
       "New Brunswick",
       "Quebec",
@@ -3312,20 +3678,22 @@
     "correctIndex": 0,
     "explanation": "New Brunswick is the only officially bilingual province.",
     "topic": "geography",
-    "id": "q255"
+    "id": "q255",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which river system is the second largest on North America's Atlantic coastline?",
+    "question": "The Yukon River system is the second largest on North America's Atlantic coastline.",
     "options": [
-      "The St. John River system",
-      "The Yukon River system",
-      "The Mackenzie River system",
-      "The Fraser River system"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "New Brunswick has the St. John River system, the second largest on the Atlantic coast of North America.",
     "topic": "geography",
-    "id": "q256"
+    "id": "q256",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
     "question": "Near which river do the vast majority of Quebec's people live?",
@@ -3338,10 +3706,12 @@
     "correctIndex": 2,
     "explanation": "Nearly eight million people in Quebec live along or near the St. Lawrence River.",
     "topic": "geography",
-    "id": "q257"
+    "id": "q257",
+    "type": "multiple-choice",
+    "studyGuidePage": 46
   },
   {
-    "question": "What is Canada's main producer of pulp and paper?",
+    "question": "Canada's main producer of pulp and paper is _____.",
     "options": [
       "Prince Edward Island",
       "Yukon",
@@ -3351,7 +3721,9 @@
     "correctIndex": 3,
     "explanation": "The guide says Quebec is Canada's main producer of pulp and paper.",
     "topic": "geography",
-    "id": "q258"
+    "id": "q258",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 46
   },
   {
     "question": "What province is Canada's largest producer of hydro-electricity?",
@@ -3364,23 +3736,25 @@
     "correctIndex": 0,
     "explanation": "Quebec's huge freshwater supply has made it Canada's largest producer of hydro-electricity.",
     "topic": "geography",
-    "id": "q259"
+    "id": "q259",
+    "type": "multiple-choice",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which city is Canada's second largest and the second largest mainly French-speaking city in the world after Paris?",
+    "question": "Quebec City is Canada's second largest and the second largest mainly French-speaking city in the world after Paris.",
     "options": [
-      "Montreal",
-      "Quebec City",
-      "Halifax",
-      "Victoria"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "The guide describes Montreal this way.",
     "topic": "geography",
-    "id": "q260"
+    "id": "q260",
+    "type": "true-false",
+    "studyGuidePage": 46
   },
   {
-    "question": "Which city is Canada's largest city and main financial centre?",
+    "question": "_____ is Canada's largest city and main financial centre.",
     "options": [
       "Toronto",
       "Fredericton",
@@ -3390,20 +3764,22 @@
     "correctIndex": 0,
     "explanation": "Toronto is Canada's largest city and main financial centre.",
     "topic": "geography",
-    "id": "q261"
+    "id": "q261",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which region is known for vineyards, wines, and fruit crops?",
+    "question": "Cape Breton is known for vineyards, wines, and fruit crops.",
     "options": [
-      "Cape Breton",
-      "Nunavut",
-      "Yellowknife",
-      "The Niagara region"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "The guide says the Niagara region is known for vineyards, wines, and fruit crops.",
     "topic": "geography",
-    "id": "q262"
+    "id": "q262",
+    "type": "true-false",
+    "studyGuidePage": 48
   },
   {
     "question": "Which province has the largest French-speaking population outside Quebec?",
@@ -3416,7 +3792,9 @@
     "correctIndex": 3,
     "explanation": "The guide says Ontario has the largest French-speaking population outside Quebec.",
     "topic": "geography",
-    "id": "q263"
+    "id": "q263",
+    "type": "multiple-choice",
+    "studyGuidePage": 48
   },
   {
     "question": "Which is the largest freshwater lake in the world according to the guide?",
@@ -3429,10 +3807,12 @@
     "correctIndex": 3,
     "explanation": "The guide identifies Lake Superior as the largest freshwater lake in the world.",
     "topic": "geography",
-    "id": "q264"
+    "id": "q264",
+    "type": "multiple-choice",
+    "studyGuidePage": 48
   },
   {
-    "question": "What is the most famous street intersection in Canada according to the guide?",
+    "question": "The most famous street intersection in canada according to the guide is _____.",
     "options": [
       "Granville and Georgia",
       "Portage and Main",
@@ -3442,7 +3822,9 @@
     "correctIndex": 1,
     "explanation": "The guide says Winnipeg's Exchange District includes Portage and Main, the most famous street intersection in Canada.",
     "topic": "geography",
-    "id": "q265"
+    "id": "q265",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
     "question": "Which province has Western Canada's largest Francophone community at St. Boniface?",
@@ -3455,7 +3837,9 @@
     "correctIndex": 3,
     "explanation": "St. Boniface in Winnipeg is Western Canada's largest Francophone community.",
     "topic": "geography",
-    "id": "q266"
+    "id": "q266",
+    "type": "multiple-choice",
+    "studyGuidePage": 48
   },
   {
     "question": "Which province has the largest Aboriginal population of any province, according to the guide?",
@@ -3468,20 +3852,22 @@
     "correctIndex": 1,
     "explanation": "The guide says Manitoba has the largest Aboriginal population of any province.",
     "topic": "geography",
-    "id": "q267"
+    "id": "q267",
+    "type": "multiple-choice",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which province was once called the breadbasket of the world and the wheat province?",
+    "question": "Ontario was once called the breadbasket of the world and the wheat province.",
     "options": [
-      "Ontario",
-      "New Brunswick",
-      "Nova Scotia",
-      "Saskatchewan"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "The guide says Saskatchewan was once known by both names.",
     "topic": "geography",
-    "id": "q268"
+    "id": "q268",
+    "type": "true-false",
+    "studyGuidePage": 48
   },
   {
     "question": "Which province has the world's richest deposits of uranium and potash?",
@@ -3494,10 +3880,12 @@
     "correctIndex": 0,
     "explanation": "The guide says Saskatchewan has the world's richest deposits of uranium and potash.",
     "topic": "geography",
-    "id": "q269"
+    "id": "q269",
+    "type": "multiple-choice",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which city is the headquarters of Saskatchewan's mining industry and a major educational and research centre?",
+    "question": "_____ is the headquarters of Saskatchewan's mining industry and a major educational and research centre.",
     "options": [
       "Saskatoon",
       "Fredericton",
@@ -3507,7 +3895,9 @@
     "correctIndex": 0,
     "explanation": "The guide says Saskatoon is the headquarters of the mining industry and an important educational, research, and technology centre.",
     "topic": "geography",
-    "id": "q270"
+    "id": "q270",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
     "question": "After whom were Alberta and Lake Louise named?",
@@ -3520,20 +3910,22 @@
     "correctIndex": 0,
     "explanation": "The guide says both Alberta and Lake Louise were named after Princess Louise Caroline Alberta.",
     "topic": "geography",
-    "id": "q271"
+    "id": "q271",
+    "type": "multiple-choice",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which national park in Alberta was established in 1885?",
+    "question": "Algonquin Provincial Park was established in 1885.",
     "options": [
-      "Banff National Park",
-      "Algonquin Provincial Park",
-      "Cape Breton Highlands National Park",
-      "Jasper National Park"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Banff National Park was established in 1885.",
     "topic": "geography",
-    "id": "q272"
+    "id": "q272",
+    "type": "true-false",
+    "studyGuidePage": 48
   },
   {
     "question": "What major energy source is developed in northern Alberta?",
@@ -3546,7 +3938,9 @@
     "correctIndex": 3,
     "explanation": "The guide says the oil sands in northern Alberta are being developed as a major energy source.",
     "topic": "geography",
-    "id": "q273"
+    "id": "q273",
+    "type": "multiple-choice",
+    "studyGuidePage": 48
   },
   {
     "question": "What type of agriculture is Alberta especially known for?",
@@ -3559,10 +3953,12 @@
     "correctIndex": 1,
     "explanation": "Alberta is renowned for agriculture, especially its vast cattle ranches.",
     "topic": "geography",
-    "id": "q274"
+    "id": "q274",
+    "type": "multiple-choice",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which province is Canada's Pacific gateway?",
+    "question": "_____ is Canada's Pacific gateway.",
     "options": [
       "Ontario",
       "Nunavut",
@@ -3572,23 +3968,25 @@
     "correctIndex": 2,
     "explanation": "The guide says British Columbia is known as Canada's Pacific gateway.",
     "topic": "geography",
-    "id": "q275"
+    "id": "q275",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
-    "question": "What is Canada's largest and busiest port?",
+    "question": "The Port of Montreal is Canada's largest and busiest port.",
     "options": [
-      "The Port of Vancouver",
-      "The Port of Montreal",
-      "The Port of St. John's",
-      "The Port of Halifax"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "The Port of Vancouver is Canada's largest and busiest port.",
     "topic": "geography",
-    "id": "q276"
+    "id": "q276",
+    "type": "true-false",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which valley in British Columbia is known for fruit orchards and wine?",
+    "question": "_____ is known for fruit orchards and wine.",
     "options": [
       "The Ottawa Valley",
       "The Red River Valley",
@@ -3598,7 +3996,9 @@
     "correctIndex": 2,
     "explanation": "The guide highlights the fruit orchards and wine industry of the Okanagan Valley.",
     "topic": "geography",
-    "id": "q277"
+    "id": "q277",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 48
   },
   {
     "question": "About how many provincial parks does British Columbia have?",
@@ -3611,23 +4011,25 @@
     "correctIndex": 1,
     "explanation": "The guide says British Columbia has approximately 600 provincial parks.",
     "topic": "geography",
-    "id": "q278"
+    "id": "q278",
+    "type": "multiple-choice",
+    "studyGuidePage": 48
   },
   {
-    "question": "Which city is the capital of British Columbia and headquarters of the navy's Pacific fleet?",
+    "question": "Victoria is the capital of British Columbia and headquarters of the navy's Pacific fleet.",
     "options": [
-      "Vancouver",
-      "Regina",
-      "Victoria",
-      "Kelowna"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Victoria is British Columbia's capital and the headquarters of the navy's Pacific fleet.",
     "topic": "geography",
-    "id": "q279"
+    "id": "q279",
+    "type": "true-false",
+    "studyGuidePage": 48
   },
   {
-    "question": "What is Yellowknife called in the guide?",
+    "question": "Yellowknife called in the guide is _____.",
     "options": [
       "The wheat capital of the world",
       "The maple capital of the empire",
@@ -3637,20 +4039,22 @@
     "correctIndex": 2,
     "explanation": "The guide calls Yellowknife the diamond capital of North America.",
     "topic": "geography",
-    "id": "q280"
+    "id": "q280",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 50
   },
   {
-    "question": "What is the second-longest river system in North America after the Mississippi?",
+    "question": "The Mackenzie River system is the second-longest river system in North America after the Mississippi.",
     "options": [
-      "The Mackenzie River system",
-      "The Red River system",
-      "The St. Lawrence River system",
-      "The Ottawa River system"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "The Mackenzie River system is second only to the Mississippi.",
     "topic": "geography",
-    "id": "q281"
+    "id": "q281",
+    "type": "true-false",
+    "studyGuidePage": 50
   },
   {
     "question": "Why is Canada's North often called the Land of the Midnight Sun?",
@@ -3663,10 +4067,12 @@
     "correctIndex": 2,
     "explanation": "The guide says daylight can last up to 24 hours in summer in the North.",
     "topic": "geography",
-    "id": "q282"
+    "id": "q282",
+    "type": "multiple-choice",
+    "studyGuidePage": 50
   },
   {
-    "question": "What is tundra?",
+    "question": "Tundra is _____.",
     "options": [
       "A tropical forest zone",
       "A coastal fishing region",
@@ -3676,20 +4082,22 @@
     "correctIndex": 2,
     "explanation": "The guide describes tundra as the vast rocky Arctic plain with permanently frozen soil.",
     "topic": "geography",
-    "id": "q283"
+    "id": "q283",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 50
   },
   {
-    "question": "Which territory was famous for the Gold Rush of the 1890s?",
+    "question": "Prince Edward Island was famous for the Gold Rush of the 1890s.",
     "options": [
-      "Prince Edward Island",
-      "Yukon",
-      "New Brunswick",
-      "Quebec"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "explanation": "Thousands of miners came to Yukon during the Gold Rush of the 1890s.",
     "topic": "geography",
-    "id": "q284"
+    "id": "q284",
+    "type": "true-false",
+    "studyGuidePage": 50
   },
   {
     "question": "What railway opened from Skagway, Alaska, to Whitehorse in 1900?",
@@ -3702,10 +4110,12 @@
     "correctIndex": 3,
     "explanation": "The White Pass and Yukon Railway opened in 1900 and remains a famous tourist excursion.",
     "topic": "geography",
-    "id": "q285"
+    "id": "q285",
+    "type": "multiple-choice",
+    "studyGuidePage": 50
   },
   {
-    "question": "What is the coldest temperature ever recorded in Canada, according to the guide?",
+    "question": "The coldest temperature ever recorded in canada, according to the guide is _____.",
     "options": [
       "-103 degrees C",
       "0 degrees C",
@@ -3715,23 +4125,25 @@
     "correctIndex": 3,
     "explanation": "Yukon holds the record for the coldest temperature ever recorded in Canada at -63 C.",
     "topic": "geography",
-    "id": "q286"
+    "id": "q286",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 50
   },
   {
-    "question": "What is the highest mountain in Canada?",
+    "question": "Mount Logan is the highest mountain in Canada.",
     "options": [
-      "Whistler Peak",
-      "Mount Royal",
-      "Mount Logan",
-      "Gros Morne"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Mount Logan in Yukon is the highest mountain in Canada.",
     "topic": "geography",
-    "id": "q287"
+    "id": "q287",
+    "type": "true-false",
+    "studyGuidePage": 50
   },
   {
-    "question": "What does Nunavut mean in Inuktitut?",
+    "question": "Nunavut means _____ in Inuktitut.",
     "options": [
       "True north",
       "The people",
@@ -3741,23 +4153,25 @@
     "correctIndex": 2,
     "explanation": "Nunavut means 'our land' in Inuktitut.",
     "topic": "geography",
-    "id": "q288"
+    "id": "q288",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 50
   },
   {
-    "question": "When was Nunavut established?",
+    "question": "Nunavut established was 1999.",
     "options": [
-      "1867",
-      "1905",
-      "1949",
-      "1999"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "Nunavut was established in 1999 from the eastern part of the Northwest Territories.",
     "topic": "geography",
-    "id": "q289"
+    "id": "q289",
+    "type": "true-false",
+    "studyGuidePage": 50
   },
   {
-    "question": "What was Iqaluit formerly called?",
+    "question": "Iqaluit formerly called was _____.",
     "options": [
       "Frobisher Bay",
       "Bytown",
@@ -3767,7 +4181,9 @@
     "correctIndex": 0,
     "explanation": "The guide says Iqaluit was formerly called Frobisher Bay.",
     "topic": "geography",
-    "id": "q290"
+    "id": "q290",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 50
   },
   {
     "question": "Roughly what share of Nunavut's population is Inuit?",
@@ -3780,7 +4196,9 @@
     "correctIndex": 2,
     "explanation": "The guide says Nunavut's population is about 85% Inuit.",
     "topic": "geography",
-    "id": "q291"
+    "id": "q291",
+    "type": "multiple-choice",
+    "studyGuidePage": 50
   },
   {
     "question": "What language is both an official language and the first language in schools in Nunavut?",
@@ -3793,7 +4211,9 @@
     "correctIndex": 0,
     "explanation": "Inuktitut is an official language in Nunavut and the first language in schools.",
     "topic": "geography",
-    "id": "q292"
+    "id": "q292",
+    "type": "multiple-choice",
+    "studyGuidePage": 50
   },
   {
     "question": "Who helps keep the flag flying in Canada's Arctic and travels by snowmobile and all-terrain vehicle?",
@@ -3806,7 +4226,9 @@
     "correctIndex": 1,
     "explanation": "The guide says the Canadian Rangers help protect Canada's North and Arctic sovereignty.",
     "topic": "geography",
-    "id": "q293"
+    "id": "q293",
+    "type": "multiple-choice",
+    "studyGuidePage": 50
   },
   {
     "question": "What has always been the engine of Canada's economic growth according to the guide?",
@@ -3819,23 +4241,25 @@
     "correctIndex": 0,
     "explanation": "The guide says Canada has always been a trading nation and commerce remains the engine of economic growth.",
     "topic": "symbols",
-    "id": "q294"
+    "id": "q294",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "When did Canada enact free trade with the United States?",
+    "question": "Canada enact free trade with the United States in 1988.",
     "options": [
-      "1867",
-      "2008",
-      "1988",
-      "1949"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Canada enacted free trade with the United States in 1988.",
     "topic": "economy",
-    "id": "q295"
+    "id": "q295",
+    "type": "true-false",
+    "studyGuidePage": 42
   },
   {
-    "question": "When did Mexico become Canada's partner in NAFTA?",
+    "question": "Mexico become canada's partner in nafta happened in _____.",
     "options": [
       "1982",
       "2001",
@@ -3845,7 +4269,9 @@
     "correctIndex": 3,
     "explanation": "Mexico joined the broader North American Free Trade Agreement in 1994.",
     "topic": "symbols",
-    "id": "q296"
+    "id": "q296",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 40
   },
   {
     "question": "What group of industrialized countries does the guide say Canada belongs to?",
@@ -3858,7 +4284,9 @@
     "correctIndex": 0,
     "explanation": "The guide says Canada is part of the G8 group of leading industrialized countries.",
     "topic": "symbols",
-    "id": "q297"
+    "id": "q297",
+    "type": "multiple-choice",
+    "studyGuidePage": 40
   },
   {
     "question": "Which sector employs more than 75% of working Canadians according to the guide?",
@@ -3871,20 +4299,22 @@
     "correctIndex": 0,
     "explanation": "The guide says more than 75% of working Canadians have jobs in service industries.",
     "topic": "symbols",
-    "id": "q298"
+    "id": "q298",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "Which country is Canada's largest international trading partner?",
+    "question": "The United States is Canada's largest international trading partner.",
     "options": [
-      "Mexico",
-      "Japan",
-      "France",
-      "The United States"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "The guide says the United States is Canada's largest trading partner.",
     "topic": "symbols",
-    "id": "q299"
+    "id": "q299",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
     "question": "What share of Canadian exports are destined for the United States?",
@@ -3897,7 +4327,9 @@
     "correctIndex": 0,
     "explanation": "The guide says over three-quarters of Canadian exports are destined for the U.S.A.",
     "topic": "economy",
-    "id": "q300"
+    "id": "q300",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Which monument at Blaine, Washington, symbolizes Canada's close ties with the United States?",
@@ -3910,10 +4342,12 @@
     "correctIndex": 3,
     "explanation": "The Peace Arch symbolizes close Canada-U.S. ties and common interests.",
     "topic": "symbols",
-    "id": "q301"
+    "id": "q301",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "What are the three main types of industries in Canada's economy according to the guide?",
+    "question": "The three main types of industries in canada's economy according to the guide are _____.",
     "options": [
       "Service, manufacturing, and natural resources industries",
       "Tourism, mining, and sports industries",
@@ -3923,20 +4357,22 @@
     "correctIndex": 0,
     "explanation": "The guide divides Canada's economy into service, manufacturing, and natural resources industries.",
     "topic": "symbols",
-    "id": "q302"
+    "id": "q302",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 38
   },
   {
-    "question": "Which natural resources industries are named in the guide?",
+    "question": "Forestry, fishing, agriculture, mining, and energy are named in the guide.",
     "options": [
-      "Only banking and retail",
-      "Forestry, fishing, agriculture, mining, and energy",
-      "Only software and animation",
-      "Only publishing and theater"
+      "True",
+      "False"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The guide names forestry, fishing, agriculture, mining, and energy as natural resources industries.",
     "topic": "symbols",
-    "id": "q303"
+    "id": "q303",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
     "question": "What object has been a symbol of the state in Canada for 400 years?",
@@ -3949,7 +4385,9 @@
     "correctIndex": 0,
     "explanation": "The guide says the Crown has been a symbol of the state in Canada for 400 years.",
     "topic": "symbols",
-    "id": "q304"
+    "id": "q304",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "Since when has Canada been a constitutional monarchy in its own right?",
@@ -3962,10 +4400,12 @@
     "correctIndex": 2,
     "explanation": "The guide says Canada has been a constitutional monarchy in its own right since Confederation in 1867.",
     "topic": "symbols",
-    "id": "q305"
+    "id": "q305",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "When was the new Canadian flag first raised?",
+    "question": "The new canadian flag first raised was _____.",
     "options": [
       "1965",
       "1867",
@@ -3975,7 +4415,9 @@
     "correctIndex": 0,
     "explanation": "The new Canadian flag was first raised in 1965.",
     "topic": "symbols",
-    "id": "q306"
+    "id": "q306",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 38
   },
   {
     "question": "Where did the red-white-red pattern of the Canadian flag come from?",
@@ -3988,7 +4430,9 @@
     "correctIndex": 0,
     "explanation": "The guide says the flag's red-white-red pattern comes from the Royal Military College flag.",
     "topic": "symbols",
-    "id": "q307"
+    "id": "q307",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "Since what year have red and white been Canada's national colours?",
@@ -4001,20 +4445,22 @@
     "correctIndex": 2,
     "explanation": "Red and white have been Canada's national colours since 1921.",
     "topic": "symbols",
-    "id": "q308"
+    "id": "q308",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "What is Canada's official Royal Flag?",
+    "question": "The Union Jack is Canada's official Royal Flag.",
     "options": [
-      "The Red Ensign",
-      "The Peace Banner",
-      "The fleur-de-lys",
-      "The Union Jack"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "The guide says the Union Jack is Canada's official Royal Flag.",
     "topic": "symbols",
-    "id": "q309"
+    "id": "q309",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
     "question": "What served as the Canadian flag for about 100 years before 1965?",
@@ -4027,10 +4473,12 @@
     "correctIndex": 1,
     "explanation": "The Canadian Red Ensign served as the national flag for about 100 years.",
     "topic": "symbols",
-    "id": "q310"
+    "id": "q310",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "What is Canada's best-known symbol?",
+    "question": "Canada's best-known symbol is _____.",
     "options": [
       "The Stanley Cup",
       "The Senate mace",
@@ -4040,7 +4488,9 @@
     "correctIndex": 3,
     "explanation": "The guide says the maple leaf is Canada's best-known symbol.",
     "topic": "symbols",
-    "id": "q311"
+    "id": "q311",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 38
   },
   {
     "question": "Since when have maple leaves appeared on Canadian uniforms and insignia?",
@@ -4053,7 +4503,9 @@
     "correctIndex": 2,
     "explanation": "The guide says maple leaves have appeared on Canadian uniforms and insignia since the 1850s.",
     "topic": "symbols",
-    "id": "q312"
+    "id": "q312",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "What symbol of French royalty was also the symbol of New France?",
@@ -4066,23 +4518,25 @@
     "correctIndex": 2,
     "explanation": "The fleur-de-lys became the symbol of French royalty and of New France.",
     "topic": "symbols",
-    "id": "q313"
+    "id": "q313",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "What is Canada's national motto?",
+    "question": "Dominion from Sea to Sea is Canada's national motto.",
     "options": [
-      "A mari usque ad mare",
-      "Dominion from Sea to Sea",
-      "Peace, Order and Good Government",
-      "O Canada forever"
+      "True",
+      "False"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Canada's national motto is A mari usque ad mare, meaning from sea to sea.",
     "topic": "symbols",
-    "id": "q314"
+    "id": "q314",
+    "type": "true-false",
+    "studyGuidePage": 38
   },
   {
-    "question": "What does A mari usque ad mare mean?",
+    "question": "A mari usque ad mare means _____.",
     "options": [
       "True north strong and free",
       "Land of the midnight sun",
@@ -4092,7 +4546,9 @@
     "correctIndex": 2,
     "explanation": "The Latin motto A mari usque ad mare means from sea to sea.",
     "topic": "symbols",
-    "id": "q315"
+    "id": "q315",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 38
   },
   {
     "question": "What happened to the Centre Block of the Parliament Buildings in 1916?",
@@ -4105,23 +4561,25 @@
     "correctIndex": 0,
     "explanation": "The Centre Block was destroyed by an accidental fire in 1916.",
     "topic": "symbols",
-    "id": "q316"
+    "id": "q316",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "What is the only original part of the Parliament Buildings that remained after the 1916 fire?",
+    "question": "The Library is the only original part of the Parliament Buildings that remained after the 1916 fire.",
     "options": [
-      "The Library",
-      "The Senate chamber",
-      "The Centre Block",
-      "The Peace Tower"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "The library is the only original part that remained after the fire.",
     "topic": "symbols",
-    "id": "q317"
+    "id": "q317",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
-    "question": "When was the Peace Tower completed?",
+    "question": "The peace tower completed was _____.",
     "options": [
       "1867",
       "1916",
@@ -4131,20 +4589,22 @@
     "correctIndex": 3,
     "explanation": "The Peace Tower was completed in 1927 in memory of the First World War.",
     "topic": "symbols",
-    "id": "q318"
+    "id": "q318",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 38
   },
   {
-    "question": "What is kept in the Memorial Chamber in the Peace Tower?",
+    "question": "The Books of Remembrance is kept in the Memorial Chamber in the Peace Tower.",
     "options": [
-      "The Books of Remembrance",
-      "The National Register of Electors",
-      "The journals of Cabinet",
-      "The Constitution only"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "The Memorial Chamber contains the Books of Remembrance.",
     "topic": "symbols",
-    "id": "q319"
+    "id": "q319",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
     "question": "What names are written in the Books of Remembrance?",
@@ -4157,10 +4617,12 @@
     "correctIndex": 0,
     "explanation": "The Books of Remembrance record the names of those who died serving Canada.",
     "topic": "symbols",
-    "id": "q320"
+    "id": "q320",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "What is Canada's most popular spectator sport?",
+    "question": "Canada's most popular spectator sport is _____.",
     "options": [
       "Soccer",
       "Curling",
@@ -4170,20 +4632,22 @@
     "correctIndex": 2,
     "explanation": "The guide says hockey is Canada's most popular spectator sport.",
     "topic": "symbols",
-    "id": "q321"
+    "id": "q321",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 38
   },
   {
-    "question": "What is Canada's official winter sport?",
+    "question": "Ski jumping is Canada's official winter sport.",
     "options": [
-      "Ski jumping",
-      "Curling",
-      "Snowshoe racing",
-      "Hockey"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "Hockey is considered Canada's national winter sport.",
     "topic": "symbols",
-    "id": "q322"
+    "id": "q322",
+    "type": "true-false",
+    "studyGuidePage": 38
   },
   {
     "question": "What trophy is awarded to the NHL champions?",
@@ -4196,7 +4660,9 @@
     "correctIndex": 3,
     "explanation": "The Stanley Cup is the NHL championship trophy.",
     "topic": "symbols",
-    "id": "q323"
+    "id": "q323",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "Who donated the Stanley Cup?",
@@ -4209,7 +4675,9 @@
     "correctIndex": 2,
     "explanation": "Lord Stanley, the Governor General, donated the Stanley Cup in 1892.",
     "topic": "symbols",
-    "id": "q324"
+    "id": "q324",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "What trophy is awarded in women's hockey?",
@@ -4222,10 +4690,12 @@
     "correctIndex": 3,
     "explanation": "The Clarkson Cup, established in 2005, is awarded for women's hockey.",
     "topic": "symbols",
-    "id": "q325"
+    "id": "q325",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "What is Canada's official summer sport?",
+    "question": "Canada's official summer sport is _____.",
     "options": [
       "Baseball",
       "Lacrosse",
@@ -4235,7 +4705,9 @@
     "correctIndex": 1,
     "explanation": "The guide says lacrosse is Canada's official summer sport.",
     "topic": "symbols",
-    "id": "q326"
+    "id": "q326",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 38
   },
   {
     "question": "Which sport has the most registered players of any game in Canada?",
@@ -4248,7 +4720,9 @@
     "correctIndex": 0,
     "explanation": "The guide says soccer has the most registered players of any game in Canada.",
     "topic": "symbols",
-    "id": "q327"
+    "id": "q327",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "Who invented basketball in 1891?",
@@ -4261,7 +4735,9 @@
     "correctIndex": 1,
     "explanation": "The guide says basketball was invented by Canadian James Naismith in 1891.",
     "topic": "symbols",
-    "id": "q328"
+    "id": "q328",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "What trophy is awarded to the CFL champions?",
@@ -4274,23 +4750,25 @@
     "correctIndex": 2,
     "explanation": "The Grey Cup is the Canadian Football League championship trophy.",
     "topic": "symbols",
-    "id": "q329"
+    "id": "q329",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "When was O Canada proclaimed as the national anthem?",
+    "question": "O Canada proclaimed as the national anthem was 1867.",
     "options": [
-      "1867",
-      "1980",
-      "1965",
-      "1921"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "explanation": "The guide says O Canada was proclaimed as the national anthem in 1980.",
     "topic": "symbols",
-    "id": "q330"
+    "id": "q330",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
-    "question": "Where was O Canada first sung?",
+    "question": "O canada first sung was _____.",
     "options": [
       "Halifax",
       "Quebec City",
@@ -4300,23 +4778,25 @@
     "correctIndex": 1,
     "explanation": "The anthem was first sung in Quebec City in 1880.",
     "topic": "symbols",
-    "id": "q331"
+    "id": "q331",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 40
   },
   {
-    "question": "What is the Royal Anthem of Canada?",
+    "question": "O Canada is the Royal Anthem of Canada.",
     "options": [
-      "O Canada",
-      "The Maple Leaf Forever",
-      "In Flanders Fields",
-      "God Save the Queen or King"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "The guide says the Royal Anthem of Canada is God Save the Queen or King.",
     "topic": "symbols",
-    "id": "q332"
+    "id": "q332",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
-    "question": "When did Canada start its own honours system with the Order of Canada?",
+    "question": "Canada start its own honours system with the order of canada happened in _____.",
     "options": [
       "1867",
       "1967",
@@ -4326,23 +4806,25 @@
     "correctIndex": 1,
     "explanation": "Canada started its own honours system with the Order of Canada in 1967, the centennial of Confederation.",
     "topic": "symbols",
-    "id": "q333"
+    "id": "q333",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 40
   },
   {
-    "question": "What is the highest honour available to Canadians?",
+    "question": "The Peace Prize is the highest honour available to Canadians.",
     "options": [
-      "The Peace Prize",
-      "The Victoria Cross",
-      "The Order of Canada",
-      "The Stanley Cup"
+      "True",
+      "False"
     ],
     "correctIndex": 1,
     "explanation": "The guide says the Victoria Cross is the highest honour available to Canadians.",
     "topic": "symbols",
-    "id": "q334"
+    "id": "q334",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
-    "question": "What is the Victoria Cross awarded for?",
+    "question": "The victoria cross awarded for is _____.",
     "options": [
       "Winning an Olympic medal",
       "Building railways in the West",
@@ -4352,23 +4834,25 @@
     "correctIndex": 2,
     "explanation": "The guide says the Victoria Cross recognizes extraordinary bravery, valour, self-sacrifice, or devotion to duty in the face of the enemy.",
     "topic": "symbols",
-    "id": "q335"
+    "id": "q335",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 40
   },
   {
-    "question": "Who was the first Canadian to be awarded the Victoria Cross?",
+    "question": "William Hall was the first Canadian to be awarded the Victoria Cross.",
     "options": [
-      "William Hall",
-      "Billy Bishop",
-      "Alexander Roberts Dunn",
-      "Paul Triquet"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Alexander Roberts Dunn was the first Canadian to receive the Victoria Cross.",
     "topic": "symbols",
-    "id": "q336"
+    "id": "q336",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
-    "question": "Who was the first Black man to be awarded the Victoria Cross?",
+    "question": "_____ was the first Black man to be awarded the Victoria Cross.",
     "options": [
       "William Hall",
       "Robert Hampton Gray",
@@ -4378,7 +4862,9 @@
     "correctIndex": 0,
     "explanation": "Able Seaman William Hall was the first Black man to receive the Victoria Cross.",
     "topic": "symbols",
-    "id": "q337"
+    "id": "q337",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 40
   },
   {
     "question": "Which Canadian flying ace earned the Victoria Cross in the First World War?",
@@ -4391,20 +4877,22 @@
     "correctIndex": 0,
     "explanation": "Captain Billy Bishop earned the Victoria Cross during the First World War.",
     "topic": "symbols",
-    "id": "q338"
+    "id": "q338",
+    "type": "multiple-choice",
+    "studyGuidePage": 40
   },
   {
-    "question": "Who was the last Canadian to receive the Victoria Cross to date, according to the guide?",
+    "question": "Robert Hampton Gray was the last Canadian to receive the Victoria Cross to date, according to the guide.",
     "options": [
-      "William Hall",
-      "Alexander Roberts Dunn",
-      "Sir Sam Steele",
-      "Robert Hampton Gray"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "Lieutenant Robert Hampton Gray was the last Canadian to receive the Victoria Cross to date.",
     "topic": "symbols",
-    "id": "q339"
+    "id": "q339",
+    "type": "true-false",
+    "studyGuidePage": 40
   },
   {
     "question": "What symbol appears on the five-cent coin and was adopted centuries ago by the Hudson's Bay Company?",
@@ -4417,7 +4905,9 @@
     "correctIndex": 2,
     "explanation": "The guide says the beaver appears on the five-cent coin and was a symbol of the Hudson's Bay Company.",
     "topic": "symbols",
-    "id": "q340"
+    "id": "q340",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "Who hit on the idea of the telephone at his summer house in Canada?",
@@ -4430,7 +4920,9 @@
     "correctIndex": 0,
     "explanation": "The guide credits Alexander Graham Bell with the idea of the telephone at his summer house in Canada.",
     "topic": "economy",
-    "id": "q341"
+    "id": "q341",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Who invented the snowmobile?",
@@ -4443,7 +4935,9 @@
     "correctIndex": 0,
     "explanation": "Joseph-Armand Bombardier invented the snowmobile.",
     "topic": "economy",
-    "id": "q342"
+    "id": "q342",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Who invented the worldwide system of standard time zones?",
@@ -4456,7 +4950,9 @@
     "correctIndex": 2,
     "explanation": "The guide credits Sir Sandford Fleming with standard time zones.",
     "topic": "economy",
-    "id": "q343"
+    "id": "q343",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Who sent the first wireless voice message in the world?",
@@ -4469,10 +4965,12 @@
     "correctIndex": 1,
     "explanation": "The guide says Reginald Fessenden contributed to radio and sent the first wireless voice message.",
     "topic": "symbols",
-    "id": "q344"
+    "id": "q344",
+    "type": "multiple-choice",
+    "studyGuidePage": 40
   },
   {
-    "question": "Who was the pioneering brain surgeon at McGill University known as the greatest living Canadian?",
+    "question": "_____ was the pioneering brain surgeon at McGill University known as the greatest living Canadian.",
     "options": [
       "Dr. Wilder Penfield",
       "Emily Stowe",
@@ -4482,7 +4980,9 @@
     "correctIndex": 0,
     "explanation": "The guide describes Dr. Wilder Penfield this way.",
     "topic": "symbols",
-    "id": "q345"
+    "id": "q345",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 40
   },
   {
     "question": "Who invented the first cardiac pacemaker?",
@@ -4495,7 +4995,9 @@
     "correctIndex": 1,
     "explanation": "The guide credits Dr. John A. Hopps with inventing the first cardiac pacemaker.",
     "topic": "economy",
-    "id": "q346"
+    "id": "q346",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "What Canadian robotic arm has been used in outer space?",
@@ -4508,20 +5010,22 @@
     "correctIndex": 1,
     "explanation": "SPAR Aerospace and the National Research Council invented the Canadarm.",
     "topic": "symbols",
-    "id": "q347"
+    "id": "q347",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "Which wireless communications company is known for the BlackBerry?",
+    "question": "Parks Canada is known for the BlackBerry.",
     "options": [
-      "Parks Canada",
-      "CBC",
-      "Research in Motion",
-      "Hudson's Bay Company"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The guide says RIM, led by Mike Lazaridis and Jim Balsillie, is known for the BlackBerry.",
     "topic": "economy",
-    "id": "q348"
+    "id": "q348",
+    "type": "true-false",
+    "studyGuidePage": 42
   },
   {
     "question": "Who discovered insulin?",
@@ -4534,7 +5038,9 @@
     "correctIndex": 1,
     "explanation": "The guide says Sir Frederick Banting and Charles Best discovered insulin.",
     "topic": "economy",
-    "id": "q349"
+    "id": "q349",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Which athlete began the Marathon of Hope in 1980 to raise money for cancer research?",
@@ -4547,7 +5053,9 @@
     "correctIndex": 2,
     "explanation": "Terry Fox began the Marathon of Hope in 1980.",
     "topic": "symbols",
-    "id": "q350"
+    "id": "q350",
+    "type": "multiple-choice",
+    "studyGuidePage": 40
   },
   {
     "question": "Who circled the globe in a wheelchair in 1985 to raise funds for spinal cord research?",
@@ -4560,7 +5068,9 @@
     "correctIndex": 1,
     "explanation": "Rick Hansen completed a global wheelchair journey in 1985 for spinal cord research.",
     "topic": "symbols",
-    "id": "q351"
+    "id": "q351",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "Who scored the goal heard around the world in the 1972 Canada-Soviet Summit Series?",
@@ -4573,7 +5083,9 @@
     "correctIndex": 2,
     "explanation": "Paul Henderson scored the famous winning goal in 1972.",
     "topic": "symbols",
-    "id": "q352"
+    "id": "q352",
+    "type": "multiple-choice",
+    "studyGuidePage": 40
   },
   {
     "question": "Which group of painters founded in 1920 became famous for depicting Canada's rugged wilderness?",
@@ -4586,7 +5098,9 @@
     "correctIndex": 0,
     "explanation": "The Group of Seven developed a style of painting Canada's rugged landscapes.",
     "topic": "symbols",
-    "id": "q353"
+    "id": "q353",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "Which artist painted forests and Aboriginal artifacts of the West Coast?",
@@ -4599,7 +5113,9 @@
     "correctIndex": 2,
     "explanation": "Emily Carr is noted in the guide for painting West Coast forests and Aboriginal artifacts.",
     "topic": "symbols",
-    "id": "q354"
+    "id": "q354",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
     "question": "Which Inuit artist pioneered modern Inuit art with etchings, prints, and soapstone sculptures?",
@@ -4612,10 +5128,12 @@
     "correctIndex": 2,
     "explanation": "The guide credits Kenojuak Ashevak as a pioneer of modern Inuit art.",
     "topic": "symbols",
-    "id": "q355"
+    "id": "q355",
+    "type": "multiple-choice",
+    "studyGuidePage": 38
   },
   {
-    "question": "Which branch of government is represented by nine judges appointed by the Governor General in the guide's diagram?",
+    "question": "_____ is represented by nine judges appointed by the Governor General in the guide's diagram.",
     "options": [
       "The Senate",
       "The Supreme Court of Canada",
@@ -4625,23 +5143,25 @@
     "correctIndex": 1,
     "explanation": "The guide's diagram shows the Supreme Court of Canada with nine judges appointed by the Governor General.",
     "topic": "symbols",
-    "id": "q356"
+    "id": "q356",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 38
   },
   {
-    "question": "Which capital city belongs to the Atlantic Provinces region?",
+    "question": "St. John's belongs to the Atlantic Provinces region",
     "options": [
-      "St. John's",
-      "Charlottetown",
-      "Halifax",
-      "Fredericton"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "St. John's is a capital in the Atlantic Provinces region.",
     "topic": "geography",
-    "id": "q357"
+    "id": "q357",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which capital city belongs to the Central Canada region?",
+    "question": "The capital city that belongs to the Central Canada region is _____.",
     "options": [
       "Quebec City",
       "Halifax",
@@ -4651,23 +5171,25 @@
     "correctIndex": 0,
     "explanation": "Quebec City is a capital in the Central Canada region.",
     "topic": "geography",
-    "id": "q358"
+    "id": "q358",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which capital city belongs to the Prairie Provinces region?",
+    "question": "Winnipeg belongs to the Prairie Provinces region",
     "options": [
-      "Charlottetown",
-      "St. John's",
-      "Winnipeg",
-      "Halifax"
+      "True",
+      "False"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Winnipeg is a capital in the Prairie Provinces region.",
     "topic": "geography",
-    "id": "q359"
+    "id": "q359",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which capital city belongs to the West Coast region?",
+    "question": "The capital city that belongs to the West Coast region is _____.",
     "options": [
       "Charlottetown",
       "Halifax",
@@ -4677,23 +5199,25 @@
     "correctIndex": 2,
     "explanation": "Victoria is a capital in the West Coast region.",
     "topic": "geography",
-    "id": "q360"
+    "id": "q360",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 44
   },
   {
-    "question": "Which capital city belongs to the Northern Territories region?",
+    "question": "Iqaluit belongs to the Northern Territories region",
     "options": [
-      "St. John's",
-      "Halifax",
-      "Charlottetown",
-      "Iqaluit"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "Iqaluit is a capital in the Northern Territories region.",
     "topic": "geography",
-    "id": "q361"
+    "id": "q361",
+    "type": "true-false",
+    "studyGuidePage": 44
   },
   {
-    "question": "Who is connected in the guide with the telephone?",
+    "question": "_____ is connected in the guide with the telephone.",
     "options": [
       "Joseph-Armand Bombardier",
       "Sir Sandford Fleming",
@@ -4703,23 +5227,25 @@
     "correctIndex": 3,
     "explanation": "The guide links Alexander Graham Bell with the telephone.",
     "topic": "economy",
-    "id": "q362"
+    "id": "q362",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 42
   },
   {
-    "question": "Who is connected in the guide with the snowmobile?",
+    "question": "Joseph-Armand Bombardier is connected in the guide with the snowmobile.",
     "options": [
-      "Joseph-Armand Bombardier",
-      "Alexander Graham Bell",
-      "Sir Sandford Fleming",
-      "Reginald Fessenden"
+      "True",
+      "False"
     ],
     "correctIndex": 0,
     "explanation": "The guide links Joseph-Armand Bombardier with the snowmobile.",
     "topic": "economy",
-    "id": "q363"
+    "id": "q363",
+    "type": "true-false",
+    "studyGuidePage": 42
   },
   {
-    "question": "Who is connected in the guide with the standard time zones?",
+    "question": "_____ is connected in the guide with the standard time zones.",
     "options": [
       "Joseph-Armand Bombardier",
       "Reginald Fessenden",
@@ -4729,7 +5255,9 @@
     "correctIndex": 2,
     "explanation": "The guide links Sir Sandford Fleming with the standard time zones.",
     "topic": "economy",
-    "id": "q364"
+    "id": "q364",
+    "type": "fill-in-the-blank",
+    "studyGuidePage": 42
   },
   {
     "question": "Who is connected in the guide with the first wireless voice message?",
@@ -4742,7 +5270,9 @@
     "correctIndex": 0,
     "explanation": "The guide links Reginald Fessenden with the first wireless voice message.",
     "topic": "economy",
-    "id": "q365"
+    "id": "q365",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Who is connected in the guide with the first cardiac pacemaker?",
@@ -4755,7 +5285,9 @@
     "correctIndex": 3,
     "explanation": "The guide links Dr. John A. Hopps with the first cardiac pacemaker.",
     "topic": "economy",
-    "id": "q366"
+    "id": "q366",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Who is connected in the guide with the Canadarm?",
@@ -4768,7 +5300,9 @@
     "correctIndex": 2,
     "explanation": "The guide links SPAR Aerospace and the National Research Council with the Canadarm.",
     "topic": "economy",
-    "id": "q367"
+    "id": "q367",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Who is connected in the guide with the BlackBerry?",
@@ -4781,7 +5315,9 @@
     "correctIndex": 0,
     "explanation": "The guide links Research in Motion with the BlackBerry.",
     "topic": "economy",
-    "id": "q368"
+    "id": "q368",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Who is connected in the guide with the insulin?",
@@ -4794,7 +5330,9 @@
     "correctIndex": 1,
     "explanation": "The guide links Sir Frederick Banting and Charles Best with the insulin.",
     "topic": "economy",
-    "id": "q369"
+    "id": "q369",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Which historic charter from 1215 is linked in the guide to Canada's tradition of ordered liberty?",
@@ -4807,7 +5345,9 @@
     "correctIndex": 0,
     "explanation": "The guide traces Canada's ordered liberty to Magna Carta of 1215.",
     "topic": "rights-and-responsibilities",
-    "id": "q370"
+    "id": "q370",
+    "type": "multiple-choice",
+    "studyGuidePage": 8
   },
   {
     "question": "What does the guide say about English and French in Parliament and government?",
@@ -4820,7 +5360,9 @@
     "correctIndex": 0,
     "explanation": "Official language rights give English and French equal status in Parliament and throughout government.",
     "topic": "rights-and-responsibilities",
-    "id": "q371"
+    "id": "q371",
+    "type": "multiple-choice",
+    "studyGuidePage": 8
   },
   {
     "question": "What phrase in the guide describes the quality of Canada's longstanding constitutional heritage?",
@@ -4833,7 +5375,9 @@
     "correctIndex": 0,
     "explanation": "The guide says Canada inherited the oldest continuous constitutional tradition in the world.",
     "topic": "history",
-    "id": "q372"
+    "id": "q372",
+    "type": "multiple-choice",
+    "studyGuidePage": 10
   },
   {
     "question": "What key phrase appears in Canada's original constitutional document of 1867?",
@@ -4846,7 +5390,9 @@
     "correctIndex": 3,
     "explanation": "The guide says Peace, Order and Good Government is a key phrase in the 1867 document.",
     "topic": "history",
-    "id": "q373"
+    "id": "q373",
+    "type": "multiple-choice",
+    "studyGuidePage": 10
   },
   {
     "question": "What nickname do poets and songwriters use in the guide for Canada?",
@@ -4859,7 +5405,9 @@
     "correctIndex": 3,
     "explanation": "The guide says poets and songwriters have hailed Canada as the Great Dominion.",
     "topic": "history",
-    "id": "q374"
+    "id": "q374",
+    "type": "multiple-choice",
+    "studyGuidePage": 10
   },
   {
     "question": "Roughly how many Anglophones does the guide say Canada has?",
@@ -4872,7 +5420,9 @@
     "correctIndex": 3,
     "explanation": "The guide states there are about 18 million Anglophones.",
     "topic": "history",
-    "id": "q375"
+    "id": "q375",
+    "type": "multiple-choice",
+    "studyGuidePage": 10
   },
   {
     "question": "Roughly how many Francophones does the guide say Canada has?",
@@ -4885,7 +5435,9 @@
     "correctIndex": 1,
     "explanation": "The guide states there are about seven million Francophones.",
     "topic": "history",
-    "id": "q376"
+    "id": "q376",
+    "type": "multiple-choice",
+    "studyGuidePage": 10
   },
   {
     "question": "Between which years did many Loyalists move to Nova Scotia and Quebec under British protection?",
@@ -4898,7 +5450,9 @@
     "correctIndex": 2,
     "explanation": "The guide says Loyalist migration to Nova Scotia and Quebec took place in 1782-83.",
     "topic": "history",
-    "id": "q377"
+    "id": "q377",
+    "type": "multiple-choice",
+    "studyGuidePage": 14
   },
   {
     "question": "Where did some Black Nova Scotians move in 1792 after being given poor land?",
@@ -4911,7 +5465,9 @@
     "correctIndex": 0,
     "explanation": "Some Black Nova Scotians moved to establish Freetown, Sierra Leone, in 1792.",
     "topic": "history",
-    "id": "q378"
+    "id": "q378",
+    "type": "multiple-choice",
+    "studyGuidePage": 14
   },
   {
     "question": "Where was the first representative assembly elected in 1758?",
@@ -4924,7 +5480,9 @@
     "correctIndex": 1,
     "explanation": "The guide says the first representative assembly was elected in Halifax in 1758.",
     "topic": "government",
-    "id": "q379"
+    "id": "q379",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "In what year did the British Parliament prohibit the buying and selling of slaves?",
@@ -4937,7 +5495,9 @@
     "correctIndex": 1,
     "explanation": "The guide says the British Parliament prohibited the buying and selling of slaves in 1807.",
     "topic": "history",
-    "id": "q380"
+    "id": "q380",
+    "type": "multiple-choice",
+    "studyGuidePage": 16
   },
   {
     "question": "How many volunteers fought for Canada in the South African War, according to the guide?",
@@ -4950,7 +5510,9 @@
     "correctIndex": 0,
     "explanation": "The guide says over 7,000 Canadians volunteered for the South African War.",
     "topic": "history",
-    "id": "q381"
+    "id": "q381",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "About how many Canadians died in the South African War?",
@@ -4963,7 +5525,9 @@
     "correctIndex": 0,
     "explanation": "The guide says over 260 Canadians died in the South African War.",
     "topic": "history",
-    "id": "q382"
+    "id": "q382",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "How many Canadians were killed or wounded at Vimy Ridge?",
@@ -4976,7 +5540,9 @@
     "correctIndex": 0,
     "explanation": "The guide says 10,000 Canadians were killed or wounded at Vimy Ridge.",
     "topic": "history",
-    "id": "q383"
+    "id": "q383",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "How many former Austro-Hungarian subjects were interned in Canada from 1914 to 1920?",
@@ -4989,7 +5555,9 @@
     "correctIndex": 3,
     "explanation": "The guide says Ottawa interned over 8,000 former Austro-Hungarian subjects.",
     "topic": "history",
-    "id": "q384"
+    "id": "q384",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "What nickname did Canadian military nurses receive in the First World War?",
@@ -5002,7 +5570,9 @@
     "correctIndex": 3,
     "explanation": "The guide says more than 3,000 nurses served and were nicknamed Bluebirds.",
     "topic": "history",
-    "id": "q385"
+    "id": "q385",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "How many Canadian military nurses served in the First World War, according to the guide?",
@@ -5015,7 +5585,9 @@
     "correctIndex": 3,
     "explanation": "The guide says more than 3,000 nurses served in the Royal Canadian Army Medical Corps.",
     "topic": "history",
-    "id": "q386"
+    "id": "q386",
+    "type": "multiple-choice",
+    "studyGuidePage": 20
   },
   {
     "question": "What military alliance did Canada join during the Cold War?",
@@ -5028,7 +5600,9 @@
     "correctIndex": 2,
     "explanation": "The guide says Canada joined NATO during the Cold War.",
     "topic": "government",
-    "id": "q387"
+    "id": "q387",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "What joint aerospace defence command does Canada share with the United States?",
@@ -5041,7 +5615,9 @@
     "correctIndex": 1,
     "explanation": "The guide says Canada joined the United States in NORAD.",
     "topic": "government",
-    "id": "q388"
+    "id": "q388",
+    "type": "multiple-choice",
+    "studyGuidePage": 32
   },
   {
     "question": "In which war did Canada participate under the United Nations from 1950 to 1953?",
@@ -5054,7 +5630,9 @@
     "correctIndex": 2,
     "explanation": "The guide says Canada participated in the UN operation defending South Korea in the Korean War.",
     "topic": "history",
-    "id": "q389"
+    "id": "q389",
+    "type": "multiple-choice",
+    "studyGuidePage": 24
   },
   {
     "question": "How many Canadians died in the Korean War, according to the guide?",
@@ -5067,7 +5645,9 @@
     "correctIndex": 0,
     "explanation": "The guide says 500 Canadians died in the Korean War.",
     "topic": "history",
-    "id": "q390"
+    "id": "q390",
+    "type": "multiple-choice",
+    "studyGuidePage": 24
   },
   {
     "question": "What was Quebec's era of rapid change in the 1960s called?",
@@ -5080,7 +5660,9 @@
     "correctIndex": 0,
     "explanation": "The guide calls Quebec's rapid change in the 1960s the Quiet Revolution.",
     "topic": "history",
-    "id": "q391"
+    "id": "q391",
+    "type": "multiple-choice",
+    "studyGuidePage": 24
   },
   {
     "question": "What kind of insurance did the federal government introduce in 1940?",
@@ -5093,7 +5675,9 @@
     "correctIndex": 0,
     "explanation": "The guide says unemployment insurance, now employment insurance, was introduced in 1940.",
     "topic": "economy",
-    "id": "q392"
+    "id": "q392",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "In what year were the Canada and Quebec Pension Plans created?",
@@ -5106,7 +5690,9 @@
     "correctIndex": 3,
     "explanation": "The guide says the Canada and Quebec Pension Plans were created in 1965.",
     "topic": "economy",
-    "id": "q393"
+    "id": "q393",
+    "type": "multiple-choice",
+    "studyGuidePage": 42
   },
   {
     "question": "Who provides publicly funded education in Canada?",
@@ -5119,7 +5705,9 @@
     "correctIndex": 2,
     "explanation": "The guide says publicly funded education is provided by the provinces and territories.",
     "topic": "government",
-    "id": "q394"
+    "id": "q394",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "What is the first step in how a bill becomes law, according to the guide?",
@@ -5132,7 +5720,9 @@
     "correctIndex": 3,
     "explanation": "The guide lists First Reading as step 1 of the legislative process.",
     "topic": "government",
-    "id": "q395"
+    "id": "q395",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "What is the second step in how a bill becomes law?",
@@ -5145,7 +5735,9 @@
     "correctIndex": 3,
     "explanation": "The guide lists Second Reading as step 2 of the legislative process.",
     "topic": "government",
-    "id": "q396"
+    "id": "q396",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "At which stage do committee members study a bill clause by clause?",
@@ -5158,7 +5750,9 @@
     "correctIndex": 2,
     "explanation": "Committee Stage is when members study the bill clause by clause.",
     "topic": "government",
-    "id": "q397"
+    "id": "q397",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "At which stage can members make other amendments to a bill after committee review?",
@@ -5171,7 +5765,9 @@
     "correctIndex": 0,
     "explanation": "The guide lists Report Stage as the point where members can make other amendments.",
     "topic": "government",
-    "id": "q398"
+    "id": "q398",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "What is the final step after a bill has passed both Houses?",
@@ -5184,7 +5780,9 @@
     "correctIndex": 0,
     "explanation": "The final step is Royal Assent after passage in both Houses.",
     "topic": "government",
-    "id": "q399"
+    "id": "q399",
+    "type": "multiple-choice",
+    "studyGuidePage": 28
   },
   {
     "question": "Which municipal service is specifically listed in the guide along with firefighting and policing?",
@@ -5197,6 +5795,8 @@
     "correctIndex": 1,
     "explanation": "The guide lists emergency services as a municipal responsibility.",
     "topic": "government",
-    "id": "q400"
+    "id": "q400",
+    "type": "multiple-choice",
+    "studyGuidePage": 32
   }
 ]

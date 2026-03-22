@@ -3,6 +3,7 @@
 interface OptionButtonProps {
   label: string;
   index: number;
+  badgeLabel?: string;
   isSelected: boolean;
   isCorrect: boolean;
   isRevealed: boolean;
@@ -12,6 +13,7 @@ interface OptionButtonProps {
 export function OptionButton({
   label,
   index,
+  badgeLabel,
   isSelected,
   isCorrect,
   isRevealed,
@@ -52,7 +54,7 @@ export function OptionButton({
       disabled={isRevealed}
       aria-pressed={isSelected}
     >
-      <span className={badgeClass}>{letters[index]}</span>
+      <span className={badgeClass}>{badgeLabel ?? letters[index]}</span>
       <span className="pt-0.5">{label}</span>
     </button>
   );

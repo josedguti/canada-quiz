@@ -6,12 +6,19 @@ export type Topic =
   | "economy"
   | "symbols";
 
+export type QuestionType =
+  | "multiple-choice"
+  | "true-false"
+  | "fill-in-the-blank";
+
 export interface Question {
   id: string;
+  type: QuestionType;
   question: string;
   options: string[];
   correctIndex: number;
   explanation: string;
+  studyGuidePage: number;
   topic: Topic;
 }
 
